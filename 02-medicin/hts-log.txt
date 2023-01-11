@@ -1,0 +1,255 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 16 Dec 2022 13:08:04 at https://demo.leebrosus.com/melawell/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://demo.leebrosus.com/melawell/ -O1 "D:\02-medicin" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:08:05	Error: 	"Internal Server Error" (500) after 2 retries at link https://demo.leebrosus.com/robots.txt (from primary/primary)
+13:10:36	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/home-1/
+13:10:36	Warning: 	File has moved from https://demo.leebrosus.com/melawell/home-1/ to https://demo.leebrosus.com/melawell/
+13:13:51	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/?page_id=3 (from https://demo.leebrosus.com/melawell/)
+13:13:57	Warning: 	Found for https://demo.leebrosus.com/melawell/checkout/
+13:13:57	Warning: 	File has moved from https://demo.leebrosus.com/melawell/checkout/ to https://demo.leebrosus.com/melawell/cart/
+13:13:57	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=1439
+13:13:57	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=1439 to https://demo.leebrosus.com/melawell/order-tracking/
+13:15:03	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=10
+13:15:03	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=10 to https://demo.leebrosus.com/melawell/my-account/
+13:16:38	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=3356
+13:16:38	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=3356 to https://demo.leebrosus.com/melawell/home-4/
+13:17:50	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=2909
+13:17:50	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=2909 to https://demo.leebrosus.com/melawell/home-3/
+13:17:50	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=3364
+13:17:50	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=3364 to https://demo.leebrosus.com/melawell/home-5/
+13:17:50	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=937
+13:17:50	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=937 to https://demo.leebrosus.com/melawell/about/
+13:17:51	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=78
+13:17:51	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=78 to https://demo.leebrosus.com/melawell/product/walgreens-fiber-select-supplement-gummies-strawberry/
+13:18:03	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=163
+13:18:03	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=163 to https://demo.leebrosus.com/melawell/product/natures-bounty-optimal-solutions-womens-multi-50-mg-gummies-copy-2/
+13:18:14	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=23
+13:18:14	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=23 to https://demo.leebrosus.com/melawell/product/finest-nutrition-cinnamon-1000mg-capsules/
+13:18:28	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=44
+13:18:28	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=44 to https://demo.leebrosus.com/melawell/product/prilosec-otc-frequent-heartburn-medicine-acid-reflux-reducer-tablets-omeprazole-ppi/
+13:18:28	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=153
+13:18:28	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=153 to https://demo.leebrosus.com/melawell/product/preservision-eye-vitamin-and-mineral-supplement-soft-gels-copy/
+13:18:40	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=1567
+13:18:40	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=1567 to https://demo.leebrosus.com/melawell/our-team/
+13:18:40	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=857
+13:18:40	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=857 to https://demo.leebrosus.com/melawell/contact/
+13:18:40	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=657
+13:18:40	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=657 to https://demo.leebrosus.com/melawell/faqs/
+13:18:40	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=844
+13:18:40	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=844 to https://demo.leebrosus.com/melawell/terms-of-use/
+13:18:40	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=387
+13:18:40	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=387 to https://demo.leebrosus.com/melawell/icons/
+13:19:59	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=377
+13:19:59	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=377 to https://demo.leebrosus.com/melawell/2022/04/17/can-breakfast-help-keep-us-thin-nutrition-science-is-tricky-3/
+13:19:59	Error: 	"Method Not Allowed" (405) at link https://demo.leebrosus.com/melawell/xmlrpc.php (from https://demo.leebrosus.com/melawell/2022/04/17/can-breakfast-help-keep-us-thin-nutrition-science-is-tricky-3/)
+13:20:20	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=12
+13:20:20	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=12 to https://demo.leebrosus.com/melawell/wishlist/
+13:20:21	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=8
+13:20:21	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=8 to https://demo.leebrosus.com/melawell/cart/
+13:20:21	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=156
+13:20:21	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=156 to https://demo.leebrosus.com/melawell/product/nature-made-lutein-20-mg-dietary-supplement-liquid-softgels-copy/
+13:20:29	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=18
+13:20:29	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=18 to https://demo.leebrosus.com/melawell/product/nature-made-vitamin-d3-2000-iu/
+13:20:43	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=162
+13:20:43	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=162 to https://demo.leebrosus.com/melawell/product/optisource-post-bariatric-surgery-formula-chewable-vitamin-mineral-supplement-tablet-copy/
+13:20:51	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=161
+13:20:51	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=161 to https://demo.leebrosus.com/melawell/product/centrum-men-complete-multivitamin-multimineral-supplement-tablet-copy/
+13:20:51	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=160
+13:20:51	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=160 to https://demo.leebrosus.com/melawell/product/nature-made-lutein-20-mg-dietary-supplement-liquid-softgels-copy-2/
+13:21:06	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=1035
+13:21:06	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=1035 to https://demo.leebrosus.com/melawell/home-2/
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/assets/images/bg-map.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/elementor.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/assets/images/wbg-map.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/elementor.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/unknown.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/visa.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/mastercard.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/laser.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/diners.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/maestro.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/jcb.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/amex.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:21:34	Error: 	"Not Found" (404) at link https://demo.leebrosus.com/melawell/wp-content/themes/assets/images/credit-cards/discover.svg (from https://demo.leebrosus.com/melawell/wp-content/themes/melawell/assets/css/woocommerce.css?ver=1.5.0)
+13:23:21	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/shop/page/1/
+13:23:21	Warning: 	File has moved from https://demo.leebrosus.com/melawell/shop/page/1/ to https://demo.leebrosus.com/melawell/shop/
+13:24:32	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/medicines/page/1/
+13:24:32	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/medicines/page/1/ to https://demo.leebrosus.com/melawell/product-category/medicines/
+13:25:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/
+13:25:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/ to https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/
+13:28:05	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=159
+13:28:05	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=159 to https://demo.leebrosus.com/melawell/product/lil-critters-gummy-vites-complete-kids-gummy-vitamins-copy/
+13:28:07	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=158
+13:28:07	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=158 to https://demo.leebrosus.com/melawell/product/natures-bounty-optimal-solutions-womens-multi-50-mg-gummies-copy/
+13:28:10	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=157
+13:28:10	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=157 to https://demo.leebrosus.com/melawell/product/centrum-silver-women-complete-multivitamin-multimineral-supplement-tablet-age-50-plus-copy/
+13:28:10	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=155
+13:28:10	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=155 to https://demo.leebrosus.com/melawell/product/walgreens-stool-softener-100-mg-softgels-copy/
+13:28:19	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=154
+13:28:19	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=154 to https://demo.leebrosus.com/melawell/product/walgreens-omeprazole-acid-reducer-delayed-release-tablets-copy/
+13:28:19	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=152
+13:28:19	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=152 to https://demo.leebrosus.com/melawell/product/ocuvite-vitamin-and-mineral-supplement-with-lutein-tablets-2/
+13:28:19	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=42
+13:28:19	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=42 to https://demo.leebrosus.com/melawell/product/imodium-a-d-anti-diarrheal-caplets/
+13:28:25	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=80
+13:28:25	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=80 to https://demo.leebrosus.com/melawell/product/walgreens-stool-softener-100-mg-softgels/
+13:28:30	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=88
+13:28:30	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=88 to https://demo.leebrosus.com/melawell/product/walgreens-one-daily-multivitamin-with-iron-tablets/
+13:28:34	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=86
+13:28:34	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=86 to https://demo.leebrosus.com/melawell/product/natures-bounty-optimal-solutions-womens-multi-50-mg-gummies/
+13:28:35	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=25
+13:28:35	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=25 to https://demo.leebrosus.com/melawell/product/natures-bounty-odor-free-garlic-2000mg-tablets/
+13:28:35	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=15
+13:28:35	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=15 to https://demo.leebrosus.com/melawell/product/nature-made-vitamin-a-8000-iu-liquid-softgels/
+13:28:35	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=16
+13:28:35	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=16 to https://demo.leebrosus.com/melawell/product/nature-made-vitamin-c-adult-gummies-tangerine/
+13:28:41	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=92
+13:28:41	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=92 to https://demo.leebrosus.com/melawell/product/ocuvite-vitamin-and-mineral-supplement-with-lutein-tablets/
+13:28:44	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=90
+13:28:44	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=90 to https://demo.leebrosus.com/melawell/product/natures-bounty-lutein-40-mg-dietary-supplement-softgels/
+13:28:44	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=376
+13:28:44	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=376 to https://demo.leebrosus.com/melawell/2022/04/17/new-report-abortions-in-us-drop-to-lowest-level-since-1974-3/
+13:28:47	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=375
+13:28:47	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=375 to https://demo.leebrosus.com/melawell/2022/04/17/fitness-blogger-says-weight-gain-led-to-happier-and-healthier-life-3/
+13:28:50	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=374
+13:28:50	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=374 to https://demo.leebrosus.com/melawell/2022/04/17/hormone-dramatically-increases-insulin-production-possible-diabetes-breakthrough-3/
+13:28:53	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=373
+13:28:53	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=373 to https://demo.leebrosus.com/melawell/2022/04/17/new-technique-could-enable-safer-production-of-polio-vaccines-3/
+13:28:56	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=372
+13:28:56	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=372 to https://demo.leebrosus.com/melawell/2022/04/17/clean-indoor-air-as-important-as-meds-in-controlling-asthma-3/
+13:28:57	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=371
+13:28:57	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=371 to https://demo.leebrosus.com/melawell/2022/04/17/biosimilars-create-opportunities-for-sustainable-cancer-care-3/
+13:28:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=370
+13:28:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=370 to https://demo.leebrosus.com/melawell/2022/04/17/researchers-identify-mechanism-of-oncogene-action-in-lung-cancer-3/
+13:28:59	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=369
+13:28:59	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=369 to https://demo.leebrosus.com/melawell/2022/04/17/fast-food-choices-influence-kids-soda-and-calorie-consumption-3/
+13:29:01	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=368
+13:29:01	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=368 to https://demo.leebrosus.com/melawell/2022/04/17/more-than-half-of-older-americans-skip-dental-checkups-3/
+13:30:55	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=367
+13:30:55	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=367 to https://demo.leebrosus.com/melawell/2022/04/17/can-breakfast-help-keep-us-thin-nutrition-science-is-tricky-2/
+13:30:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=95
+13:30:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=95 to https://demo.leebrosus.com/melawell/product/walgreens-eye-health-for-adults-50-softgels/
+13:30:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=17
+13:30:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=17 to https://demo.leebrosus.com/melawell/product/nature-made-vitamin-d3-1000-iu-dietary-supplement-liquid-softgels/
+13:30:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=21
+13:30:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=21 to https://demo.leebrosus.com/melawell/product/walgreens-vitamin-e-400-iu-softgels/
+13:30:58	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=20
+13:30:58	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=20 to https://demo.leebrosus.com/melawell/product/natures-bounty-ultra-strength-biotin-10000mcg-softgels/
+13:31:03	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=83
+13:31:03	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=83 to https://demo.leebrosus.com/melawell/product/centrum-silver-women-age-50-complete-multivitamin-multimineral-supplement-tablet/
+13:31:09	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=89
+13:31:09	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=89 to https://demo.leebrosus.com/melawell/product/nature-made-lutein-20-mg-dietary-supplement-liquid-softgels/
+13:31:31	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=27
+13:31:31	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=27 to https://demo.leebrosus.com/melawell/product/abreva-cold-sore-fever-blister-treatment-cream/
+13:31:31	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=22
+13:31:31	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=22 to https://demo.leebrosus.com/melawell/product/botanic-choice-aloe-vera-500-mg-herbal-supplement-capsules/
+13:31:41	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=28
+13:31:41	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=28 to https://demo.leebrosus.com/melawell/product/carmex-moisturizing-lip-balm-stick-spf-15-cherry/
+13:31:42	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=82
+13:31:42	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=82 to https://demo.leebrosus.com/melawell/product/centrum-men-complete-multivitamin-multimineral-supplement-tablet/
+13:31:43	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=84
+13:31:43	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=84 to https://demo.leebrosus.com/melawell/product/centrum-silver-women-complete-multivitamin-multimineral-supplement-tablet-age-50-plus/
+13:31:44	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=35
+13:31:44	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=35 to https://demo.leebrosus.com/melawell/product/claritin-childrens-24-hour-allergy-relief-chewable-tablets-grape/
+13:31:44	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=29
+13:31:44	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=29 to https://demo.leebrosus.com/melawell/product/fishermans-friend-extra-strong-menthol-cough-suppressant-lozenges-original/
+13:31:45	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=36
+13:31:45	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=36 to https://demo.leebrosus.com/melawell/product/flonase-allergy-relief-spray-120-metered-sprays/
+13:31:46	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=30
+13:31:46	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=30 to https://demo.leebrosus.com/melawell/product/halls-sugar-free-mentho-lyptus-cough-suppressant-drops-honey-lemon/
+13:31:47	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=85
+13:31:47	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=85 to https://demo.leebrosus.com/melawell/product/lil-critters-gummy-vites-complete-kids-gummy-vitamins/
+13:32:19	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/shop/page/1/?layout=list
+13:32:19	Warning: 	File has moved from https://demo.leebrosus.com/melawell/shop/page/1/?layout=list to https://demo.leebrosus.com/melawell/shop/?layout=list
+13:33:13	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/shop/page/1/?layout=grid
+13:33:13	Warning: 	File has moved from https://demo.leebrosus.com/melawell/shop/page/1/?layout=grid to https://demo.leebrosus.com/melawell/shop/?layout=grid
+13:33:19	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=31
+13:33:19	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=31 to https://demo.leebrosus.com/melawell/product/little-noses-decongestant-nose-drops-gentle-1-8-formula/
+13:33:20	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=43
+13:33:20	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=43 to https://demo.leebrosus.com/melawell/product/metamucil-multi-health-psyllium-fiber-supplement-sugar-free-powder-berry/
+13:33:21	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=32
+13:33:21	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=32 to https://demo.leebrosus.com/melawell/product/mucinex-maximum-strength-12-hour-expectorant-extended-release-bi-layer-tablets-1200-mg/
+13:33:23	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=33
+13:33:23	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=33 to https://demo.leebrosus.com/melawell/product/navage-saline-nasal-irrigation-starter-kit/
+13:33:23	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=37
+13:33:23	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=37 to https://demo.leebrosus.com/melawell/product/primatene-mist-epinephrine-inhalation-aerosol-160-metered-sprays/
+13:33:24	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=38
+13:33:24	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=38 to https://demo.leebrosus.com/melawell/product/simply-saline-sterile-saline-nasal-mist/
+13:33:24	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=34
+13:33:24	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=34 to https://demo.leebrosus.com/melawell/product/vicks-vaporub-cough-suppressant-topical-analgesic-ointment-original/
+13:33:25	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=39
+13:33:25	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=39 to https://demo.leebrosus.com/melawell/product/visine-totality-multi-symptom-relief-eye-drops/
+13:33:42	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/medicines/page/1/?layout=list
+13:33:42	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/medicines/page/1/?layout=list to https://demo.leebrosus.com/melawell/product-category/medicines/?layout=list
+13:33:42	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/medicines/page/1/?layout=grid
+13:33:42	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/medicines/page/1/?layout=grid to https://demo.leebrosus.com/melawell/product-category/medicines/?layout=grid
+13:33:44	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=91
+13:33:44	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=91 to https://demo.leebrosus.com/melawell/product/ocuvite-eye-health-adult-50/
+13:33:46	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=93
+13:33:46	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=93 to https://demo.leebrosus.com/melawell/product/preservision-areds-2-formula-eye-vitamin-mineral-supplement-softgels/
+13:33:47	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=94
+13:33:47	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=94 to https://demo.leebrosus.com/melawell/product/preservision-eye-vitamin-and-mineral-supplement-soft-gels/
+13:33:53	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=19
+13:33:53	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=19 to https://demo.leebrosus.com/melawell/product/nature-made-vitamin-k2-100-mcg-softgels/
+13:33:53	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=24
+13:33:53	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=24 to https://demo.leebrosus.com/melawell/product/natures-bounty-cranberry-4200-mg-plus-vitamin-c-dietary-supplement-softgels/
+13:34:11	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/?layout=list
+13:34:11	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/?layout=list to https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/?layout=list
+13:34:13	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/?layout=grid
+13:34:13	Warning: 	File has moved from https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/page/1/?layout=grid to https://demo.leebrosus.com/melawell/product-category/vitamin-supplements/?layout=grid
+13:36:56	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=81
+13:36:56	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=81 to https://demo.leebrosus.com/melawell/product/walgreens-stool-softener-softgels/
+13:36:56	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=79
+13:36:56	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=79 to https://demo.leebrosus.com/melawell/product/walgreens-omeprazole-acid-reducer-delayed-release-tablets/
+13:37:45	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=366
+13:37:45	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=366 to https://demo.leebrosus.com/melawell/2022/04/17/new-report-abortions-in-us-drop-to-lowest-level-since-1974-2/
+13:37:47	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=365
+13:37:47	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=365 to https://demo.leebrosus.com/melawell/2022/04/17/fitness-blogger-says-weight-gain-led-to-happier-and-healthier-life-2/
+13:37:48	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=364
+13:37:48	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=364 to https://demo.leebrosus.com/melawell/2022/04/17/hormone-dramatically-increases-insulin-production-possible-diabetes-breakthrough-2/
+13:37:49	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=363
+13:37:49	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=363 to https://demo.leebrosus.com/melawell/2022/04/17/new-technique-could-enable-safer-production-of-polio-vaccines-2/
+13:37:50	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=362
+13:37:50	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=362 to https://demo.leebrosus.com/melawell/2022/04/17/clean-indoor-air-as-important-as-meds-in-controlling-asthma-2/
+13:37:52	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=361
+13:37:52	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=361 to https://demo.leebrosus.com/melawell/2022/04/17/biosimilars-create-opportunities-for-sustainable-cancer-care-2/
+13:37:53	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=360
+13:37:53	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=360 to https://demo.leebrosus.com/melawell/2022/04/17/researchers-identify-mechanism-of-oncogene-action-in-lung-cancer-2/
+13:37:54	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=359
+13:37:54	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=359 to https://demo.leebrosus.com/melawell/2022/04/17/fast-food-choices-influence-kids-soda-and-calorie-consumption-2/
+13:37:55	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=358
+13:37:55	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=358 to https://demo.leebrosus.com/melawell/2022/04/17/more-than-half-of-older-americans-skip-dental-checkups-2/
+13:37:56	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=357
+13:37:56	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=357 to https://demo.leebrosus.com/melawell/2022/04/17/can-breakfast-help-keep-us-thin-nutrition-science-is-tricky/
+13:37:57	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=356
+13:37:57	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=356 to https://demo.leebrosus.com/melawell/2022/04/17/new-report-abortions-in-us-drop-to-lowest-level-since-1974/
+13:37:59	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=355
+13:37:59	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=355 to https://demo.leebrosus.com/melawell/2022/04/17/fitness-blogger-says-weight-gain-led-to-happier-and-healthier-life/
+13:38:00	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=354
+13:38:00	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=354 to https://demo.leebrosus.com/melawell/2022/04/17/hormone-dramatically-increases-insulin-production-possible-diabetes-breakthrough/
+13:38:02	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=353
+13:38:02	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=353 to https://demo.leebrosus.com/melawell/2022/04/17/new-technique-could-enable-safer-production-of-polio-vaccines/
+13:38:03	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=352
+13:38:03	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=352 to https://demo.leebrosus.com/melawell/2022/04/17/clean-indoor-air-as-important-as-meds-in-controlling-asthma/
+13:38:04	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=351
+13:38:04	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=351 to https://demo.leebrosus.com/melawell/2022/04/17/biosimilars-create-opportunities-for-sustainable-cancer-care/
+13:38:05	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=350
+13:38:05	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=350 to https://demo.leebrosus.com/melawell/2022/04/17/researchers-identify-mechanism-of-oncogene-action-in-lung-cancer/
+13:38:06	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=349
+13:38:06	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=349 to https://demo.leebrosus.com/melawell/2022/04/17/fast-food-choices-influence-kids-soda-and-calorie-consumption/
+13:38:07	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=348
+13:38:07	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=348 to https://demo.leebrosus.com/melawell/2022/04/17/more-than-half-of-older-americans-skip-dental-checkups/
+13:38:22	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=87
+13:38:22	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=87 to https://demo.leebrosus.com/melawell/product/optisource-post-bariatric-surgery-formula-chewable-vitamin-mineral-supplement-tablet/
+13:38:25	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=40
+13:38:25	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=40 to https://demo.leebrosus.com/melawell/product/zaditor-antihistamine-eye-drops/
+13:38:26	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=41
+13:38:26	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=41 to https://demo.leebrosus.com/melawell/product/zyrtec-24-hour-allergy-relief-tablets-with-10-mg-cetirizine-hcl/
+13:38:27	Warning: 	Moved Permanently for https://demo.leebrosus.com/melawell/?p=26
+13:38:27	Warning: 	File has moved from https://demo.leebrosus.com/melawell/?p=26 to https://demo.leebrosus.com/melawell/product/natures-truth-turmeric-curcumin-complex-500mg-plus-black-pepper-extract/
+
+HTTrack Website Copier/3.49-2 mirror complete in 31 minutes 48 seconds : 2139 links scanned, 2010 files written (257310876 bytes overall) [47864364 bytes received at 25086 bytes/sec], 249866368 bytes transferred using HTTP compression in 1596 files, ratio 14%, 11.5 requests per connection
+(14 errors, 230 warnings, 0 messages)

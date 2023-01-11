@@ -1,0 +1,228 @@
+HTTrack3.49-2+htsswf+htsjava launched on Tue, 13 Dec 2022 17:50:40 at http://petro.themegum.com/elementor/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://petro.themegum.com/elementor/ -O1 "D:\petro.themegum.com" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+17:53:06	Error: 	"Method Not Allowed" (405) at link petro.themegum.com/elementor/xmlrpc.php (from petro.themegum.com/elementor/)
+17:58:53	Warning: 	Found for petro.themegum.com/elementor/shop/checkout/
+17:58:53	Warning: 	File has moved from petro.themegum.com/elementor/shop/checkout/ to http://petro.themegum.com/elementor/shop/cart/
+18:00:03	Error: 	"Not Found" (404) at link petro.themegum.com/elementor/wp-content/plugins/petro-elementor-addon/css/owl.video.play.png (from petro.themegum.com/elementor/wp-content/plugins/petro-elementor-addon/css/owl.carousel.css?ver=5.4.1)
+18:00:04	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2061
+18:00:04	Warning: 	File has moved from petro.themegum.com/elementor/?p=2061 to http://petro.themegum.com/elementor/homepage-2/
+18:00:04	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2154
+18:00:04	Warning: 	File has moved from petro.themegum.com/elementor/?p=2154 to http://petro.themegum.com/elementor/homepage-3/
+18:00:04	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3128
+18:00:04	Warning: 	File has moved from petro.themegum.com/elementor/?p=3128 to http://petro.themegum.com/elementor/homepage-4/
+18:00:04	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3142
+18:00:04	Warning: 	File has moved from petro.themegum.com/elementor/?p=3142 to http://petro.themegum.com/elementor/homepage-5/
+18:00:04	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3148
+18:00:04	Warning: 	File has moved from petro.themegum.com/elementor/?p=3148 to http://petro.themegum.com/elementor/homepage-6/
+18:00:05	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3173
+18:00:05	Warning: 	File has moved from petro.themegum.com/elementor/?p=3173 to http://petro.themegum.com/elementor/homepage-7/
+18:00:05	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3209
+18:00:05	Warning: 	File has moved from petro.themegum.com/elementor/?p=3209 to http://petro.themegum.com/elementor/homepage-8/
+18:00:05	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3222
+18:00:05	Warning: 	File has moved from petro.themegum.com/elementor/?p=3222 to http://petro.themegum.com/elementor/homepage-9/
+18:00:05	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3233
+18:00:05	Warning: 	File has moved from petro.themegum.com/elementor/?p=3233 to http://petro.themegum.com/elementor/homepage-10/
+18:00:05	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3969
+18:00:05	Warning: 	File has moved from petro.themegum.com/elementor/?p=3969 to http://petro.themegum.com/elementor/header-variations/
+18:00:29	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1965
+18:00:29	Warning: 	File has moved from petro.themegum.com/elementor/?p=1965 to http://petro.themegum.com/elementor/our-team/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1983
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=1983 to http://petro.themegum.com/elementor/our-team/our-company/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2013
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2013 to http://petro.themegum.com/elementor/our-team/company-history/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2030
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2030 to http://petro.themegum.com/elementor/our-team/our-partners/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3051
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=3051 to http://petro.themegum.com/elementor/contact-us/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1944
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=1944 to http://petro.themegum.com/elementor/services-1/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2102
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2102 to http://petro.themegum.com/elementor/service-2-2/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1810
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=1810 to http://petro.themegum.com/elementor/petro-service/agricultural-processing/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1807
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=1807 to http://petro.themegum.com/elementor/petro-service/mechanical-engineering/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2135
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2135 to http://petro.themegum.com/elementor/projects/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2150
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2150 to http://petro.themegum.com/elementor/project-4-columns/
+18:00:33	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2138
+18:00:33	Warning: 	File has moved from petro.themegum.com/elementor/?p=2138 to http://petro.themegum.com/elementor/project/industrial-complex/
+18:01:01	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1891
+18:01:01	Warning: 	File has moved from petro.themegum.com/elementor/?p=1891 to http://petro.themegum.com/elementor/2017/06/14/suspendisse-vel-egestas-arcu-pellentesque-habitant-morbi-tristique-senectus-et-netus-et-malesuada-fames-ac-turpis-egestas/
+18:01:13	Error: 	"Service Temporarily Unavailable" (503) at link petro.themegum.com/elementor/tg_postcat/eco/ (from petro.themegum.com/elementor/?s=in)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/page/2/?s=in (from petro.themegum.com/elementor/?s=in)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/page/3/?s=in (from petro.themegum.com/elementor/?s=in)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/search/asdasd/feed/rss2/ (from petro.themegum.com/elementor/?s=asdasd)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3890 (from petro.themegum.com/elementor/elements/testimonial-demo/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ftestimonial-demo%2F (from petro.themegum.com/elementor/elements/testimonial-demo/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ftestimonial-demo%2F&format=xml (from petro.themegum.com/elementor/elements/testimonial-demo/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=1906 (from petro.themegum.com/elementor/elements/pricing-table/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fpricing-table%2F (from petro.themegum.com/elementor/elements/pricing-table/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fpricing-table%2F&format=xml (from petro.themegum.com/elementor/elements/pricing-table/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=1916 (from petro.themegum.com/elementor/elements/button/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fbutton%2F (from petro.themegum.com/elementor/elements/button/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fbutton%2F&format=xml (from petro.themegum.com/elementor/elements/button/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=1953 (from petro.themegum.com/elementor/elements/responsive-tabs/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fresponsive-tabs%2F (from petro.themegum.com/elementor/elements/responsive-tabs/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fresponsive-tabs%2F&format=xml (from petro.themegum.com/elementor/elements/responsive-tabs/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=1988 (from petro.themegum.com/elementor/elements/custom-team/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fcustom-team%2F (from petro.themegum.com/elementor/elements/custom-team/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fcustom-team%2F&format=xml (from petro.themegum.com/elementor/elements/custom-team/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=2109 (from petro.themegum.com/elementor/elements/timeline/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ftimeline%2F (from petro.themegum.com/elementor/elements/timeline/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ftimeline%2F&format=xml (from petro.themegum.com/elementor/elements/timeline/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=2175 (from petro.themegum.com/elementor/elements/unordered-list/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Funordered-list%2F (from petro.themegum.com/elementor/elements/unordered-list/)
+18:01:13	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Funordered-list%2F&format=xml (from petro.themegum.com/elementor/elements/unordered-list/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=2204 (from petro.themegum.com/elementor/elements/icon-boxes/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ficon-boxes%2F (from petro.themegum.com/elementor/elements/icon-boxes/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Ficon-boxes%2F&format=xml (from petro.themegum.com/elementor/elements/icon-boxes/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3515 (from petro.themegum.com/elementor/elements/glyph-icon/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fglyph-icon%2F (from petro.themegum.com/elementor/elements/glyph-icon/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Felements%2Fglyph-icon%2F&format=xml (from petro.themegum.com/elementor/elements/glyph-icon/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3559 (from petro.themegum.com/elementor/404-1/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F (from petro.themegum.com/elementor/404-1/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F&format=xml (from petro.themegum.com/elementor/404-1/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3526 (from petro.themegum.com/elementor/404-1/404-2/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-2%2F (from petro.themegum.com/elementor/404-1/404-2/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-2%2F&format=xml (from petro.themegum.com/elementor/404-1/404-2/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3542 (from petro.themegum.com/elementor/404-1/404-3/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-3%2F (from petro.themegum.com/elementor/404-1/404-3/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-3%2F&format=xml (from petro.themegum.com/elementor/404-1/404-3/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3551 (from petro.themegum.com/elementor/404-1/404-4/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-4%2F (from petro.themegum.com/elementor/404-1/404-4/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-4%2F&format=xml (from petro.themegum.com/elementor/404-1/404-4/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3555 (from petro.themegum.com/elementor/404-1/404-5/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-5%2F (from petro.themegum.com/elementor/404-1/404-5/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2F404-1%2F404-5%2F&format=xml (from petro.themegum.com/elementor/404-1/404-5/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/feed/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3452 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/claw-hammer/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3431 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/electric-drill/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/hand-saw/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3437 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/ladder/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/magnet/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3413 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3443 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/metal-nail/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3434 (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/padlock/ (from petro.themegum.com/elementor/shop/)
+18:01:14	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/shop/?add-to-cart=3407 (from petro.themegum.com/elementor/shop/)
+18:01:37	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3391
+18:01:37	Warning: 	File has moved from petro.themegum.com/elementor/?p=3391 to http://petro.themegum.com/elementor/shop/cart/
+18:01:40	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2174
+18:01:40	Warning: 	File has moved from petro.themegum.com/elementor/?p=2174 to http://petro.themegum.com/elementor/project/balongan-refinery/
+18:01:43	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2145
+18:01:43	Warning: 	File has moved from petro.themegum.com/elementor/?p=2145 to http://petro.themegum.com/elementor/project/offshore/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2144
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2144 to http://petro.themegum.com/elementor/project/wind-power/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2143
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2143 to http://petro.themegum.com/elementor/project/oil-pipeline/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2142
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2142 to http://petro.themegum.com/elementor/project/gear-manufacturing/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2141
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2141 to http://petro.themegum.com/elementor/project/iron-smelter/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2140
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2140 to http://petro.themegum.com/elementor/project/warehouse-industry/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=2139
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=2139 to http://petro.themegum.com/elementor/project/the-gas-company/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1819
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1819 to http://petro.themegum.com/elementor/petro-service/material-engineering/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1816
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1816 to http://petro.themegum.com/elementor/petro-service/chemical-research/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1814
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1814 to http://petro.themegum.com/elementor/petro-service/power-and-energy/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1812
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1812 to http://petro.themegum.com/elementor/petro-service/oils-and-lubricants/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1901
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1901 to http://petro.themegum.com/elementor/2017/06/14/best-in-dolor-sit-amet-consectetur-adipisicing/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1888
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1888 to http://petro.themegum.com/elementor/2017/06/14/cras-malesuada-elit-leo-id-ultrices-felis-porttitor-convallis/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1885
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1885 to http://petro.themegum.com/elementor/2017/06/14/proin-massa-sem-tempor-eu-lacus-ut-tempor-imperdiet-purus-cras-at-molestie-velit/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1882
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1882 to http://petro.themegum.com/elementor/2017/06/14/morbi-at-sodales-arcu-vitae-laoreet-urna-aenean-ac-justo-nibh/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1879
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1879 to http://petro.themegum.com/elementor/2017/06/14/duis-sed-quam-eget-massa-porta-blandit-quis-id-nibh-nam-ac-nulla-nunc/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=1876
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=1876 to http://petro.themegum.com/elementor/2017/06/14/the-best-in-dolor-sit-amet-consectetur-adipisicing-elit-sedos/
+18:01:44	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3452
+18:01:44	Warning: 	File has moved from petro.themegum.com/elementor/?p=3452 to http://petro.themegum.com/elementor/product/chainsaw/
+18:01:50	Warning: 	Moved Permanently for petro.themegum.com/elementor/?p=3443
+18:01:50	Warning: 	File has moved from petro.themegum.com/elementor/?p=3443 to http://petro.themegum.com/elementor/product/measuring-tape/
+18:02:06	Warning: 	Moved Permanently for petro.themegum.com/elementor/shop/page/1/
+18:02:06	Warning: 	File has moved from petro.themegum.com/elementor/shop/page/1/ to http://petro.themegum.com/elementor/shop/
+18:02:06	Error: 	"Service Temporarily Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/cutting/?add-to-cart=3414 (from petro.themegum.com/elementor/product-category/tools/cutting/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/drill/feed/ (from petro.themegum.com/elementor/product-category/tools/drill/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/drill/?add-to-cart=3408 (from petro.themegum.com/elementor/product-category/tools/drill/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/drill/?add-to-cart=3411 (from petro.themegum.com/elementor/product-category/tools/drill/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/drill/?add-to-cart=3412 (from petro.themegum.com/elementor/product-category/tools/drill/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/feed/ (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/?add-to-cart=3431 (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/?add-to-cart=3437 (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/?add-to-cart=3443 (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/?add-to-cart=3434 (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/posters/?add-to-cart=3440 (from petro.themegum.com/elementor/product-category/posters/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/feed/ (from petro.themegum.com/elementor/product-category/tools/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3452 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3413 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:06	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3407 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3422 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3414 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3408 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3411 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product-category/tools/?add-to-cart=3412 (from petro.themegum.com/elementor/product-category/tools/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3440 (from petro.themegum.com/elementor/product/toolbox/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Ftoolbox%2F&format=xml (from petro.themegum.com/elementor/product/toolbox/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/toolbox/?add-to-cart=3431 (from petro.themegum.com/elementor/product/toolbox/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/toolbox/?add-to-cart=3443 (from petro.themegum.com/elementor/product/toolbox/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/toolbox/?add-to-cart=3437 (from petro.themegum.com/elementor/product/toolbox/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3412 (from petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3413)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3411 (from petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3413)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3414 (from petro.themegum.com/elementor/product/screwdriver/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fscrewdriver%2F (from petro.themegum.com/elementor/product/screwdriver/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fscrewdriver%2F&format=xml (from petro.themegum.com/elementor/product/screwdriver/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/screwdriver/?add-to-cart=3413 (from petro.themegum.com/elementor/product/screwdriver/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3422 (from petro.themegum.com/elementor/product/plier/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fplier%2F (from petro.themegum.com/elementor/product/plier/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fplier%2F&format=xml (from petro.themegum.com/elementor/product/plier/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/plier/?add-to-cart=3411 (from petro.themegum.com/elementor/product/plier/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3407 (from petro.themegum.com/elementor/product/chainsaw/?add-to-cart=3422)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/measuring-tape/?add-to-cart=3440 (from petro.themegum.com/elementor/product/measuring-tape/?add-to-cart=3434)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/shovel/feed/ (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3408 (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fshovel%2F (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fshovel%2F&format=xml (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/shovel/?add-to-cart=3422 (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/shovel/?add-to-cart=3412 (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/shovel/?add-to-cart=3414 (from petro.themegum.com/elementor/product/shovel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3419 (from petro.themegum.com/elementor/product/spanner/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fspanner%2F (from petro.themegum.com/elementor/product/spanner/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fspanner%2F&format=xml (from petro.themegum.com/elementor/product/spanner/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/spanner/?add-to-cart=3422 (from petro.themegum.com/elementor/product/spanner/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/spanner/?add-to-cart=3414 (from petro.themegum.com/elementor/product/spanner/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/trowel/feed/ (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3411 (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Ftrowel%2F (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Ftrowel%2F&format=xml (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/trowel/?add-to-cart=3414 (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/trowel/?add-to-cart=3407 (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/trowel/?add-to-cart=3413 (from petro.themegum.com/elementor/product/trowel/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/?p=3412 (from petro.themegum.com/elementor/product/wrench/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fwrench%2F (from petro.themegum.com/elementor/product/wrench/)
+18:02:07	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fpetro.themegum.com%2Felementor%2Fproduct%2Fwrench%2F&format=xml (from petro.themegum.com/elementor/product/wrench/)
+18:02:08	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/wrench/?add-to-cart=3413 (from petro.themegum.com/elementor/product/wrench/)
+18:02:08	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/wrench/?add-to-cart=3452 (from petro.themegum.com/elementor/product/wrench/)
+18:02:08	Error: 	"Service Unavailable" (503) at link petro.themegum.com/elementor/product/wrench/?add-to-cart=3408 (from petro.themegum.com/elementor/product/wrench/)
+
+HTTrack Website Copier/3.49-2 mirror complete in 11 minutes 28 seconds : 705 links scanned, 533 files written (23510164 bytes overall) [14575651 bytes received at 21185 bytes/sec], 14780780 bytes transferred using HTTP compression in 362 files, ratio 22%, 19.0 requests per connection
+(125 errors, 92 warnings, 0 messages)

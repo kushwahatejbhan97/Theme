@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+19:09:30	231/231	---M-Z	200	added ('OK')	text/plain	etag:%22c12fa9a2132ed41:0%22	http://www.acmh.org/robots.txt		(from )
+19:09:30	142/142	---M--	302	error ('Object%20moved')	text/html	date:Mon,%2007%20Nov%202022%2013:39:30%20GMT	http://www.acmh.org/	D:/www.acmh.org/www.acmh.org/index.html	(from )

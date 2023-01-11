@@ -1,0 +1,70 @@
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-Regular.eot');
+    src: local('../fonts/OpenSans-Regular'), local('../fonts/OpenSans-Regular'), 
+         url('../fonts/OpenSans-Regular-1.eot') format('embedded-opentype'),
+         url('../fonts/OpenSans-Regular.woff') format('woff'),
+         url('../fonts/OpenSans-Regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-Italic.eot');
+    src: local('../fonts/OpenSans-Italic'), local('../fonts/OpenSans-Italic'), 
+         url('../fonts/OpenSans-Italic-1.eot') format('embedded-opentype'),
+         url('../fonts/OpenSans-Italic.woff') format('woff'),
+         url('../fonts/OpenSans-Italic.ttf') format('truetype');
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-Semibold.eot');
+    src: local('../fonts/OpenSans-Semibold'), local('../fonts/OpenSans-Semibold'), 
+         url('../fonts/OpenSans-Semibold-1.eot') format('embedded-opentype'),
+         url('../fonts/OpenSans-Semibold.woff') format('woff'),
+         url('../fonts/OpenSans-Semibold.ttf') format('truetype');
+    font-weight: 600;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'OpenSans';
+    src: url('../fonts/OpenSans-Bold.eot');
+    src: local('../fonts/OpenSans-Bold'), local('../fonts/OpenSans-Bold'), 
+         url('../fonts/OpenSans-Bold-1.eot') format('embedded-opentype'),
+         url('../fonts/OpenSans-Bold.woff') format('woff'),
+         url('../fonts/OpenSans-Bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArchivoBlack';
+    src: url('../fonts/archivoblack-regular.eot');
+    src: local('../fonts/archivoblack-regular'), local('../fonts/archivoblack-regular'), 
+         url('../fonts/archivoblack-regular-1.eot') format('embedded-opentype'),
+         url('../fonts/archivoblack-regular.woff') format('woff'),
+         url('../fonts/archivoblack-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArchivoNarrow';
+    src: url('../fonts/archivonarrow-regular.eot');
+    src: local('../fonts/archivonarrow-regular'), local('../fonts/archivonarrow-regular'), 
+         url('../fonts/archivonarrow-regular-1.eot') format('embedded-opentype'),
+         url('../fonts/archivonarrow-regular.woff') format('woff'),
+         url('../fonts/archivonarrow-regular.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'ArchivoNarrow';
+    src: url('../fonts/archivonarrow-bold.eot');
+    src: local('../fonts/archivonarrow-bold'), local('../fonts/archivonarrow-bold'), 
+         url('../fonts/archivonarrow-bold-1.eot') format('embedded-opentype'),
+         url('../fonts/archivonarrow-bold.woff') format('woff'),
+         url('../fonts/archivonarrow-bold.ttf') format('truetype');
+    font-weight: 700;
+    font-style: normal;
+}

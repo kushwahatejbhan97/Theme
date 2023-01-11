@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+demo.leebrosus.com	TRUE	/melawell/	FALSE	1999999999	wp_woocommerce_session_887a0bb634162737dadd959e1d3cf3f6	t_b369f417a5741959fc97b589b9202e%7C%7C1671349026%7C%7C1671345426%7C%7Cc1915b2eaa7f636a4dcf865dce847976
+demo.leebrosus.com	TRUE	/melawell/	FALSE	1999999999	woocommerce_recently_viewed	37%7C38%7C34%7C39%7C91%7C93%7C94%7C19%7C24%7C81%7C79%7C87%7C40%7C41%7C26
+

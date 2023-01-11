@@ -1,0 +1,73 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * montserrat:
+ *   - http://typekit.com/eulas/00000000000000003b9b1338
+ *   - http://typekit.com/eulas/00000000000000003b9b1332
+ *   - http://typekit.com/eulas/00000000000000003b9b1339
+ *   - http://typekit.com/eulas/00000000000000003b9b133b
+ * whitman-display:
+ *   - http://typekit.com/eulas/00000000000000003b9ae929
+ *   - http://typekit.com/eulas/00000000000000003b9ae92a
+ *   - http://typekit.com/eulas/00000000000000003b9ae92b
+ *   - http://typekit.com/eulas/00000000000000003b9ae92c
+ *
+ * © 2009-2022 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2019-07-18 14:11:42 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"montserrat";
+src:url("af/2d988a/00000000000000003b9b1338/27/l") format("woff2"),url("af/2d988a/00000000000000003b9b1338/27/d") format("woff"),url("af/2d988a/00000000000000003b9b1338/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"montserrat";
+src:url("af/55bd21/00000000000000003b9b1332/27/l") format("woff2"),url("af/55bd21/00000000000000003b9b1332/27/d") format("woff"),url("af/55bd21/00000000000000003b9b1332/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:100;font-stretch:normal;
+}
+
+@font-face {
+font-family:"montserrat";
+src:url("af/67f609/00000000000000003b9b1339/27/l") format("woff2"),url("af/67f609/00000000000000003b9b1339/27/d") format("woff"),url("af/67f609/00000000000000003b9b1339/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"montserrat";
+src:url("af/7f7551/00000000000000003b9b133b/27/l") format("woff2"),url("af/7f7551/00000000000000003b9b133b/27/d") format("woff"),url("af/7f7551/00000000000000003b9b133b/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:600;font-stretch:normal;
+}
+
+@font-face {
+font-family:"whitman-display";
+src:url("af/ba6994/00000000000000003b9ae929/27/l") format("woff2"),url("af/ba6994/00000000000000003b9ae929/27/d") format("woff"),url("af/ba6994/00000000000000003b9ae929/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:500;font-stretch:normal;
+}
+
+@font-face {
+font-family:"whitman-display";
+src:url("af/be39ee/00000000000000003b9ae92a/27/l") format("woff2"),url("af/be39ee/00000000000000003b9ae92a/27/d") format("woff"),url("af/be39ee/00000000000000003b9ae92a/27/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"whitman-display";
+src:url("af/d8ddb9/00000000000000003b9ae92b/27/l") format("woff2"),url("af/d8ddb9/00000000000000003b9ae92b/27/d") format("woff"),url("af/d8ddb9/00000000000000003b9ae92b/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:400;font-stretch:normal;
+}
+
+@font-face {
+font-family:"whitman-display";
+src:url("af/c42298/00000000000000003b9ae92c/27/l") format("woff2"),url("af/c42298/00000000000000003b9ae92c/27/d") format("woff"),url("af/c42298/00000000000000003b9ae92c/27/a") format("opentype");
+font-display:auto;font-style:italic;font-weight:500;font-stretch:normal;
+}
+
+.tk-montserrat { font-family: "montserrat",sans-serif; }
+.tk-whitman-display { font-family: "whitman-display",serif; }

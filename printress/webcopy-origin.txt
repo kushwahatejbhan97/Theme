@@ -1,0 +1,796 @@
+Uri: https://codeskdhaka.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: D:\codeskdhaka.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/about.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\about.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/animate.min.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\animate.min.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/backToTop.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\backToTop.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/bootstrap.min.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/default.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\default.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/flaticon.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\flaticon.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/fontAwesome5Pro.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\fontAwesome5Pro.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/magnific-popup.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\magnific-popup.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/meanmenu.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\meanmenu.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/nice-select.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\nice-select.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/owl.carousel.min.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\owl.carousel.min.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/preloader.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\preloader.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/style.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\style.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/swiper-bundle.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\swiper-bundle.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/css/ui-range-slider.css
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\css\ui-range-slider.css
+Content Type: text/css
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/file/illustrator-guideline.txt
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\file\illustrator-guideline.txt
+Content Type: text/plain
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/file/indesign-guideline.txt
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\file\indesign-guideline.txt
+Content Type: text/plain
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/file/photoshop-guideline.txt
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\file\photoshop-guideline.txt
+Content Type: text/plain
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.eot
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.eot?
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.ttf
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.woff
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-brands-400.woff2
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-brands-400.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.eot
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.eot?
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.ttf
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.woff
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-duotone-900.woff2
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-duotone-900.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.eot
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.eot?
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.ttf
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.woff
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-light-300.woff2
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-light-300.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.eot
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.eot?
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.ttf
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.woff
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-regular-400.woff2
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-regular-400.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.eot
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.eot?
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.ttf
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.woff
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/fa-solid-900.woff2
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\fa-solid-900.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/flaticon.eot?c995a855ecd1811d29ab0c7a7e2de02b
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\flaticon.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/flaticon.svg?c995a855ecd1811d29ab0c7a7e2de02b
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\flaticon.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/flaticon.ttf?c995a855ecd1811d29ab0c7a7e2de02b
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\flaticon.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/flaticon.woff2?c995a855ecd1811d29ab0c7a7e2de02b
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\flaticon.woff2
+Content Type: font/woff2
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/fonts/flaticon.woff?c995a855ecd1811d29ab0c7a7e2de02b
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\fonts\flaticon.woff
+Content Type: application/font-woff
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-5.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-5.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-6.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-6.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-7.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-7.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-icon-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-icon-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/about-icon-3.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\about-icon-3.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/about/author.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\about\author.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/award/award-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\award\award-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/award/award-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\award\award-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/award/award-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\award\award-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/banner/banner-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\banner\banner-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/aboutme.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\aboutme.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-10.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-10.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-11.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-11.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-5.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-6.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-7.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-8.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-8.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-9.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-9.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-author-1.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-author-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-comment-1.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-comment-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-comment-2.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-comment-2.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-comment-3.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-comment-3.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-recent-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-recent-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-recent-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-recent-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-recent-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-recent-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/blog-recent-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\blog-recent-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-5.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-5.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-6.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-6.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-7.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-7.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-8.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-8.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/blog/insta-feed-9.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\blog\insta-feed-9.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-3.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-3.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-4.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-4.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-5.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-5.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-black-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-black-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-black-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-black-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-black-3.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-black-3.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-black-4.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-black-4.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/brand/brand-black-5.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\brand\brand-black-5.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-5.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-5.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-6.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-6.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-7.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-7.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-8.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-8.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-9.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-9.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/case/case-details-bg.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\case\case-details-bg.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/contact/contact-img.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\contact\contact-img.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/contact/img_01.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\contact\img_01.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/faq/faq-img.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\faq\faq-img.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/favicon.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\favicon.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/features/book-img.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\features\book-img.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/features/features.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\features\features.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/features/person-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\features\person-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/features/person-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\features\person-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/features/person-3.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\features\person-3.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/footer-logo.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\footer-logo.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/logo-black.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\logo-black.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/logo-white-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\logo-white-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/logo-white.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\logo-white.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/logo.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\logo.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/logo/preloader.svg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\logo\preloader.svg
+Content Type: image/svg+xml
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/design-guideline.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\design-guideline.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/download-design-guideline.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\download-design-guideline.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/service-details-bg-1.jpeg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\service-details-bg-1.jpeg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/service-details-bg-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\service-details-bg-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/services-01.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\services-01.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/services-02.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\services-02.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/services-03.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\services-03.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/services/services-img.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\services\services-img.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-01.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-01.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-02.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-02.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-03.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-03.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-04.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-04.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-05.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-05.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-06.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-06.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-07.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-07.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/team/team-08.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\team\team-08.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/testimonial/author-1.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\testimonial\author-1.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/testimonial/author-2.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\testimonial\author-2.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/testimonial/author-3.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\testimonial\author-3.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/testimonial/author-4.jpg
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\testimonial\author-4.jpg
+Content Type: image/jpeg
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/work/work-1.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\work\work-1.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/work/work-2.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\work\work-2.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/work/work-3.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\work\work-3.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/img/work/work-4.png
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\img\work\work-4.png
+Content Type: image/png
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/ajax-form.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\ajax-form.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/backToTop.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\backToTop.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/bootstrap.bundle.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/counterup.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\counterup.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/imagesloaded.pkgd.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\imagesloaded.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/isotope.pkgd.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\isotope.pkgd.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/jquery-ui-slider-range.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\jquery-ui-slider-range.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/magnific-popup.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\magnific-popup.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/main.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\main.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/meanmenu.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\meanmenu.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/nice-select.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\nice-select.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/owl.carousel.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\owl.carousel.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/parallax.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\parallax.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/swiper-bundle.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\swiper-bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/vendor/jquery-3.6.0.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\vendor\jquery-3.6.0.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/vendor/waypoints.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\vendor\waypoints.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/assets/js/wow.min.js
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\assets\js\wow.min.js
+Content Type: application/x-javascript
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/blog-2.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\blog-2.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/blog-3.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\blog-3.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/blog-details.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\blog-details.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/blog.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\blog.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/case-details.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\case-details.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/case.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\case.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/contact.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\contact.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/faq.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\faq.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/index-2.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\index-2.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/index-3.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\index-3.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/index.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\index.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/pricing.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\pricing.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/services-details.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\services-details.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/services.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\services.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/team-details.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\team-details.html
+Content Type: text/html
+
+Uri: https://codeskdhaka.com/html/printress-prv/printress/team.html
+File Name: D:\codeskdhaka.com\html\printress-prv\printress\team.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Handlee&family=Playfair+Display:ital,wght@0,400;0,500;0,600;0,700;0,800;1,400&family=Rubik:wght@400;500;600;700&display=swap
+File Name: D:\codeskdhaka.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/handlee/v14/-F6xfjBsISg9aMakDmo.ttf
+File Name: D:\codeskdhaka.com\s\handlee\v14\-F6xfjBsISg9aMakDmo.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFRD-vYSZviVYUb_rj3ij__anPXDTnCjmHKM4nYO7KN_qiTbtY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKd3vUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKdFvUDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKebukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKeiukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/playfairdisplay/v30/nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+File Name: D:\codeskdhaka.com\s\playfairdisplay\v30\nuFvD-vYSZviVYUb_rj3ij__anPXJzDwcbmjWBN2PKfFukDQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+File Name: D:\codeskdhaka.com\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-2Y-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+File Name: D:\codeskdhaka.com\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-4I-1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+File Name: D:\codeskdhaka.com\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-B4i1UA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/rubik/v21/iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+File Name: D:\codeskdhaka.com\s\rubik\v21\iJWZBXyIfDnIV5PNhY1KTN7Z-Yh-NYi1UA.ttf
+Content Type: font/ttf
+

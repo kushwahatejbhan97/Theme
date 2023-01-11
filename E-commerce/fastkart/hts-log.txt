@@ -1,0 +1,29 @@
+HTTrack3.49-2+htsswf+htsjava launched on Thu, 01 Dec 2022 11:16:20 at https://themes.pixelstrap.com/fastkart/front-end/shop-left-sidebar.html +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://themes.pixelstrap.com/fastkart/front-end/shop-left-sidebar.html -O1 "C:\My Web Sites\fastkart" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+11:18:54	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/demo-personal-portfolio.html (from https://themes.pixelstrap.com/fastkart/front-end/shop-left-sidebar.html)
+11:19:12	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product-left.html (from https://themes.pixelstrap.com/fastkart/front-end/shop-left-sidebar.html)
+11:19:12	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/assets/images/grocery/banner/11-bg.png (from https://themes.pixelstrap.com/fastkart/assets/css/style.css)
+11:19:12	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product-left.htm (from https://themes.pixelstrap.com/fastkart/front-end/product-left-thumbnail.html)
+11:19:12	Warning: 	Retry after error -4 (No data (connection closed)) at link https://themes.pixelstrap.com/fastkart/assets/images/veg-3/shape/background.png (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.facebook.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.goolge.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.twitter.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.instagram.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/www.pinterest.com (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/term_condition.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/careers.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/vegetables-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/spice-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/bags-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/bakery-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/grocery-demo.html (from https://themes.pixelstrap.com/fastkart/front-end/index-4.html)
+11:19:13	Error: 	"Not Found" (404) at link https://themes.pixelstrap.com/fastkart/front-end/product.left-sidebar.html (from https://themes.pixelstrap.com/fastkart/front-end/order-success.html)
+
+HTTrack Website Copier/3.49-2 mirror complete in 2 minutes 54 seconds : 529 links scanned, 510 files written (29614906 bytes overall) [21308334 bytes received at 122461 bytes/sec], 9216891 bytes transferred using HTTP compression in 50 files, ratio 7%, 9.2 requests per connection
+(17 errors, 1 warnings, 0 messages)

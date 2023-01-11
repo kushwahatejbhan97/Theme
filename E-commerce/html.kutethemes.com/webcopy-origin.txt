@@ -1,0 +1,4104 @@
+Uri: https://fonts.googleapis.com/css?family=Montserrat:300,400,700|Arimo:400,400i,700,700i|Merriweather:400,400italic|Open+Sans:400,400italic,600,600italic,700,700italic,300italic,300,800|Roboto:400,700,400italic,500,300italic,300|Roboto+Condensed:400,700|Lato:300,400,700|Libre+Baskerville|Dosis:400,700|Oswald:300,400,700|Raleway:400,100,900,700,300
+File Name: D:\html.kutethemes.com\css
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/arimo/v27/P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+File Name: D:\html.kutethemes.com\s\arimo\v27\P5sdzZCDf9_T_10c3i9MeUcyat4iJY-ERCrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v27/P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+File Name: D:\html.kutethemes.com\s\arimo\v27\P5sdzZCDf9_T_10c3i9MeUcyat4iJY9jQyrDfQM.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v27/P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+File Name: D:\html.kutethemes.com\s\arimo\v27\P5sfzZCDf9_T_3cV7NCUECyoxNk37cxcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/arimo/v27/P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+File Name: D:\html.kutethemes.com\s\arimo\v27\P5sfzZCDf9_T_3cV7NCUECyoxNk3CstcABrE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl2xMB.ttf
+File Name: D:\html.kutethemes.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJ0LQl2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/dosis/v27/HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+File Name: D:\html.kutethemes.com\s\dosis\v27\HhyJU5sn9vOmLxNkIwRSjTVNWLEJN7Ml2xMB.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh6UVSwiPHA.ttf
+File Name: D:\html.kutethemes.com\s\lato\v23\S6u9w4BMUTPHh6UVSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6u9w4BMUTPHh7USSwiPHA.ttf
+File Name: D:\html.kutethemes.com\s\lato\v23\S6u9w4BMUTPHh7USSwiPHA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/lato/v23/S6uyw4BMUTPHjx4wWw.ttf
+File Name: D:\html.kutethemes.com\s\lato\v23\S6uyw4BMUTPHjx4wWw.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/librebaskerville/v14/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+File Name: D:\html.kutethemes.com\s\librebaskerville\v14\kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxY.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+File Name: D:\html.kutethemes.com\s\merriweather\v30\u-440qyriQwlOrhSvowK_l5-fCZJ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/merriweather/v30/u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+File Name: D:\html.kutethemes.com\s\merriweather\v30\u-4m0qyriQwlOrhSvowK_l5-eRZOf-c.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+File Name: D:\html.kutethemes.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCs16Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+File Name: D:\html.kutethemes.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCtr6Hw5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/montserrat/v25/JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+File Name: D:\html.kutethemes.com\s\montserrat\v25\JTUHjIg1_i6t8kCHKm4532VJOt5-QNFgpCuM73w5aX8.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk5hkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0Rk8ZkWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkxhjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memQYaGs126MiZpBA-UFUIcVXSCEkx2cmqvXlWq8tWZ0Pw86hd0RkyFjWVAexQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsg-1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsgH1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgshZ1x4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsiH0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/opensans/v34/memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+File Name: D:\html.kutethemes.com\s\opensans\v34\memSYaGs126MiZpBA-UvWbX2vVnXBbObj2OVZyOOSr4dVJWUgsjZ0B4gaVc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+File Name: D:\html.kutethemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs169vsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+File Name: D:\html.kutethemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1xZosUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/oswald/v49/TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+File Name: D:\html.kutethemes.com\s\oswald\v49\TK3_WkUHHAIjg75cFRf3bXL8LICs1_FvsUZiYA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+File Name: D:\html.kutethemes.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVs9pbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+File Name: D:\html.kutethemes.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVtzpbCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+File Name: D:\html.kutethemes.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVuEorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+File Name: D:\html.kutethemes.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvao7CIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/raleway/v28/1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+File Name: D:\html.kutethemes.com\s\raleway\v28\1Ptxg8zYS_SKggPN4iEgvnHyvveLxVvaorCIPrQ.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOjCnqEu92Fr1Mu51TjASc6CsE.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOkCnqEu92Fr1Mu51xIIzc.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOkCnqEu92Fr1Mu51xIIzc.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmEU9fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmSU5fBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOlCnqEu92Fr1MmWUlfBBc9.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/roboto/v30/KFOmCnqEu92Fr1Mu4mxP.ttf
+File Name: D:\html.kutethemes.com\s\roboto\v30\KFOmCnqEu92Fr1Mu4mxP.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+File Name: D:\html.kutethemes.com\s\robotocondensed\v25\ieVi2ZhZI2eCN5jzbjEETS9weq8-32meGCQYag.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/robotocondensed/v25/ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+File Name: D:\html.kutethemes.com\s\robotocondensed\v25\ieVl2ZhZI2eCN5jzbjEETS9weq8-19K7CA.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/About.html
+File Name: D:\html.kutethemes.com\kuteshop\html\About.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Blog.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Blog.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Blog_Post.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Blog_Post.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Category1.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Category1.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Category2.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Category2.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Checkout.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Checkout.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Compare.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Compare.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Contact.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Contact.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/animate.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\animate.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/bootstrap.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\bootstrap.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/chosen.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\chosen.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/font-awesome.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\font-awesome.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/owl.carousel.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\owl.carousel.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/css/style.css
+File Name: D:\html.kutethemes.com\kuteshop\html\css\style.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/arial-narrow.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\arial-narrow.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/arial-narrow.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\arial-narrow-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/arial-narrow.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\arial-narrow.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/ArialNarrow.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\ArialNarrow.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/ArialNarrow.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\ArialNarrow.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/arial-narrow/ArialNarrow.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\arial-narrow\ArialNarrow.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.eot?v=4.6.3
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.svg?v=4.6.3
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.ttf?v=4.6.3
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.woff2?v=4.6.3
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/fontawesome/fontawesome-webfont.woff?v=4.6.3
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\fontawesome\fontawesome-webfont.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/GiddyupStd/GiddyupStd.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\GiddyupStd\GiddyupStd.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/glyphicons-halflings-regular.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\glyphicons-halflings-regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/letter-gothic.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\letter-gothic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/letter-gothic.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\letter-gothic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/letter-gothic.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\letter-gothic.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/LetterGothic.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\LetterGothic.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/LetterGothic.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\LetterGothic.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/letter-gothic/LetterGothic.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\letter-gothic\LetterGothic.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Black/Montserrat-Black.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Black\Montserrat-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/Montserrat-Light/Montserrat-Light.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\Montserrat-Light\Montserrat-Light.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/MyriadPro-Regular/MyriadPro-Regular.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\MyriadPro-Regular\MyriadPro-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Black/ProximaNova-Black.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Black\ProximaNova-Black.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Bold/ProximaNova-Bold.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Bold\ProximaNova-Bold.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Light/ProximaNovaA-Light.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Light\ProximaNovaA-Light.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Regular/ProximaNova-Regular.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Regular\ProximaNova-Regular.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/ProximaNova-Semibold/ProximaNova-Semibold.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\ProximaNova-Semibold\ProximaNova-Semibold.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/tunga.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\tunga.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/tunga.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\tunga-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/Tunga.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\Tunga.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/Tunga.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\Tunga.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/Tunga.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\Tunga.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/tunga/tunga.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\tunga\tunga.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTM-AS.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTM-AS.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTM-AS.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTM-AS-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTM-AS.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTM-AS.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTMA&SSignwriter.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTMA&SSignwriter.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTMA&SSignwriter.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTMA&SSignwriter.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-AS/UTMA&SSignwriter.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-AS\UTMA&SSignwriter.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTM-Bebas.eot
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTM-Bebas.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTM-Bebas.eot?
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTM-Bebas-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTM-Bebas.woff2
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTM-Bebas.woff2
+Content Type: font/woff2
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTMBebas.svg
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTMBebas.svg
+Content Type: image/svg+xml
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTMBebas.ttf
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTMBebas.ttf
+Content Type: font/ttf
+
+Uri: https://html.kutethemes.com/kuteshop/html/fonts/UTM-Bebas/UTMBebas.woff
+File Name: D:\html.kutethemes.com\kuteshop\html\fonts\UTM-Bebas\UTMBebas.woff
+Content Type: font/woff
+
+Uri: https://html.kutethemes.com/kuteshop/html/home1.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home1.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home10.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home10.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home11.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home11.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home12.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home12.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home13.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home13.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home14.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home14.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home2.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home2.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home3.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home3.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home4.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home4.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home5.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home5.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home6.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home6.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home7.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home7.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home8.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home8.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/home9.html
+File Name: D:\html.kutethemes.com\kuteshop\html\home9.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/flags/flag_english.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\flags\flag_english.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/flags/flag_french.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\flags\flag_french.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/flags/flag_germany.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\flags\flag_germany.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/flags/flag_spain.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\flags\flag_spain.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/action-friend.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\action-friend.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/action-print.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\action-print.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/arrow-select.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\arrow-select.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/cart-catalog-op1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\cart-catalog-op1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/delete_icon.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\delete_icon.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/grid-view-bg.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\grid-view-bg.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/icon1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\icon1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/actions-floor.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\actions-floor.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/btn-subcribe.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\btn-subcribe.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/btn-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\btn-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/check-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\check-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/check.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\check.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/checked.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\checked.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/close-popup.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\close-popup.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/close-top.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\close-top.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/delete_icon.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\delete_icon.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/icon-deals-of.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\icon-deals-of.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/label-featured.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\label-featured.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/menu-cat.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\menu-cat.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat10.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat10.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat11.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat11.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/nav-cat9.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\nav-cat9.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index1/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index1\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index10/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index10\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index10/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index10\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/menu-cat.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\menu-cat.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/next2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\next2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/prev2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\prev2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index11/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index11\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-cat-floor-active.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-cat-floor-active.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-cat-floor.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-cat-floor.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/btn-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\btn-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat1-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat1-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat10-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat10-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat10.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat10.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat11-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat11-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat11.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat11.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat3-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat3-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat4-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat4-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat5-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat5-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat6-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat6-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat7-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat7-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat8-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat8-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat9-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat9-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/nav-cat9.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\nav-cat9.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/next-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\next-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/prev-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\prev-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index12/prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index12\prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/bx-next-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\bx-next-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/bx-next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\bx-next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/bx-prev-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\bx-prev-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/bx-prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\bx-prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/next-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\next-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/prev-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\prev-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index13/prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index13\prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/arow-nav.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\arow-nav.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/bar.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\bar.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-cart-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-cart-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-cart2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-cart2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-cart2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-cart2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-cart3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-cart3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-compare-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-compare-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-quickview-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-quickview-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-subcribe.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-subcribe.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-wishlist-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-wishlist-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-wishlist2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-wishlist2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-wishlist2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-wishlist2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/btn-wishlist3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\btn-wishlist3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/next-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\next-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/next2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\next2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/next2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\next2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/prev-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\prev-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/prev2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\prev2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/prev2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\prev2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/search-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\search-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index14/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index14\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/btn-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\btn-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/bx-next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\bx-next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/bx-prev.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\bx-prev.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/comment.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\comment.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/date.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\date.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/head-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\head-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/head-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\head-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/head-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\head-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/next2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\next2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/next2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\next2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/prev2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\prev2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/prev2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\prev2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/prew.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\prew.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index2/star.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index2\star.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat10.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat10.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat11.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat11.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/nav-cat9.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\nav-cat9.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/text-free.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\text-free.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/user.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\user.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index3/wislist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index3\wislist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index4/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index4\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/arrow.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\arrow.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/cart-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\cart-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/compare-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\compare-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/icon-deals-of.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\icon-deals-of.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/wishlist-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\wishlist-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index5/wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index5\wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index6/cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index6\cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index6/compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index6\compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index6/wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index6\wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/bg-new.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\bg-new.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/bg-sale.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\bg-sale.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/btn-view.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\btn-view.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/btn-wishlist.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\btn-wishlist.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/list-style-floor.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\list-style-floor.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/next1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\next1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/prew1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\prew1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index7/tag.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index7\tag.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/btn-cart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\btn-cart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/btn-compare.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\btn-compare.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/btn-quickview.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\btn-quickview.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/minicart.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\minicart.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/next.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\next.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/prew.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\prew.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/index9/search.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\index9\search.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/list-view-bg.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\list-view-bg.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/select.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\select.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/slider-range.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\slider-range.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/icon/write.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\icon\write.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/avata.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\avata.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/banner-sidebar1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\banner-sidebar1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/category-images1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\category-images1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/category-images2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\category-images2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/about-us.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\about-us.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/avatar.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\avatar.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/banner-slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\banner-slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/best1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\best1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/best2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\best2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/best3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\best3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-full.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-full.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-thumb1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-thumb1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-thumb2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/blog-thumb3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\blog-thumb3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/p40.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\p40.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/p41.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\p41.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/p42.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\p42.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/product-100x122.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\product-100x122.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/related2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\related2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/related2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\related2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/related2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\related2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/sale1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\sale1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/thumb-img1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\thumb-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/thumb1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\thumb1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/thumb2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\thumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/thumb3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\thumb3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/Upsell2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\Upsell2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/Upsell2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\Upsell2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/Upsell2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\Upsell2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/detail/wishlist8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\detail\wishlist8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/floor5-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\floor5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/baner-floor6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\baner-floor6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner-slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner-slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner-slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner-slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner4-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner4-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner5-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner5-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner6-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner6-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner7-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/banner7-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\banner7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/bg-qc-top.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\bg-qc-top.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/bgmenu.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\bgmenu.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/brand-nav8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\brand-nav8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/categori-img1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\categori-img1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/deals-of1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\deals-of1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/deals-of2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\deals-of2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/deals-of3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\deals-of3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor1-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor1-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor2-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor3-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor3-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor4-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor4-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor4-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor4-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor5-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor5-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor5-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor5-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor6-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor6-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor6-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor6-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/floor6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\floor6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/hot-categories8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\hot-categories8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/img-categori1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\img-categori1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/img-categori2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\img-categori2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/img-categori3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\img-categori3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/img-categori4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\img-categori4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/img-categori5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\img-categori5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/logo-showcase.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\logo-showcase.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/minicart.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\minicart.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/minicart2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\minicart2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment10.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment10.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/payment9.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\payment9.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/Popup.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\Popup.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/product-menu1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\product-menu1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/product-menu2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\product-menu2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/product-menu3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\product-menu3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/product-menu4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\product-menu4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/sellers1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\sellers1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/sellers2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\sellers2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/sellers3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\sellers3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/service1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\service1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/service2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\service2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/service3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\service3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/service4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\service4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/share.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\share.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/showcase1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\showcase1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/showcase2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\showcase2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/showcase3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\showcase3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/showcase4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\showcase4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index1/slide3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index1\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/bg-lookbook.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\bg-lookbook.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/bg-modern.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\bg-modern.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/bg-street.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\bg-street.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/bg-style.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\bg-style.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/line-hed.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\line-hed.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/logo1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\logo1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/logo2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\logo2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/logo3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\logo3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/logo4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\logo4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index10/video-btn.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index10\video-btn.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/bg-hotcategori.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\bg-hotcategori.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/brand6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\brand6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index11/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index11\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner-sidebar.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner-sidebar.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner-slide.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner-slide.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/banner5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/bg-categories1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\bg-categories1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/bg-categories2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\bg-categories2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/bg-categories3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\bg-categories3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/brand7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\brand7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/deal1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\deal1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor1-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor2-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/floor3-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\floor3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/img-des.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\img-des.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/logo-brand.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\logo-brand.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/new6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\new6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment10.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment11.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment12.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment13.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment14.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/payment9.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\payment9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/slide3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/slide4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/Testimonials1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\Testimonials1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/Testimonials2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\Testimonials2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index12/Testimonials3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index12\Testimonials3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/banner-sidebar.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\banner-sidebar.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/banner2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/banner4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/banner5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/deal1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\deal1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/img-des.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\img-des.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/service1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\service1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/service2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\service2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/service3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\service3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/Testimonials1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\Testimonials1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/Testimonials2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\Testimonials2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/Testimonials3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\Testimonials3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index13/top-brand4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index13\top-brand4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/banner1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/banner2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/banner4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/banner5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/bg-deal.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\bg-deal.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/bg-newletter.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\bg-newletter.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/brand-nav7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\brand-nav7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product10.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product12.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/product9.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\product9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index14/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index14\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/baner-floor5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\baner-floor5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/baner-floor6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\baner-floor6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/banner7-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\banner7-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/banner7-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\banner7-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/brand-floor8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\brand-floor8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals-of-day1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals-of-day1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/deals5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\deals5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor2-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor3-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor3-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/floor6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\floor6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/service6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\service6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index2/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index2\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/baner-floor4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\baner-floor4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/bg-footer.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\bg-footer.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/deals1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\deals1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/deals2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\deals2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/deals3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\deals3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/deals4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\deals4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor1-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor1-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor2-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor3-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor3-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor4-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor4-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor4-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/floor4-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\floor4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/log-face.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\log-face.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/payment1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\payment1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/payment2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\payment2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/payment3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\payment3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/payment4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\payment4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/slide3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/slide4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/trening1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\trening1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index3/trening2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index3\trening2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/banner-main1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\banner-main1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/banner-main2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\banner-main2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/slide3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index4/slide3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index4\slide3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/baner-floor6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\baner-floor6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/girl.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\girl.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index5/sp.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index5\sp.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner-slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner-slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner-slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner-slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner-slide3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner-slide3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner-slide4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner-slide4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner-slide5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner-slide5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/bg-col-categori3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\bg-col-categori3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/bg-col-categori4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\bg-col-categori4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/bg-col-categori5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\bg-col-categori5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand6.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand6.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand7.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand7.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/brand8.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\brand8.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/categori1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\categori1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/categori2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\categori2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/categori3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\categori3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy1-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy1-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy2-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy2-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy3-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy3-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy4-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy4-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy5-hover.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy5-hover.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/policy5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\policy5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index6/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index6\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/baner-floor6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\baner-floor6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/banner1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\banner1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/banner1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\banner1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/blog1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\blog1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/blog2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\blog2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/blog3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\blog3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/blog4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\blog4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/deals1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\deals1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/deals2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\deals2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/deals3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\deals3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/deals4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\deals4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/deals5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\deals5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor1-8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor1-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor2-8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor2-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor3-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor3-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor4-8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor4-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor5-8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor5-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/floor6-8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\floor6-8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/payment1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\payment1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/payment2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\payment2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/payment3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\payment3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/payment4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\payment4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/payment5.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\payment5.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/service1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\service1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/service2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\service2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/service3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\service3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/service4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\service4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/sp.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\sp.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index7/sp2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index7\sp2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/banner1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/banner2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/bg-lookbook.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\bg-lookbook.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/bg-testimonials.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\bg-testimonials.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/blog3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\blog3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/blog4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\blog4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/brand6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\brand6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/collections1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\collections1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/collections2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\collections2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/collections3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\collections3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/featured8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\featured8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/logo-footer.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\logo-footer.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/lookbook1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\lookbook1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/lookbook2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\lookbook2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/lookbook3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\lookbook3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/lookbook4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\lookbook4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/Testimonials1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\Testimonials1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/Testimonials2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\Testimonials2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/Testimonials3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\Testimonials3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/trending1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\trending1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/trending2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\trending2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/trending3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\trending3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index8/trending4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index8\trending4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/banner1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\banner1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/banner2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\banner2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/banner3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\banner3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/banner4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\banner4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/banner5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\banner5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/bg-hotcategori.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\bg-hotcategori.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/blog1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\blog1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/blog2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\blog2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca1-1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca1-1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca2-1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca2-1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca3-1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca3-1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/icon-hotca3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\icon-hotca3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/logo.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\logo.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/payment1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\payment1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/payment2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\payment2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/payment3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\payment3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/payment4.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\payment4.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/product8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\product8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/service1.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\service1.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/service2.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\service2.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/service3.png
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\service3.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/slide1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\slide1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/index9/slide2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\index9\slide2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/list7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\list7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product1.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product1.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product10.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product10.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product11.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product11.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product12.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product12.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product13.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product13.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product14.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product14.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product15.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product15.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product16.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product16.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product17.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product17.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product18.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product18.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product2.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product2.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product3.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product3.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product4.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product4.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product5.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product5.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product6.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product6.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product7.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product7.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product8.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product8.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/images/media/product9.jpg
+File Name: D:\html.kutethemes.com\kuteshop\html\images\media\product9.jpg
+Content Type: image/jpeg
+
+Uri: https://html.kutethemes.com/kuteshop/html/index.html
+File Name: D:\html.kutethemes.com\kuteshop\html\index.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/arcticmodal/jquery.arcticmodal.css
+File Name: D:\html.kutethemes.com\kuteshop\html\js\arcticmodal\jquery.arcticmodal.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/arcticmodal/jquery.arcticmodal.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\arcticmodal\jquery.arcticmodal.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/arcticmodal/loading.gif
+File Name: D:\html.kutethemes.com\kuteshop\html\js\arcticmodal\loading.gif
+Content Type: image/gif
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/bootstrap.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/chosen.jquery.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\chosen.jquery.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/blank.gif
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\blank.gif
+Content Type: image/gif
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/fancybox_loading.gif
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\fancybox_loading.gif
+Content Type: image/gif
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/fancybox_loading@2x.gif
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\fancybox_loading@2x.gif
+Content Type: image/gif
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/fancybox_overlay.png
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\fancybox_overlay.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/fancybox_sprite.png
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\fancybox_sprite.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/fancybox_sprite@2x.png
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\fancybox_sprite@2x.png
+Content Type: image/png
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/helpers/jquery.fancybox-media.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\helpers\jquery.fancybox-media.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/helpers/jquery.fancybox-thumbs.css
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\helpers\jquery.fancybox-thumbs.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/helpers/jquery.fancybox-thumbs.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\helpers\jquery.fancybox-thumbs.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/jquery.fancybox.css
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\jquery.fancybox.css
+Content Type: text/css
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/fancybox/source/jquery.fancybox.pack.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\fancybox\source\jquery.fancybox.pack.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery-ui.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery-ui.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.actual.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.actual.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.bxslider.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.bxslider.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.countdown.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.countdown.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.elevateZoom.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.elevateZoom.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.parallax-1.1.3.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.parallax-1.1.3.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/jquery.sticky.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\jquery.sticky.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/main.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\main.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/js/owl.carousel.min.js
+File Name: D:\html.kutethemes.com\kuteshop\html\js\owl.carousel.min.js
+Content Type: application/javascript
+
+Uri: https://html.kutethemes.com/kuteshop/html/Login.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Login.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Order.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Order.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Product1.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Product1.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Product2.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Product2.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/Product3.html
+File Name: D:\html.kutethemes.com\kuteshop\html\Product3.html
+Content Type: text/html
+
+Uri: https://html.kutethemes.com/kuteshop/html/WishList.html
+File Name: D:\html.kutethemes.com\kuteshop\html\WishList.html
+Content Type: text/html
+

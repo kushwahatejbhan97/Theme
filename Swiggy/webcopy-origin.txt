@@ -1,0 +1,444 @@
+Uri: https://askbootstrap.com/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\cdn-cgi\scripts\5c5dd728\cloudflare-static\email-decode.min.js
+Content Type: application/javascript
+
+Uri: https://askbootstrap.com/cdn-cgi/scripts/7d0fa10a/cloudflare-static/rocket-loader.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\cdn-cgi\scripts\7d0fa10a\cloudflare-static\rocket-loader.min.js
+Content Type: application/javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/checkout.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\checkout.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/coming-soon.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\coming-soon.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/contact-us.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\contact-us.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/css/style.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\css\style.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/faq.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\faq.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/favorites.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\favorites.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/forgot_password.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\forgot_password.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/home.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\home.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/appstore.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\appstore.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/axis.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\axis.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/bg.mp4
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\bg.mp4
+Content Type: video/mp4
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/fav.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\fav.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Breakfast.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Breakfast.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Burger.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Burger.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Coffee.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Coffee.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/ColaCan.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\ColaCan.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Fries.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Fries.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Pizza.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Pizza.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Salad.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Salad.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Sandwich.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Sandwich.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/icons/Steak.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\icons\Steak.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/location.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\location.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/logo_web.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\logo_web.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/offers.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\offers.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/playmarket.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\playmarket.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular4.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular4.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular5.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular5.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular6.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular6.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular7.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular7.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/popular8.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\popular8.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/pro1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\pro1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/pro2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\pro2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/pro3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\pro3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/pro4.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\pro4.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer4.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer4.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer5.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer5.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/reviewer6.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\reviewer6.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/sales1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\sales1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/sales2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\sales2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/sales3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\sales3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/starter1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\starter1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/starter2.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\starter2.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/starter3.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\starter3.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending1.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending1.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending3.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending3.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending4.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending4.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending5.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending5.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending6.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending6.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending7.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending7.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/trending8.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\trending8.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/user/1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\user\1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/user1.jpg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\user1.jpg
+Content Type: image/jpeg
+
+Uri: https://askbootstrap.com/preview/swiggiweb/img/user2.png
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\img\user2.png
+Content Type: image/png
+
+Uri: https://askbootstrap.com/preview/swiggiweb/js/osahan.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\js\osahan.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/location.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\location.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/login.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\login.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/maintence.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\maintence.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/map.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\map.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/most_popular.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\most_popular.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/my_order.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\my_order.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/not-found.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\not-found.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/offers.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\offers.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/privacy.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\privacy.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/profile.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\profile.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/restaurant.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\restaurant.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/search.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\search.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/signup.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\signup.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/status_canceled.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\status_canceled.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/status_complete.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\status_complete.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/status_onprocess.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\status_onprocess.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/successful.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\successful.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/terms.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\terms.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/trending.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\trending.html
+Content Type: text/html
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/bootstrap/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\bootstrap\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/bootstrap/js/bootstrap.bundle.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\bootstrap\js\bootstrap.bundle.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/icons/feather.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\icons\feather.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/icons/fonts/Feather.svg?sdxovp
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\icons\fonts\Feather.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/icons/fonts/Feather.ttf?sdxovp
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\icons\fonts\Feather.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/icons/fonts/Feather.woff?sdxovp
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\icons\fonts\Feather.woff
+Content Type: application/font-woff
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/jquery/jquery.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\jquery\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/sidebar/demo.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\sidebar\demo.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/sidebar/hc-offcanvas-nav.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\sidebar\hc-offcanvas-nav.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/ajax-loader.gif
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\ajax-loader.gif
+Content Type: image/gif
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/fonts/slick.eot
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\fonts\slick.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/fonts/slick.eot?
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\fonts\slick-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/fonts/slick.svg
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\fonts\slick.svg
+Content Type: image/svg+xml
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/fonts/slick.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\fonts\slick.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/fonts/slick.woff
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\fonts\slick.woff
+Content Type: application/font-woff
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/slick-theme.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\slick-theme.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/slick.min.css
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\slick.min.css
+Content Type: text/css
+
+Uri: https://askbootstrap.com/preview/swiggiweb/vendor/slick/slick.min.js
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\vendor\slick\slick.min.js
+Content Type: application/x-javascript
+
+Uri: https://askbootstrap.com/preview/swiggiweb/verification.html
+File Name: C:\Downloaded Web Sites\askbootstrap.com\preview\swiggiweb\verification.html
+Content Type: text/html
+
+Uri: https://fonts.googleapis.com/css2?family=Mulish:wght@200;300;400;500;600;700;800;900&display=swap
+File Name: C:\Downloaded Web Sites\askbootstrap.com\css2
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexaFRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexc1RwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexRNWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexTpWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexU1WwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexXRWwaA.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/mulish/v12/1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+File Name: C:\Downloaded Web Sites\askbootstrap.com\s\mulish\v12\1Ptyg83HX_SGhgqO0yLcmjzUAuWexZNRwaA.ttf
+Content Type: font/ttf
+
+Uri: https://static.cloudflareinsights.com/beacon.min.js/vaafb692b2aea4879b33c060e79fe94621666317369993
+File Name: C:\Downloaded Web Sites\askbootstrap.com\beacon.min.js\vaafb692b2aea4879b33c060e79fe94621666317369993
+Content Type: text/javascript
+

@@ -1,0 +1,4376 @@
+Uri: http://www.leukemia-lymphoma.org/
+File Name: D:\www.acmh.org\index-1.htm
+Content Type: 
+
+Uri: https://www.acmh.org/
+File Name: D:\www.acmh.org\index.htm
+Content Type: text/html
+
+Uri: https://www.acmh.org/about-acmh
+File Name: D:\www.acmh.org\about-acmh.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/behavioral-health
+File Name: D:\www.acmh.org\behavioral-health.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/billing-and-insurance
+File Name: D:\www.acmh.org\billing-and-insurance.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/breastcare
+File Name: D:\www.acmh.org\breastcare.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/call911
+File Name: D:\www.acmh.org\call911.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/cancer-care
+File Name: D:\www.acmh.org\cancer-care.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/cardiac-care
+File Name: D:\www.acmh.org\cardiac-care.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/careers
+File Name: D:\www.acmh.org\careers.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/chna
+File Name: D:\www.acmh.org\chna.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/concussion-care
+File Name: D:\www.acmh.org\concussion-care.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/contact-us
+File Name: D:\www.acmh.org\contact-us.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/covid-19
+File Name: D:\www.acmh.org\covid-19.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/diabetes
+File Name: D:\www.acmh.org\diabetes.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/e-cards
+File Name: D:\www.acmh.org\e-cards.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/emergency
+File Name: D:\www.acmh.org\emergency.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/ent
+File Name: D:\www.acmh.org\ent.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/fall-prevention
+File Name: D:\www.acmh.org\fall-prevention.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Files/Admin/2-28-Patient-Financial-Obligations------working-doc-011.pdf
+File Name: D:\www.acmh.org\Files\Admin\2-28-Patient-Financial-Obligations------working-doc-011.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/2017-Annual-Report-on-2016-Data.pdf
+File Name: D:\www.acmh.org\Files\Admin\2017-Annual-Report-on-2016-Data.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/2018-Annual-Report-on-2017-Data.pdf
+File Name: D:\www.acmh.org\Files\Admin\2018-Annual-Report-on-2017-Data.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/2021-Community-Health-Needs-Assessment-Binder.pdf
+File Name: D:\www.acmh.org\Files\Admin\2021-Community-Health-Needs-Assessment-Binder.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/89686---ACMH-Privacy-Booklet-(New-Cover)(1).pdf
+File Name: D:\www.acmh.org\Files\Admin\89686---ACMH-Privacy-Booklet-(New-Cover)(1).pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/ABC-GROUP-2022.jpg
+File Name: D:\www.acmh.org\Files\Admin\ABC-GROUP-2022.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/Abu-Nuwar--Mohamad-Rassoul---ACMH.jpg
+File Name: D:\www.acmh.org\Files\Admin\Abu-Nuwar--Mohamad-Rassoul---ACMH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/AC-VTC-BANNER.jpg
+File Name: D:\www.acmh.org\Files\Admin\AC-VTC-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/AC-VTC-LOGO-2.jpg
+File Name: D:\www.acmh.org\Files\Admin\AC-VTC-LOGO-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/ACMH-Code-of-Ethical---Legal-Conduct-Booklet---Rev-2.20.pdf?d=202049143518
+File Name: D:\www.acmh.org\Files\Admin\ACMH-Code-of-Ethical---Legal-Conduct-Booklet---Rev-2.20.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/ACMH-Price-Transparency-Final.csv
+File Name: D:\www.acmh.org\Files\Admin\ACMH-Price-Transparency-Final.csv
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/Files/Admin/Annual-Report-2012.pdf
+File Name: D:\www.acmh.org\Files\Admin\Annual-Report-2012.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Annual-Report-2013.pdf
+File Name: D:\www.acmh.org\Files\Admin\Annual-Report-2013.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Annual-Report-2014.pdf
+File Name: D:\www.acmh.org\Files\Admin\Annual-Report-2014.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Annual-Report-2015.pdf
+File Name: D:\www.acmh.org\Files\Admin\Annual-Report-2015.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Annual-Report-2016.pdf
+File Name: D:\www.acmh.org\Files\Admin\Annual-Report-2016.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/AOA-Patient-Instructions-Regarding-PHI-for-ACMH-Clinics-PCC-1228-FF-010518.pdf
+File Name: D:\www.acmh.org\Files\Admin\AOA-Patient-Instructions-Regarding-PHI-for-ACMH-Clinics-PCC-1228-FF-010518.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/AOA-PT-Info-Medical-History-HW-3441-LV-8-20.pdf
+File Name: D:\www.acmh.org\Files\Admin\AOA-PT-Info-Medical-History-HW-3441-LV-8-20.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Application-2013.pdf?d=201736143311
+File Name: D:\www.acmh.org\Files\Admin\Application-2013.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/AUTHORIZATION-FOR-RELEASE-OF-INFORMATION.pdf
+File Name: D:\www.acmh.org\Files\Admin\AUTHORIZATION-FOR-RELEASE-OF-INFORMATION.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/bigstock-Calling-For-Hep-125824199.jpg
+File Name: D:\www.acmh.org\Files\Admin\bigstock-Calling-For-Hep-125824199.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/bigstock-Close-up-Of-Gavel-In-Front-Of--252984352.jpg
+File Name: D:\www.acmh.org\Files\Admin\bigstock-Close-up-Of-Gavel-In-Front-Of--252984352.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/bigstock-Law-And-Justice-In-United-Stat-291718564-222.jpg
+File Name: D:\www.acmh.org\Files\Admin\bigstock-Law-And-Justice-In-United-Stat-291718564-222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/Billing %26 Insurance/Financial-Assistance-Program---Plain-Language-Summary-2018.pdf
+File Name: D:\www.acmh.org\Files\Admin\Billing & Insurance\Financial-Assistance-Program---Plain-Language-Summary-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Billing %26 Insurance/Notice-of-Financial-Assistance-Discount-Policy.pdf
+File Name: D:\www.acmh.org\Files\Admin\Billing & Insurance\Notice-of-Financial-Assistance-Discount-Policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Campus-Map-6-16-21.pdf
+File Name: D:\www.acmh.org\Files\Admin\Campus-Map-6-16-21.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA-2012.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA-2012.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA-2015-Final-Report.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA-2015-Final-Report.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA-2021-Implementation-Plan.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA-2021-Implementation-Plan.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA/CHNA---Activities-2015---2017-2.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA\CHNA---Activities-2015---2017-2.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA/CHNA-2018-final-report.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA\CHNA-2018-final-report.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA/CHNA-Implementation-strategy---final---version-2-424-.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA\CHNA-Implementation-strategy---final---version-2-424-.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/CHNA/Survey-responses-for-web-site-3.pdf
+File Name: D:\www.acmh.org\Files\Admin\CHNA\Survey-responses-for-web-site-3.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/commission-on-cancer-accredited-program-logo.jpg
+File Name: D:\www.acmh.org\Files\Admin\commission-on-cancer-accredited-program-logo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/css/bootstrap.min.css
+File Name: D:\www.acmh.org\files\admin\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/font-awesome.min.css
+File Name: D:\www.acmh.org\files\admin\css\font-awesome.min.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/fonts.css
+File Name: D:\www.acmh.org\files\admin\css\fonts.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235730
+File Name: D:\www.acmh.org\files\admin\css\responsive.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235741
+File Name: D:\www.acmh.org\files\admin\css\responsive-1.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235749
+File Name: D:\www.acmh.org\files\admin\css\responsive-2.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235750
+File Name: D:\www.acmh.org\files\admin\css\responsive-3.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235751
+File Name: D:\www.acmh.org\files\admin\css\responsive-4.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235752
+File Name: D:\www.acmh.org\files\admin\css\responsive-5.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235753
+File Name: D:\www.acmh.org\files\admin\css\responsive-6.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235754
+File Name: D:\www.acmh.org\files\admin\css\responsive-7.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235755
+File Name: D:\www.acmh.org\files\admin\css\responsive-8.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235756
+File Name: D:\www.acmh.org\files\admin\css\responsive-9.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235757
+File Name: D:\www.acmh.org\files\admin\css\responsive-10.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235758
+File Name: D:\www.acmh.org\files\admin\css\responsive-11.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235759
+File Name: D:\www.acmh.org\files\admin\css\responsive-12.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723581
+File Name: D:\www.acmh.org\files\admin\css\responsive-13.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235810
+File Name: D:\www.acmh.org\files\admin\css\responsive-22.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235811
+File Name: D:\www.acmh.org\files\admin\css\responsive-23.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235813
+File Name: D:\www.acmh.org\files\admin\css\responsive-24.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235814
+File Name: D:\www.acmh.org\files\admin\css\responsive-25.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235816
+File Name: D:\www.acmh.org\files\admin\css\responsive-26.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235817
+File Name: D:\www.acmh.org\files\admin\css\responsive-27.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235818
+File Name: D:\www.acmh.org\files\admin\css\responsive-28.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235819
+File Name: D:\www.acmh.org\files\admin\css\responsive-29.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723582
+File Name: D:\www.acmh.org\files\admin\css\responsive-14.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235820
+File Name: D:\www.acmh.org\files\admin\css\responsive-30.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235821
+File Name: D:\www.acmh.org\files\admin\css\responsive-31.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235822
+File Name: D:\www.acmh.org\files\admin\css\responsive-32.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235823
+File Name: D:\www.acmh.org\files\admin\css\responsive-33.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235825
+File Name: D:\www.acmh.org\files\admin\css\responsive-34.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235828
+File Name: D:\www.acmh.org\files\admin\css\responsive-35.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235829
+File Name: D:\www.acmh.org\files\admin\css\responsive-36.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723583
+File Name: D:\www.acmh.org\files\admin\css\responsive-15.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235831
+File Name: D:\www.acmh.org\files\admin\css\responsive-37.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\css\responsive-38.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235834
+File Name: D:\www.acmh.org\files\admin\css\responsive-39.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235835
+File Name: D:\www.acmh.org\files\admin\css\responsive-40.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235836
+File Name: D:\www.acmh.org\files\admin\css\responsive-41.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235839
+File Name: D:\www.acmh.org\files\admin\css\responsive-42.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723584
+File Name: D:\www.acmh.org\files\admin\css\responsive-16.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235840
+File Name: D:\www.acmh.org\files\admin\css\responsive-43.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235841
+File Name: D:\www.acmh.org\files\admin\css\responsive-44.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235842
+File Name: D:\www.acmh.org\files\admin\css\responsive-45.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235843
+File Name: D:\www.acmh.org\files\admin\css\responsive-46.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235844
+File Name: D:\www.acmh.org\files\admin\css\responsive-47.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235845
+File Name: D:\www.acmh.org\files\admin\css\responsive-48.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723585
+File Name: D:\www.acmh.org\files\admin\css\responsive-17.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022117235854
+File Name: D:\www.acmh.org\files\admin\css\responsive-49.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723586
+File Name: D:\www.acmh.org\files\admin\css\responsive-18.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723587
+File Name: D:\www.acmh.org\files\admin\css\responsive-19.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723588
+File Name: D:\www.acmh.org\files\admin\css\responsive-20.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211723589
+File Name: D:\www.acmh.org\files\admin\css\responsive-21.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180021
+File Name: D:\www.acmh.org\files\admin\css\responsive-50.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180027
+File Name: D:\www.acmh.org\files\admin\css\responsive-51.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180028
+File Name: D:\www.acmh.org\files\admin\css\responsive-52.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180029
+File Name: D:\www.acmh.org\files\admin\css\responsive-53.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180030
+File Name: D:\www.acmh.org\files\admin\css\responsive-54.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180031
+File Name: D:\www.acmh.org\files\admin\css\responsive-55.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180032
+File Name: D:\www.acmh.org\files\admin\css\responsive-56.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180033
+File Name: D:\www.acmh.org\files\admin\css\responsive-57.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180034
+File Name: D:\www.acmh.org\files\admin\css\responsive-58.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180035
+File Name: D:\www.acmh.org\files\admin\css\responsive-59.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180036
+File Name: D:\www.acmh.org\files\admin\css\responsive-60.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180037
+File Name: D:\www.acmh.org\files\admin\css\responsive-61.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180038
+File Name: D:\www.acmh.org\files\admin\css\responsive-62.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180111
+File Name: D:\www.acmh.org\files\admin\css\responsive-63.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180117
+File Name: D:\www.acmh.org\files\admin\css\responsive-64.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180118
+File Name: D:\www.acmh.org\files\admin\css\responsive-65.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801543
+File Name: D:\www.acmh.org\files\admin\css\responsive-100.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801544
+File Name: D:\www.acmh.org\files\admin\css\responsive-101.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801545
+File Name: D:\www.acmh.org\files\admin\css\responsive-102.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801546
+File Name: D:\www.acmh.org\files\admin\css\responsive-103.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801547
+File Name: D:\www.acmh.org\files\admin\css\responsive-104.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801548
+File Name: D:\www.acmh.org\files\admin\css\responsive-105.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801549
+File Name: D:\www.acmh.org\files\admin\css\responsive-106.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-202211801557
+File Name: D:\www.acmh.org\files\admin\css\responsive-107.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\css\responsive-66.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\css\responsive-67.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180312
+File Name: D:\www.acmh.org\files\admin\css\responsive-70.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\css\responsive-68.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\css\responsive-69.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180341
+File Name: D:\www.acmh.org\files\admin\css\responsive-71.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\css\responsive-72.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\css\responsive-73.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\css\responsive-74.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\css\responsive-75.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\css\responsive-76.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\css\responsive-77.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\css\responsive-78.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\css\responsive-79.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\css\responsive-80.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118054
+File Name: D:\www.acmh.org\files\admin\css\responsive-81.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\css\responsive-82.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\css\responsive-83.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\css\responsive-84.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\css\responsive-85.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\css\responsive-86.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\css\responsive-87.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\css\responsive-88.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\css\responsive-89.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\css\responsive-90.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\css\responsive-91.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\css\responsive-92.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180640
+File Name: D:\www.acmh.org\files\admin\css\responsive-93.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\css\responsive-94.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180754
+File Name: D:\www.acmh.org\files\admin\css\responsive-95.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\css\responsive-97.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\css\responsive-98.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\css\responsive-99.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/responsive.css?v=2.3.4-2022118087
+File Name: D:\www.acmh.org\files\admin\css\responsive-96.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235730
+File Name: D:\www.acmh.org\files\admin\css\theme.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235741
+File Name: D:\www.acmh.org\files\admin\css\theme-1.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235749
+File Name: D:\www.acmh.org\files\admin\css\theme-2.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235750
+File Name: D:\www.acmh.org\files\admin\css\theme-3.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235751
+File Name: D:\www.acmh.org\files\admin\css\theme-4.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235752
+File Name: D:\www.acmh.org\files\admin\css\theme-5.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235753
+File Name: D:\www.acmh.org\files\admin\css\theme-6.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235754
+File Name: D:\www.acmh.org\files\admin\css\theme-7.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235755
+File Name: D:\www.acmh.org\files\admin\css\theme-8.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235756
+File Name: D:\www.acmh.org\files\admin\css\theme-9.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235757
+File Name: D:\www.acmh.org\files\admin\css\theme-10.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235758
+File Name: D:\www.acmh.org\files\admin\css\theme-11.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235759
+File Name: D:\www.acmh.org\files\admin\css\theme-12.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723581
+File Name: D:\www.acmh.org\files\admin\css\theme-13.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235810
+File Name: D:\www.acmh.org\files\admin\css\theme-22.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235811
+File Name: D:\www.acmh.org\files\admin\css\theme-23.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235813
+File Name: D:\www.acmh.org\files\admin\css\theme-24.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235814
+File Name: D:\www.acmh.org\files\admin\css\theme-25.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235816
+File Name: D:\www.acmh.org\files\admin\css\theme-26.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235817
+File Name: D:\www.acmh.org\files\admin\css\theme-27.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235818
+File Name: D:\www.acmh.org\files\admin\css\theme-28.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235819
+File Name: D:\www.acmh.org\files\admin\css\theme-29.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723582
+File Name: D:\www.acmh.org\files\admin\css\theme-14.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235820
+File Name: D:\www.acmh.org\files\admin\css\theme-30.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235821
+File Name: D:\www.acmh.org\files\admin\css\theme-31.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235822
+File Name: D:\www.acmh.org\files\admin\css\theme-32.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235823
+File Name: D:\www.acmh.org\files\admin\css\theme-33.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235825
+File Name: D:\www.acmh.org\files\admin\css\theme-34.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235828
+File Name: D:\www.acmh.org\files\admin\css\theme-35.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235829
+File Name: D:\www.acmh.org\files\admin\css\theme-36.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723583
+File Name: D:\www.acmh.org\files\admin\css\theme-15.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235831
+File Name: D:\www.acmh.org\files\admin\css\theme-37.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\css\theme-38.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235834
+File Name: D:\www.acmh.org\files\admin\css\theme-39.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235835
+File Name: D:\www.acmh.org\files\admin\css\theme-40.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235836
+File Name: D:\www.acmh.org\files\admin\css\theme-41.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235839
+File Name: D:\www.acmh.org\files\admin\css\theme-42.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723584
+File Name: D:\www.acmh.org\files\admin\css\theme-16.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235840
+File Name: D:\www.acmh.org\files\admin\css\theme-43.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235841
+File Name: D:\www.acmh.org\files\admin\css\theme-44.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235842
+File Name: D:\www.acmh.org\files\admin\css\theme-45.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235843
+File Name: D:\www.acmh.org\files\admin\css\theme-46.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235844
+File Name: D:\www.acmh.org\files\admin\css\theme-47.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235845
+File Name: D:\www.acmh.org\files\admin\css\theme-48.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723585
+File Name: D:\www.acmh.org\files\admin\css\theme-17.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022117235854
+File Name: D:\www.acmh.org\files\admin\css\theme-49.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723586
+File Name: D:\www.acmh.org\files\admin\css\theme-18.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723587
+File Name: D:\www.acmh.org\files\admin\css\theme-19.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723588
+File Name: D:\www.acmh.org\files\admin\css\theme-20.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211723589
+File Name: D:\www.acmh.org\files\admin\css\theme-21.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180021
+File Name: D:\www.acmh.org\files\admin\css\theme-50.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180027
+File Name: D:\www.acmh.org\files\admin\css\theme-51.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180028
+File Name: D:\www.acmh.org\files\admin\css\theme-52.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180029
+File Name: D:\www.acmh.org\files\admin\css\theme-53.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180030
+File Name: D:\www.acmh.org\files\admin\css\theme-54.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180031
+File Name: D:\www.acmh.org\files\admin\css\theme-55.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180032
+File Name: D:\www.acmh.org\files\admin\css\theme-56.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180033
+File Name: D:\www.acmh.org\files\admin\css\theme-57.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180034
+File Name: D:\www.acmh.org\files\admin\css\theme-58.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180035
+File Name: D:\www.acmh.org\files\admin\css\theme-59.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180036
+File Name: D:\www.acmh.org\files\admin\css\theme-60.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180037
+File Name: D:\www.acmh.org\files\admin\css\theme-61.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180038
+File Name: D:\www.acmh.org\files\admin\css\theme-62.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180111
+File Name: D:\www.acmh.org\files\admin\css\theme-63.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180117
+File Name: D:\www.acmh.org\files\admin\css\theme-64.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180118
+File Name: D:\www.acmh.org\files\admin\css\theme-65.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801543
+File Name: D:\www.acmh.org\files\admin\css\theme-100.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801544
+File Name: D:\www.acmh.org\files\admin\css\theme-101.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801545
+File Name: D:\www.acmh.org\files\admin\css\theme-102.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801546
+File Name: D:\www.acmh.org\files\admin\css\theme-103.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801547
+File Name: D:\www.acmh.org\files\admin\css\theme-104.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801548
+File Name: D:\www.acmh.org\files\admin\css\theme-105.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801549
+File Name: D:\www.acmh.org\files\admin\css\theme-106.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-202211801557
+File Name: D:\www.acmh.org\files\admin\css\theme-107.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\css\theme-66.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\css\theme-67.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180312
+File Name: D:\www.acmh.org\files\admin\css\theme-70.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\css\theme-68.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\css\theme-69.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180341
+File Name: D:\www.acmh.org\files\admin\css\theme-71.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\css\theme-72.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\css\theme-73.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\css\theme-74.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\css\theme-75.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\css\theme-76.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\css\theme-77.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\css\theme-78.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\css\theme-79.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\css\theme-80.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118054
+File Name: D:\www.acmh.org\files\admin\css\theme-81.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\css\theme-82.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\css\theme-83.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\css\theme-84.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\css\theme-85.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\css\theme-86.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\css\theme-87.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\css\theme-88.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\css\theme-89.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\css\theme-90.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\css\theme-91.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\css\theme-92.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180640
+File Name: D:\www.acmh.org\files\admin\css\theme-93.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\css\theme-94.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180754
+File Name: D:\www.acmh.org\files\admin\css\theme-95.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\css\theme-97.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\css\theme-98.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\css\theme-99.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/css/theme.css?v=2.3.4-2022118087
+File Name: D:\www.acmh.org\files\admin\css\theme-96.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/Files/Admin/diabetes-couple.jpg
+File Name: D:\www.acmh.org\Files\Admin\diabetes-couple.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/DRG-10-19.pdf
+File Name: D:\www.acmh.org\Files\Admin\DRG-10-19.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/FA-APP-CHECKLIST-LETTER-REVISED.pdf
+File Name: D:\www.acmh.org\Files\Admin\FA-APP-CHECKLIST-LETTER-REVISED.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/FALL-CANE.jpg
+File Name: D:\www.acmh.org\Files\Admin\FALL-CANE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/Fall-Prevention-Event-FLYER.jpg
+File Name: D:\www.acmh.org\Files\Admin\Fall-Prevention-Event-FLYER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/FALLS-2.jpg
+File Name: D:\www.acmh.org\Files\Admin\FALLS-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/FALLS-3.jpg
+File Name: D:\www.acmh.org\Files\Admin\FALLS-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/FALLS-COUPLE-WEB.jpg
+File Name: D:\www.acmh.org\Files\Admin\FALLS-COUPLE-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/FASTsymptoms.jpg
+File Name: D:\www.acmh.org\Files\Admin\FASTsymptoms.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/fonts/archivoblack-regular.eot
+File Name: D:\www.acmh.org\files\admin\fonts\archivoblack-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivoblack-regular.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\archivoblack-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivoblack-regular.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\archivoblack-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/archivoblack-regular.woff
+File Name: D:\www.acmh.org\files\admin\fonts\archivoblack-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-bold.eot
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-bold.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-bold.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-bold.woff
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-bold.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-regular.eot
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-regular.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-regular.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/archivonarrow-regular.woff
+File Name: D:\www.acmh.org\files\admin\fonts\archivonarrow-regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/fontawesome-webfont.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\fontawesome-webfont-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/fontawesome-webfont.eot?v=4.7.0
+File Name: D:\www.acmh.org\files\admin\fonts\fontawesome-webfont.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/fontawesome-webfont.svg?v=4.7.0
+File Name: D:\www.acmh.org\files\admin\fonts\fontawesome-webfont.svg
+Content Type: image/svg+xml
+
+Uri: https://www.acmh.org/files/admin/fonts/fontawesome-webfont.ttf?v=4.7.0
+File Name: D:\www.acmh.org\files\admin\fonts\fontawesome-webfont.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/fontawesome-webfont.woff?v=4.7.0
+File Name: D:\www.acmh.org\files\admin\fonts\fontawesome-webfont.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Bold.eot
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Bold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Bold.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Bold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Bold.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Bold.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Bold.woff
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Bold.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Italic.eot
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Italic.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Italic.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Italic-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Italic.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Italic.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Italic.woff
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Italic.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Regular.eot
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Regular.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Regular.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Regular-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Regular.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Regular.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Regular.woff
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Regular.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Semibold.eot
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Semibold.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Semibold.eot?
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Semibold-1.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Semibold.ttf
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Semibold.ttf
+Content Type: application/octet-stream
+
+Uri: https://www.acmh.org/files/admin/fonts/OpenSans-Semibold.woff
+File Name: D:\www.acmh.org\files\admin\fonts\OpenSans-Semibold.woff
+Content Type: font/x-woff
+
+Uri: https://www.acmh.org/Files/Admin/Foundation/foundation_grant_app_may_19.pdf
+File Name: D:\www.acmh.org\Files\Admin\Foundation\foundation_grant_app_may_19.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Foundation/Funding-Request-Form.pdf
+File Name: D:\www.acmh.org\Files\Admin\Foundation\Funding-Request-Form.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/GHXlogo.jpg
+File Name: D:\www.acmh.org\Files\Admin\GHXlogo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/HEPNER-EVENT-2022.jpg
+File Name: D:\www.acmh.org\Files\Admin\HEPNER-EVENT-2022.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/img/bg01.jpg
+File Name: D:\www.acmh.org\files\admin\img\bg01.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/img/bg02.jpg
+File Name: D:\www.acmh.org\files\admin\img\bg02.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/img/bg03.jpg
+File Name: D:\www.acmh.org\files\admin\img\bg03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/img/i-select-arrow.png
+File Name: D:\www.acmh.org\files\admin\img\i-select-arrow.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/files/admin/img/img03.jpg
+File Name: D:\www.acmh.org\files\admin\img\img03.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/img/img07.jpg
+File Name: D:\www.acmh.org\files\admin\img\img07.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/jacobsonheadshot.jpg
+File Name: D:\www.acmh.org\Files\Admin\jacobsonheadshot.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235730
+File Name: D:\www.acmh.org\files\admin\js\animations.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235741
+File Name: D:\www.acmh.org\files\admin\js\animations-1.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235749
+File Name: D:\www.acmh.org\files\admin\js\animations-2.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235750
+File Name: D:\www.acmh.org\files\admin\js\animations-3.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235751
+File Name: D:\www.acmh.org\files\admin\js\animations-4.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235752
+File Name: D:\www.acmh.org\files\admin\js\animations-5.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235753
+File Name: D:\www.acmh.org\files\admin\js\animations-6.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235754
+File Name: D:\www.acmh.org\files\admin\js\animations-7.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235755
+File Name: D:\www.acmh.org\files\admin\js\animations-8.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235756
+File Name: D:\www.acmh.org\files\admin\js\animations-9.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235757
+File Name: D:\www.acmh.org\files\admin\js\animations-10.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235758
+File Name: D:\www.acmh.org\files\admin\js\animations-11.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235759
+File Name: D:\www.acmh.org\files\admin\js\animations-12.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723581
+File Name: D:\www.acmh.org\files\admin\js\animations-13.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235810
+File Name: D:\www.acmh.org\files\admin\js\animations-22.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235811
+File Name: D:\www.acmh.org\files\admin\js\animations-23.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235813
+File Name: D:\www.acmh.org\files\admin\js\animations-24.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235814
+File Name: D:\www.acmh.org\files\admin\js\animations-25.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235816
+File Name: D:\www.acmh.org\files\admin\js\animations-26.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235817
+File Name: D:\www.acmh.org\files\admin\js\animations-27.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235818
+File Name: D:\www.acmh.org\files\admin\js\animations-28.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235819
+File Name: D:\www.acmh.org\files\admin\js\animations-29.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723582
+File Name: D:\www.acmh.org\files\admin\js\animations-14.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235820
+File Name: D:\www.acmh.org\files\admin\js\animations-30.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235821
+File Name: D:\www.acmh.org\files\admin\js\animations-31.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235822
+File Name: D:\www.acmh.org\files\admin\js\animations-32.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235823
+File Name: D:\www.acmh.org\files\admin\js\animations-33.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235825
+File Name: D:\www.acmh.org\files\admin\js\animations-34.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235828
+File Name: D:\www.acmh.org\files\admin\js\animations-35.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235829
+File Name: D:\www.acmh.org\files\admin\js\animations-36.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723583
+File Name: D:\www.acmh.org\files\admin\js\animations-15.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235831
+File Name: D:\www.acmh.org\files\admin\js\animations-37.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\js\animations-38.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235834
+File Name: D:\www.acmh.org\files\admin\js\animations-39.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235835
+File Name: D:\www.acmh.org\files\admin\js\animations-40.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235836
+File Name: D:\www.acmh.org\files\admin\js\animations-41.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235839
+File Name: D:\www.acmh.org\files\admin\js\animations-42.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723584
+File Name: D:\www.acmh.org\files\admin\js\animations-16.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235840
+File Name: D:\www.acmh.org\files\admin\js\animations-43.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235841
+File Name: D:\www.acmh.org\files\admin\js\animations-44.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235842
+File Name: D:\www.acmh.org\files\admin\js\animations-45.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235843
+File Name: D:\www.acmh.org\files\admin\js\animations-46.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235844
+File Name: D:\www.acmh.org\files\admin\js\animations-47.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235845
+File Name: D:\www.acmh.org\files\admin\js\animations-48.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723585
+File Name: D:\www.acmh.org\files\admin\js\animations-17.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022117235854
+File Name: D:\www.acmh.org\files\admin\js\animations-49.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723586
+File Name: D:\www.acmh.org\files\admin\js\animations-18.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723587
+File Name: D:\www.acmh.org\files\admin\js\animations-19.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723588
+File Name: D:\www.acmh.org\files\admin\js\animations-20.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211723589
+File Name: D:\www.acmh.org\files\admin\js\animations-21.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180021
+File Name: D:\www.acmh.org\files\admin\js\animations-50.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180027
+File Name: D:\www.acmh.org\files\admin\js\animations-51.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180028
+File Name: D:\www.acmh.org\files\admin\js\animations-52.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180029
+File Name: D:\www.acmh.org\files\admin\js\animations-53.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180030
+File Name: D:\www.acmh.org\files\admin\js\animations-54.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180031
+File Name: D:\www.acmh.org\files\admin\js\animations-55.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180032
+File Name: D:\www.acmh.org\files\admin\js\animations-56.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180033
+File Name: D:\www.acmh.org\files\admin\js\animations-57.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180034
+File Name: D:\www.acmh.org\files\admin\js\animations-58.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180035
+File Name: D:\www.acmh.org\files\admin\js\animations-59.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180036
+File Name: D:\www.acmh.org\files\admin\js\animations-60.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180037
+File Name: D:\www.acmh.org\files\admin\js\animations-61.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180038
+File Name: D:\www.acmh.org\files\admin\js\animations-62.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180111
+File Name: D:\www.acmh.org\files\admin\js\animations-63.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180117
+File Name: D:\www.acmh.org\files\admin\js\animations-64.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180118
+File Name: D:\www.acmh.org\files\admin\js\animations-65.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801543
+File Name: D:\www.acmh.org\files\admin\js\animations-100.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801544
+File Name: D:\www.acmh.org\files\admin\js\animations-101.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801545
+File Name: D:\www.acmh.org\files\admin\js\animations-102.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801546
+File Name: D:\www.acmh.org\files\admin\js\animations-103.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801547
+File Name: D:\www.acmh.org\files\admin\js\animations-104.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801548
+File Name: D:\www.acmh.org\files\admin\js\animations-105.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801549
+File Name: D:\www.acmh.org\files\admin\js\animations-106.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-202211801557
+File Name: D:\www.acmh.org\files\admin\js\animations-107.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\js\animations-66.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\js\animations-67.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180312
+File Name: D:\www.acmh.org\files\admin\js\animations-70.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\js\animations-68.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\js\animations-69.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180341
+File Name: D:\www.acmh.org\files\admin\js\animations-71.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\js\animations-72.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\js\animations-73.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\js\animations-74.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\js\animations-75.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\js\animations-76.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\js\animations-77.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\js\animations-78.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\js\animations-79.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\js\animations-80.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118054
+File Name: D:\www.acmh.org\files\admin\js\animations-81.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\js\animations-82.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\js\animations-83.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\js\animations-84.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\js\animations-85.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\js\animations-86.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\js\animations-87.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\js\animations-88.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\js\animations-89.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\js\animations-90.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\js\animations-91.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\js\animations-92.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180640
+File Name: D:\www.acmh.org\files\admin\js\animations-93.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\js\animations-94.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180754
+File Name: D:\www.acmh.org\files\admin\js\animations-95.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\js\animations-97.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\js\animations-98.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\js\animations-99.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/animations.js?v=2.3.4-2022118087
+File Name: D:\www.acmh.org\files\admin\js\animations-96.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/bootstrap.min.js
+File Name: D:\www.acmh.org\files\admin\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235730
+File Name: D:\www.acmh.org\files\admin\js\custom.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235741
+File Name: D:\www.acmh.org\files\admin\js\custom-1.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235749
+File Name: D:\www.acmh.org\files\admin\js\custom-2.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235750
+File Name: D:\www.acmh.org\files\admin\js\custom-3.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235751
+File Name: D:\www.acmh.org\files\admin\js\custom-4.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235752
+File Name: D:\www.acmh.org\files\admin\js\custom-5.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235753
+File Name: D:\www.acmh.org\files\admin\js\custom-6.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235754
+File Name: D:\www.acmh.org\files\admin\js\custom-7.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235755
+File Name: D:\www.acmh.org\files\admin\js\custom-8.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235756
+File Name: D:\www.acmh.org\files\admin\js\custom-9.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235757
+File Name: D:\www.acmh.org\files\admin\js\custom-10.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235758
+File Name: D:\www.acmh.org\files\admin\js\custom-11.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235759
+File Name: D:\www.acmh.org\files\admin\js\custom-12.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723581
+File Name: D:\www.acmh.org\files\admin\js\custom-13.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235810
+File Name: D:\www.acmh.org\files\admin\js\custom-22.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235811
+File Name: D:\www.acmh.org\files\admin\js\custom-23.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235813
+File Name: D:\www.acmh.org\files\admin\js\custom-24.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235814
+File Name: D:\www.acmh.org\files\admin\js\custom-25.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235816
+File Name: D:\www.acmh.org\files\admin\js\custom-26.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235817
+File Name: D:\www.acmh.org\files\admin\js\custom-27.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235818
+File Name: D:\www.acmh.org\files\admin\js\custom-28.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235819
+File Name: D:\www.acmh.org\files\admin\js\custom-29.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723582
+File Name: D:\www.acmh.org\files\admin\js\custom-14.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235820
+File Name: D:\www.acmh.org\files\admin\js\custom-30.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235821
+File Name: D:\www.acmh.org\files\admin\js\custom-31.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235822
+File Name: D:\www.acmh.org\files\admin\js\custom-32.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235823
+File Name: D:\www.acmh.org\files\admin\js\custom-33.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235825
+File Name: D:\www.acmh.org\files\admin\js\custom-34.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235828
+File Name: D:\www.acmh.org\files\admin\js\custom-35.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235829
+File Name: D:\www.acmh.org\files\admin\js\custom-36.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723583
+File Name: D:\www.acmh.org\files\admin\js\custom-15.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235831
+File Name: D:\www.acmh.org\files\admin\js\custom-37.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\js\custom-38.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235834
+File Name: D:\www.acmh.org\files\admin\js\custom-39.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235835
+File Name: D:\www.acmh.org\files\admin\js\custom-40.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235836
+File Name: D:\www.acmh.org\files\admin\js\custom-41.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235839
+File Name: D:\www.acmh.org\files\admin\js\custom-42.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723584
+File Name: D:\www.acmh.org\files\admin\js\custom-16.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235840
+File Name: D:\www.acmh.org\files\admin\js\custom-43.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235841
+File Name: D:\www.acmh.org\files\admin\js\custom-44.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235842
+File Name: D:\www.acmh.org\files\admin\js\custom-45.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235843
+File Name: D:\www.acmh.org\files\admin\js\custom-46.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235844
+File Name: D:\www.acmh.org\files\admin\js\custom-47.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235845
+File Name: D:\www.acmh.org\files\admin\js\custom-48.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723585
+File Name: D:\www.acmh.org\files\admin\js\custom-17.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022117235854
+File Name: D:\www.acmh.org\files\admin\js\custom-49.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723586
+File Name: D:\www.acmh.org\files\admin\js\custom-18.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723587
+File Name: D:\www.acmh.org\files\admin\js\custom-19.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723588
+File Name: D:\www.acmh.org\files\admin\js\custom-20.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211723589
+File Name: D:\www.acmh.org\files\admin\js\custom-21.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180021
+File Name: D:\www.acmh.org\files\admin\js\custom-50.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180027
+File Name: D:\www.acmh.org\files\admin\js\custom-51.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180028
+File Name: D:\www.acmh.org\files\admin\js\custom-52.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180029
+File Name: D:\www.acmh.org\files\admin\js\custom-53.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180030
+File Name: D:\www.acmh.org\files\admin\js\custom-54.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180031
+File Name: D:\www.acmh.org\files\admin\js\custom-55.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180032
+File Name: D:\www.acmh.org\files\admin\js\custom-56.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180033
+File Name: D:\www.acmh.org\files\admin\js\custom-57.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180034
+File Name: D:\www.acmh.org\files\admin\js\custom-58.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180035
+File Name: D:\www.acmh.org\files\admin\js\custom-59.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180036
+File Name: D:\www.acmh.org\files\admin\js\custom-60.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180037
+File Name: D:\www.acmh.org\files\admin\js\custom-61.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180038
+File Name: D:\www.acmh.org\files\admin\js\custom-62.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180111
+File Name: D:\www.acmh.org\files\admin\js\custom-63.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180117
+File Name: D:\www.acmh.org\files\admin\js\custom-64.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180118
+File Name: D:\www.acmh.org\files\admin\js\custom-65.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801543
+File Name: D:\www.acmh.org\files\admin\js\custom-100.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801544
+File Name: D:\www.acmh.org\files\admin\js\custom-101.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801545
+File Name: D:\www.acmh.org\files\admin\js\custom-102.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801546
+File Name: D:\www.acmh.org\files\admin\js\custom-103.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801547
+File Name: D:\www.acmh.org\files\admin\js\custom-104.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801548
+File Name: D:\www.acmh.org\files\admin\js\custom-105.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801549
+File Name: D:\www.acmh.org\files\admin\js\custom-106.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-202211801557
+File Name: D:\www.acmh.org\files\admin\js\custom-107.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\js\custom-66.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\js\custom-67.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180312
+File Name: D:\www.acmh.org\files\admin\js\custom-70.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\js\custom-68.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\js\custom-69.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180341
+File Name: D:\www.acmh.org\files\admin\js\custom-71.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\js\custom-72.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\js\custom-73.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\js\custom-74.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\js\custom-75.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\js\custom-76.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\js\custom-77.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\js\custom-78.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\js\custom-79.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\js\custom-80.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118054
+File Name: D:\www.acmh.org\files\admin\js\custom-81.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\js\custom-82.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\js\custom-83.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\js\custom-84.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\js\custom-85.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\js\custom-86.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\js\custom-87.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\js\custom-88.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\js\custom-89.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\js\custom-90.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\js\custom-91.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\js\custom-92.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180640
+File Name: D:\www.acmh.org\files\admin\js\custom-93.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\js\custom-94.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180754
+File Name: D:\www.acmh.org\files\admin\js\custom-95.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\js\custom-97.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\js\custom-98.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\js\custom-99.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/custom.js?v=2.3.4-2022118087
+File Name: D:\www.acmh.org\files\admin\js\custom-96.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/jquery.animateNumber.min.js
+File Name: D:\www.acmh.org\files\admin\js\jquery.animateNumber.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/jquery.appear.min.js
+File Name: D:\www.acmh.org\files\admin\js\jquery.appear.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/jquery.loadmore.js
+File Name: D:\www.acmh.org\files\admin\js\jquery.loadmore.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/jquery.min.js
+File Name: D:\www.acmh.org\files\admin\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/skrollr/skrollr.min.js
+File Name: D:\www.acmh.org\files\admin\js\skrollr\skrollr.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/js/slick/slick.css
+File Name: D:\www.acmh.org\files\admin\js\slick\slick.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/js/slick/slick.min.js
+File Name: D:\www.acmh.org\files\admin\js\slick\slick.min.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-creatinine-clearance.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-creatinine-clearance.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-fecal-fat.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-fecal-fat.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-glucose-tolerance.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-glucose-tolerance.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-glucose.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-glucose.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-occult-blood.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-occult-blood.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-pinworm-collection.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-pinworm-collection.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-semen-collection.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-semen-collection.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-sputum-collection.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-sputum-collection.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-stool-specimen.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-stool-specimen.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-urine-collection.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-urine-collection.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Lab/lab-urine-specimen.pdf
+File Name: D:\www.acmh.org\Files\Admin\Lab\lab-urine-specimen.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/linx-spin-frame-1-SM.jpg
+File Name: D:\www.acmh.org\Files\Admin\linx-spin-frame-1-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/MENTORS.jpg
+File Name: D:\www.acmh.org\Files\Admin\MENTORS.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/mhealth.jpg
+File Name: D:\www.acmh.org\Files\Admin\mhealth.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/modules/cards/js/main.js
+File Name: D:\www.acmh.org\files\admin\modules\cards\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/css/styles.css
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\css\styles.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235730
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235741
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-1.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235749
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-2.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235750
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-3.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235751
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-4.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235752
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-5.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235753
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-6.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235754
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-7.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235755
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-8.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235756
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-9.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235757
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-10.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235758
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-11.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235759
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-12.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723581
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-13.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235810
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-22.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235811
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-23.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235813
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-24.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235814
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-25.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235816
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-26.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235817
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-27.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235818
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-28.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235819
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-29.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723582
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-14.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235820
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-30.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235821
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-31.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235822
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-32.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235823
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-33.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235825
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-34.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235828
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-35.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235829
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-36.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723583
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-15.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235831
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-37.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-38.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235834
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-39.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235835
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-40.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235836
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-41.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235839
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-42.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723584
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-16.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235840
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-43.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235841
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-44.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235842
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-45.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235843
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-46.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235844
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-47.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235845
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-48.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723585
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-17.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022117235854
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-49.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723586
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-18.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723587
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-19.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723588
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-20.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211723589
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-21.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180021
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-50.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180027
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-51.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180028
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-52.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180029
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-53.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180030
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-54.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180031
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-55.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180032
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-56.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180033
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-57.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180034
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-58.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180035
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-59.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180036
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-60.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180037
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-61.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180038
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-62.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180111
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-63.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180117
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-64.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180118
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-65.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801543
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-100.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801544
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-101.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801545
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-102.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801546
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-103.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801547
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-104.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801548
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-105.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801549
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-106.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-202211801557
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-107.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-66.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-67.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180312
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-70.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-68.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-69.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180341
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-71.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-72.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-73.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-74.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-75.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-76.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-77.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-78.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-79.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-80.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118054
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-81.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-82.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-83.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-84.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-85.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-86.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-87.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-88.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-89.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-90.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-91.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-92.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180640
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-93.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-94.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180754
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-95.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-97.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-98.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-99.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/main.js?v=2.3.4-2022118087
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\main-96.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/CustomFrontEndControls/js/md5.js
+File Name: D:\www.acmh.org\files\admin\modules\CustomFrontEndControls\js\md5.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/Notifications/js/main.js
+File Name: D:\www.acmh.org\files\admin\modules\Notifications\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/img/female.jpg
+File Name: D:\www.acmh.org\files\admin\modules\physicians\img\female.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/img/male.jpg
+File Name: D:\www.acmh.org\files\admin\modules\physicians\img\male.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180243
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180244
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-1.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118032
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-2.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118033
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-3.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180348
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-4.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180349
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-5.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180350
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-6.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180434
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-7.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180435
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-8.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180436
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-9.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180437
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-10.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180448
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-11.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180453
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-12.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118055
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-13.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118056
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-14.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118057
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-15.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180613
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-16.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180614
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-17.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180615
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-18.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180616
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-19.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180617
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-20.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180618
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-21.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180619
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-22.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180620
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-23.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-2022118072
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-24.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180833
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-25.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180834
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-26.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/detail.js?v=2.3.4-20221180839
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\detail-27.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/physicians/js/main.js?v=2.3.4-2022117235832
+File Name: D:\www.acmh.org\files\admin\modules\physicians\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/resources/js/main.js
+File Name: D:\www.acmh.org\files\admin\modules\resources\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/SiteSearch/css/styles.css
+File Name: D:\www.acmh.org\files\admin\modules\SiteSearch\css\styles.css
+Content Type: text/css
+
+Uri: https://www.acmh.org/files/admin/modules/SiteSearch/js/main.js
+File Name: D:\www.acmh.org\files\admin\modules\SiteSearch\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/files/admin/modules/VideoPopup/js/main.js
+File Name: D:\www.acmh.org\files\admin\modules\VideoPopup\js\main.js
+Content Type: application/javascript
+
+Uri: https://www.acmh.org/Files/Admin/NEW-COURTHOUSE-COVER-SM-222.jpg
+File Name: D:\www.acmh.org\Files\Admin\NEW-COURTHOUSE-COVER-SM-222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/NEW-MONOCLONAL-PHYSICIAN-ORDER-PACKET-1-22.pdf
+File Name: D:\www.acmh.org\Files\Admin\NEW-MONOCLONAL-PHYSICIAN-ORDER-PACKET-1-22.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/NO-SURPRISES-ACT.pdf
+File Name: D:\www.acmh.org\Files\Admin\NO-SURPRISES-ACT.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Non-Discrimination-12-18.pdf
+File Name: D:\www.acmh.org\Files\Admin\Non-Discrimination-12-18.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/OBGYN/Communication-Preferences.pdf
+File Name: D:\www.acmh.org\Files\Admin\OBGYN\Communication-Preferences.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/OBGYN/Medical-Record-Release.pdf
+File Name: D:\www.acmh.org\Files\Admin\OBGYN\Medical-Record-Release.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/OBGYN/New-Patient-Information-Form.pdf
+File Name: D:\www.acmh.org\Files\Admin\OBGYN\New-Patient-Information-Form.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/OBGYN/New-Patient-OBGYN-Health-History.pdf
+File Name: D:\www.acmh.org\Files\Admin\OBGYN\New-Patient-OBGYN-Health-History.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Pain Management/pain-management-form.pdf
+File Name: D:\www.acmh.org\Files\Admin\Pain Management\pain-management-form.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Patient Portal/Instructions-Patient-Portal-Self-Enrollment_SEP2021.pdf
+File Name: D:\www.acmh.org\Files\Admin\Patient Portal\Instructions-Patient-Portal-Self-Enrollment_SEP2021.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/privacy-policy.pdf
+File Name: D:\www.acmh.org\Files\Admin\privacy-policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Providing-Information-About-the-False-Claims-Act-2018.pdf
+File Name: D:\www.acmh.org\Files\Admin\Providing-Information-About-the-False-Claims-Act-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/PULMONARY-HALL-WEB.jpg
+File Name: D:\www.acmh.org\Files\Admin\PULMONARY-HALL-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/PULMONARY-WEBSITE.jpg
+File Name: D:\www.acmh.org\Files\Admin\PULMONARY-WEBSITE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Admin/Rights %26 Concerns/ACMH-Clinical-Connect-15.pdf
+File Name: D:\www.acmh.org\Files\Admin\Rights & Concerns\ACMH-Clinical-Connect-15.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Rights %26 Concerns/Case-Management-FAQ.pdf
+File Name: D:\www.acmh.org\Files\Admin\Rights & Concerns\Case-Management-FAQ.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Shared Decision Making/ACMH-Patient-Aid---Arthritis-Should-I-Have-Hip-Replacement-Surgery-222.pdf
+File Name: D:\www.acmh.org\Files\Admin\Shared Decision Making\ACMH-Patient-Aid---Arthritis-Should-I-Have-Hip-Replacement-Surgery-222.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Shared Decision Making/ACMH-Patient-Aid---Joint--Pain-Management.pdf
+File Name: D:\www.acmh.org\Files\Admin\Shared Decision Making\ACMH-Patient-Aid---Joint--Pain-Management.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Shared Decision Making/ACMH-Patient-Aid---Total-Knee.pdf
+File Name: D:\www.acmh.org\Files\Admin\Shared Decision Making\ACMH-Patient-Aid---Total-Knee.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/SOTROVIMAB-PATIENT-FACT-SHEET.PDF
+File Name: D:\www.acmh.org\Files\Admin\SOTROVIMAB-PATIENT-FACT-SHEET.PDF
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Vendor-Policy.pdf
+File Name: D:\www.acmh.org\Files\Admin\Vendor-Policy.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Volunteer/Adult-Volunteer-Application-2018.pdf
+File Name: D:\www.acmh.org\Files\Admin\Volunteer\Adult-Volunteer-Application-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Volunteer/Junior-Volunteer-Application-2018.pdf
+File Name: D:\www.acmh.org\Files\Admin\Volunteer\Junior-Volunteer-Application-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/Volunteer/Volunteer-College-Scholarship-Award-2018.pdf
+File Name: D:\www.acmh.org\Files\Admin\Volunteer\Volunteer-College-Scholarship-Award-2018.pdf
+Content Type: application/pdf
+
+Uri: https://www.acmh.org/Files/Admin/WEB-ACMH-FACADE-ANGLE-BANNER.jpg
+File Name: D:\www.acmh.org\Files\Admin\WEB-ACMH-FACADE-ANGLE-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/BABY-1.jpg
+File Name: D:\www.acmh.org\files\cards\BABY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/BABY-BOY-1.jpg
+File Name: D:\www.acmh.org\files\cards\BABY-BOY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/BABY-BOY-2.jpg
+File Name: D:\www.acmh.org\files\cards\BABY-BOY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/BABY-GIRL-1.jpg
+File Name: D:\www.acmh.org\files\cards\BABY-GIRL-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/BABY-GIRL-2.jpg
+File Name: D:\www.acmh.org\files\cards\BABY-GIRL-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/CAT.jpg
+File Name: D:\www.acmh.org\files\cards\CAT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/DOG.jpg
+File Name: D:\www.acmh.org\files\cards\DOG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Faith-1.jpg
+File Name: D:\www.acmh.org\files\cards\Faith-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Faith-2.jpg
+File Name: D:\www.acmh.org\files\cards\Faith-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Get-Well-1.jpg
+File Name: D:\www.acmh.org\files\cards\Get-Well-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Get-Well-2.jpg
+File Name: D:\www.acmh.org\files\cards\Get-Well-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Thinking-1-Spring.jpg
+File Name: D:\www.acmh.org\files\cards\Thinking-1-Spring.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Thinking-2-Summer.jpg
+File Name: D:\www.acmh.org\files\cards\Thinking-2-Summer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Thinking-3-Fall.jpg
+File Name: D:\www.acmh.org\files\cards\Thinking-3-Fall.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Thinking-4-Winter.jpg
+File Name: D:\www.acmh.org\files\cards\Thinking-4-Winter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_BABY-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_BABY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_BABY-BOY-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_BABY-BOY-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_BABY-BOY-2.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_BABY-BOY-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_BABY-GIRL-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_BABY-GIRL-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_BABY-GIRL-2.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_BABY-GIRL-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_CAT.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_CAT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_DOG.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_DOG.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Faith-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Faith-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Faith-2.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Faith-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Get-Well-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Get-Well-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Get-Well-2.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Get-Well-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Thinking-1-Spring.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Thinking-1-Spring.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Thinking-2-Summer.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Thinking-2-Summer.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Thinking-3-Fall.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Thinking-3-Fall.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Thinking-4-Winter.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Thinking-4-Winter.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/thumb/thumb_Wishing-Well-1.jpg
+File Name: D:\www.acmh.org\files\cards\thumb\thumb_Wishing-Well-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/cards/Wishing-Well-1.jpg
+File Name: D:\www.acmh.org\files\cards\Wishing-Well-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Images/1be2e2cc-e24e-41ad-b813-ccb49145e775-medium16x9_GettyImages1221046101.jpg
+File Name: D:\www.acmh.org\Files\Images\1be2e2cc-e24e-41ad-b813-ccb49145e775-medium16x9_GettyImages1221046101.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Images/bigstock--204529756-WIDE.jpg
+File Name: D:\www.acmh.org\Files\Images\bigstock--204529756-WIDE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Images/KNEE-BACKGROUND-3.jpg
+File Name: D:\www.acmh.org\Files\Images\KNEE-BACKGROUND-3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Images/SHOULDER-222-SURGERY-BACKGROUND.jpg
+File Name: D:\www.acmh.org\Files\Images\SHOULDER-222-SURGERY-BACKGROUND.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/222.jpg
+File Name: D:\www.acmh.org\files\Physicians\222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/akers.jpg
+File Name: D:\www.acmh.org\files\Physicians\akers.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/ALAM-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\ALAM-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/AllisonZellefrowPA.jpg
+File Name: D:\www.acmh.org\files\Physicians\AllisonZellefrowPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/ALPERT.jpg
+File Name: D:\www.acmh.org\files\Physicians\ALPERT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/amith-shamir.jpg
+File Name: D:\www.acmh.org\files\Physicians\amith-shamir.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/bacudefault.jpg
+File Name: D:\www.acmh.org\files\Physicians\bacudefault.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/BAKER.jpg
+File Name: D:\www.acmh.org\files\Physicians\BAKER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Bartlett.jpg
+File Name: D:\www.acmh.org\files\Physicians\Bartlett.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/belasco.jpg
+File Name: D:\www.acmh.org\files\Physicians\belasco.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Betts-ross.jpg
+File Name: D:\www.acmh.org\files\Physicians\Betts-ross.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/bhat.jpg
+File Name: D:\www.acmh.org\files\Physicians\bhat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/BREANNA-HART-AUD.jpg
+File Name: D:\www.acmh.org\files\Physicians\BREANNA-HART-AUD.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/BRICE.jpg
+File Name: D:\www.acmh.org\files\Physicians\BRICE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/BROWN.jpg
+File Name: D:\www.acmh.org\files\Physicians\BROWN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Buchbarker-17.jpg
+File Name: D:\www.acmh.org\files\Physicians\Buchbarker-17.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/castillo.jpg
+File Name: D:\www.acmh.org\files\Physicians\castillo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Chelsey-Zimmerman-PAC.jpg
+File Name: D:\www.acmh.org\files\Physicians\Chelsey-Zimmerman-PAC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/CIPPEL.jpg
+File Name: D:\www.acmh.org\files\Physicians\CIPPEL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/CONRY.jpg
+File Name: D:\www.acmh.org\files\Physicians\CONRY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/DAVID.JPG
+File Name: D:\www.acmh.org\files\Physicians\DAVID.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/doner.jpg
+File Name: D:\www.acmh.org\files\Physicians\doner.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/DonRootPA.jpg
+File Name: D:\www.acmh.org\files\Physicians\DonRootPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Dr-Bernat.jpg
+File Name: D:\www.acmh.org\files\Physicians\Dr-Bernat.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/DR-VITI---WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\DR-VITI---WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/DUSTIN-KITTANNING.jpg
+File Name: D:\www.acmh.org\files\Physicians\DUSTIN-KITTANNING.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/edmondsweb.jpg
+File Name: D:\www.acmh.org\files\Physicians\edmondsweb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/EHRENBERGER.jpg
+File Name: D:\www.acmh.org\files\Physicians\EHRENBERGER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/espandar.jpg
+File Name: D:\www.acmh.org\files\Physicians\espandar.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/fortunato_directory.jpg
+File Name: D:\www.acmh.org\files\Physicians\fortunato_directory.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/fowler.jpg
+File Name: D:\www.acmh.org\files\Physicians\fowler.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/glaser.jpg
+File Name: D:\www.acmh.org\files\Physicians\glaser.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/GlennKresakPA.jpg
+File Name: D:\www.acmh.org\files\Physicians\GlennKresakPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/groomes2020.jpg
+File Name: D:\www.acmh.org\files\Physicians\groomes2020.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/GUTH.jpg
+File Name: D:\www.acmh.org\files\Physicians\GUTH.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/HeatherMiklosPA.jpg
+File Name: D:\www.acmh.org\files\Physicians\HeatherMiklosPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/HepnerNewThumb.jpg
+File Name: D:\www.acmh.org\files\Physicians\HepnerNewThumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/hoffer_.jpg
+File Name: D:\www.acmh.org\files\Physicians\hoffer_.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/hogan.jpg
+File Name: D:\www.acmh.org\files\Physicians\hogan.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/hong.jpg
+File Name: D:\www.acmh.org\files\Physicians\hong.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/hubert.jpg
+File Name: D:\www.acmh.org\files\Physicians\hubert.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/IMG_6625.jpg
+File Name: D:\www.acmh.org\files\Physicians\IMG_6625.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/jacobsonheadshot.jpg
+File Name: D:\www.acmh.org\files\Physicians\jacobsonheadshot.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/james_france.jpg
+File Name: D:\www.acmh.org\files\Physicians\james_france.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/jobe_new_2019.jpg
+File Name: D:\www.acmh.org\files\Physicians\jobe_new_2019.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/joseph_clark.jpg
+File Name: D:\www.acmh.org\files\Physicians\joseph_clark.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/JOYCE-BOWSER.jpg
+File Name: D:\www.acmh.org\files\Physicians\JOYCE-BOWSER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/justin-dosch-do.jpg
+File Name: D:\www.acmh.org\files\Physicians\justin-dosch-do.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/kaylamcgregorpa.jpg
+File Name: D:\www.acmh.org\files\Physicians\kaylamcgregorpa.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/keppel.jpg
+File Name: D:\www.acmh.org\files\Physicians\keppel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/KHALIL.jpg
+File Name: D:\www.acmh.org\files\Physicians\KHALIL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/kirtan-patel.jpg
+File Name: D:\www.acmh.org\files\Physicians\kirtan-patel.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/kisloff.jpg
+File Name: D:\www.acmh.org\files\Physicians\kisloff.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Klayton.jpg
+File Name: D:\www.acmh.org\files\Physicians\Klayton.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Kozminski-2019.jpg
+File Name: D:\www.acmh.org\files\Physicians\Kozminski-2019.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Kraig-Graham-Ortho-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\Kraig-Graham-Ortho-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/KUMAR-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\KUMAR-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/LEO.jpg
+File Name: D:\www.acmh.org\files\Physicians\LEO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/lindseystewart.jpg
+File Name: D:\www.acmh.org\files\Physicians\lindseystewart.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/LIPSITZ.JPG
+File Name: D:\www.acmh.org\files\Physicians\LIPSITZ.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/LITZ-THUMB2.jpg
+File Name: D:\www.acmh.org\files\Physicians\LITZ-THUMB2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/lynch.jpg
+File Name: D:\www.acmh.org\files\Physicians\lynch.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/MarcyMonreanPA.jpg
+File Name: D:\www.acmh.org\files\Physicians\MarcyMonreanPA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/MattStarrCRNP.jpg
+File Name: D:\www.acmh.org\files\Physicians\MattStarrCRNP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Maureen-Conroy-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\Maureen-Conroy-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/MICHELLE-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\MICHELLE-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/NARCISSE.jpg
+File Name: D:\www.acmh.org\files\Physicians\NARCISSE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/NEW-DOC.jpg
+File Name: D:\www.acmh.org\files\Physicians\NEW-DOC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/NEWHAMS-222.jpg
+File Name: D:\www.acmh.org\files\Physicians\NEWHAMS-222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/nickleach.jpg
+File Name: D:\www.acmh.org\files\Physicians\nickleach.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/ONDICH.JPG
+File Name: D:\www.acmh.org\files\Physicians\ONDICH.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/PAPAS_BETH_ANN_MD_PD_20180731.jpg
+File Name: D:\www.acmh.org\files\Physicians\PAPAS_BETH_ANN_MD_PD_20180731.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/PATTI-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\PATTI-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/ravasiothumb2.jpg
+File Name: D:\www.acmh.org\files\Physicians\ravasiothumb2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/redican.jpg
+File Name: D:\www.acmh.org\files\Physicians\redican.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/reitz.jpg
+File Name: D:\www.acmh.org\files\Physicians\reitz.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/REYER.JPG
+File Name: D:\www.acmh.org\files\Physicians\REYER.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/sagnik.jpg
+File Name: D:\www.acmh.org\files\Physicians\sagnik.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/satya.jpg
+File Name: D:\www.acmh.org\files\Physicians\satya.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/SHAFFER.JPG
+File Name: D:\www.acmh.org\files\Physicians\SHAFFER.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Shirley-249x300.jpg
+File Name: D:\www.acmh.org\files\Physicians\Shirley-249x300.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/SKOMO-WEB.jpg
+File Name: D:\www.acmh.org\files\Physicians\SKOMO-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/smitha.jpg
+File Name: D:\www.acmh.org\files\Physicians\smitha.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Sparks.jpg
+File Name: D:\www.acmh.org\files\Physicians\Sparks.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/sss.jpg
+File Name: D:\www.acmh.org\files\Physicians\sss.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/SUWAN.JPG
+File Name: D:\www.acmh.org\files\Physicians\SUWAN.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/SYED.JPG
+File Name: D:\www.acmh.org\files\Physicians\SYED.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/Tabbara.jpg
+File Name: D:\www.acmh.org\files\Physicians\Tabbara.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/TOWNSEND.jpg
+File Name: D:\www.acmh.org\files\Physicians\TOWNSEND.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/umarprofile.jpg
+File Name: D:\www.acmh.org\files\Physicians\umarprofile.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/val2021.jpg
+File Name: D:\www.acmh.org\files\Physicians\val2021.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/webBarretPain.jpg
+File Name: D:\www.acmh.org\files\Physicians\webBarretPain.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/willingham.jpg
+File Name: D:\www.acmh.org\files\Physicians\willingham.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Physicians/ZBANIC.jpg
+File Name: D:\www.acmh.org\files\Physicians\ZBANIC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/Charlie-5.JPG
+File Name: D:\www.acmh.org\files\Resources\Charlie-5.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Resources/ecan_thumb.jpg
+File Name: D:\www.acmh.org\Files\Resources\ecan_thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/IMG_4767.jpg
+File Name: D:\www.acmh.org\files\Resources\IMG_4767.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/INFUSION-LOGO.jpg
+File Name: D:\www.acmh.org\files\Resources\INFUSION-LOGO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/KNEE-ICON.jpg
+File Name: D:\www.acmh.org\files\Resources\KNEE-ICON.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Resources/lca_thumb.jpg
+File Name: D:\www.acmh.org\Files\Resources\lca_thumb.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/robothumb11-19.jpg
+File Name: D:\www.acmh.org\files\Resources\robothumb11-19.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/RV-PCC.jpg
+File Name: D:\www.acmh.org\files\Resources\RV-PCC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/files/Resources/STETHO-2.png
+File Name: D:\www.acmh.org\files\Resources\STETHO-2.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/files/Resources/Veran1.jpg
+File Name: D:\www.acmh.org\files\Resources\Veran1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/Resources/Veran3.jpg
+File Name: D:\www.acmh.org\Files\Resources\Veran3.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/SiteGeneralSettings/ACMH-favicon.png
+File Name: D:\www.acmh.org\Files\SiteGeneralSettings\ACMH-favicon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/files/TechnologiesSlider/bfclass.png
+File Name: D:\www.acmh.org\files\TechnologiesSlider\bfclass.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/files/TechnologiesSlider/ent_icon.png
+File Name: D:\www.acmh.org\files\TechnologiesSlider\ent_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/files/TechnologiesSlider/icon_linx.png
+File Name: D:\www.acmh.org\files\TechnologiesSlider\icon_linx.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/009-CROP.jpg
+File Name: D:\www.acmh.org\Files\User\009-CROP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/016.jpg
+File Name: D:\www.acmh.org\Files\User\016.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/031-SM.jpg
+File Name: D:\www.acmh.org\Files\User\031-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/034-SM.jpg
+File Name: D:\www.acmh.org\Files\User\034-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/047-CROP.jpg
+File Name: D:\www.acmh.org\Files\User\047-CROP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/2018-CHNA-04.jpg
+File Name: D:\www.acmh.org\Files\User\2018-CHNA-04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/2222.jpg
+File Name: D:\www.acmh.org\Files\User\2222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ACMH-cardiac-health-169099373-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\ACMH-cardiac-health-169099373-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ACMH-COMPASSION-WIDE-CTA.jpg
+File Name: D:\www.acmh.org\Files\User\ACMH-COMPASSION-WIDE-CTA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ACMH-COMPASSION.jpg
+File Name: D:\www.acmh.org\Files\User\ACMH-COMPASSION.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ACMH-FACADE-ANGLE-1.jpg
+File Name: D:\www.acmh.org\Files\User\ACMH-FACADE-ANGLE-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ACMH-HANDSHAKE-TEAL.jpg
+File Name: D:\www.acmh.org\Files\User\ACMH-HANDSHAKE-TEAL.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ANTI-ICON-SMALL-2.png
+File Name: D:\www.acmh.org\Files\User\ANTI-ICON-SMALL-2.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/apnea_link_plus1.jpg
+File Name: D:\www.acmh.org\Files\User\apnea_link_plus1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/BE-FAST.jpg
+File Name: D:\www.acmh.org\Files\User\BE-FAST.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bernat-WEB.jpg
+File Name: D:\www.acmh.org\Files\User\bernat-WEB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/BIG-BACKGROUND-CARDIAC.jpg
+File Name: D:\www.acmh.org\Files\User\BIG-BACKGROUND-CARDIAC.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock--153618578-SM.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock--153618578-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock--166961108.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock--166961108.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock-Filled-With-Bright-Lights-Hosp-113885279.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock-Filled-With-Bright-Lights-Hosp-113885279.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock-Neurology-Diagnostics-Hologra-303179911.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock-Neurology-Diagnostics-Hologra-303179911.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock-Portrait-of-happy-healthy-seni-262131679-SQ.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock-Portrait-of-happy-healthy-seni-262131679-SQ.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock-senior-couple-smiling-while-sh-74595307-SM.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock-senior-couple-smiling-while-sh-74595307-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock_Adult_Helping_Senior_In_Hospit_5315879.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock_Adult_Helping_Senior_In_Hospit_5315879.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/bigstock_Couples_In_Living_Room_With_Ba_4135712.jpg
+File Name: D:\www.acmh.org\Files\User\bigstock_Couples_In_Living_Room_With_Ba_4135712.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/birthicon21.png
+File Name: D:\www.acmh.org\Files\User\birthicon21.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/BlairJobe2018.jpg
+File Name: D:\www.acmh.org\Files\User\BlairJobe2018.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/BLUE-bigstock-Male-Doctor-Standing-In-The-Ho-347425816.jpg
+File Name: D:\www.acmh.org\Files\User\BLUE-bigstock-Male-Doctor-Standing-In-The-Ho-347425816.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/brainicon.png
+File Name: D:\www.acmh.org\Files\User\brainicon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/cardiaccare.png
+File Name: D:\www.acmh.org\Files\User\cardiaccare.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/ccpicon.png
+File Name: D:\www.acmh.org\Files\User\ccpicon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/ccptest6.jpg
+File Name: D:\www.acmh.org\Files\User\ccptest6.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/CDC-stop-the-spread-mask-1200x1200_b4d63079-4a55-4b0e-853a-eb599cf43b12-prv.jpg
+File Name: D:\www.acmh.org\Files\User\CDC-stop-the-spread-mask-1200x1200_b4d63079-4a55-4b0e-853a-eb599cf43b12-prv.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Community-Icon.png
+File Name: D:\www.acmh.org\Files\User\Community-Icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/CONCUSSION-1-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\CONCUSSION-1-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/CONCUSSION-2-SM.jpg
+File Name: D:\www.acmh.org\Files\User\CONCUSSION-2-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/CRP.jpg
+File Name: D:\www.acmh.org\Files\User\CRP.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/diabetes_icon.png
+File Name: D:\www.acmh.org\Files\User\diabetes_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/dt_200121_coronavirus_800x450.jpg
+File Name: D:\www.acmh.org\Files\User\dt_200121_coronavirus_800x450.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ED-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\ED-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ED-RENOVATIONS-SM.jpg
+File Name: D:\www.acmh.org\Files\User\ED-RENOVATIONS-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ED.png
+File Name: D:\www.acmh.org\Files\User\ED.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/ent_icon.png
+File Name: D:\www.acmh.org\Files\User\ent_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/facade.jpg
+File Name: D:\www.acmh.org\Files\User\facade.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/FLIP-DOCTOR.jpg
+File Name: D:\www.acmh.org\Files\User\FLIP-DOCTOR.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/FoundationIconSmall.png
+File Name: D:\www.acmh.org\Files\User\FoundationIconSmall.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/ghx_cta.jpg
+File Name: D:\www.acmh.org\Files\User\ghx_cta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/hallwaymasthead.jpg
+File Name: D:\www.acmh.org\Files\User\hallwaymasthead.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Hands-Masthead-BW.jpg
+File Name: D:\www.acmh.org\Files\User\Hands-Masthead-BW.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Heart.png
+File Name: D:\www.acmh.org\Files\User\Heart.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/i-ecard.png
+File Name: D:\www.acmh.org\Files\User\i-ecard.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/i-emergency.png
+File Name: D:\www.acmh.org\Files\User\i-emergency.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/i-employees.png
+File Name: D:\www.acmh.org\Files\User\i-employees.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/icons-2.jpg
+File Name: D:\www.acmh.org\Files\User\icons-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/icon_lungs.png
+File Name: D:\www.acmh.org\Files\User\icon_lungs.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/Imaging-SM.jpg
+File Name: D:\www.acmh.org\Files\User\Imaging-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/img04.jpg
+File Name: D:\www.acmh.org\Files\User\img04.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Img127_Xi_Arms_Fanned_High_Res_184823.jpg
+File Name: D:\www.acmh.org\Files\User\Img127_Xi_Arms_Fanned_High_Res_184823.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Img134_Xi_Surgeon_at_Console_High_Res_185170-SM.jpg
+File Name: D:\www.acmh.org\Files\User\Img134_Xi_Surgeon_at_Console_High_Res_185170-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Img181_Back_of_Patient_Side_Cart_UI_223202.jpg
+File Name: D:\www.acmh.org\Files\User\Img181_Back_of_Patient_Side_Cart_UI_223202.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/IMG_0414-SM-4.jpg
+File Name: D:\www.acmh.org\Files\User\IMG_0414-SM-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/IMG_3539.JPG
+File Name: D:\www.acmh.org\Files\User\IMG_3539.JPG
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/IR-ROOM-4.jpg
+File Name: D:\www.acmh.org\Files\User\IR-ROOM-4.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/KUMAR-TEAM-WEBSITE.jpg
+File Name: D:\www.acmh.org\Files\User\KUMAR-TEAM-WEBSITE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/LABORATORY-1-SM.jpg
+File Name: D:\www.acmh.org\Files\User\LABORATORY-1-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/LABORATORY-2-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\LABORATORY-2-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/logo.png
+File Name: D:\www.acmh.org\Files\User\logo.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/LOW-DOSE-CT-WEB-SM.jpg
+File Name: D:\www.acmh.org\Files\User\LOW-DOSE-CT-WEB-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/LUNG-357483089-222.jpg
+File Name: D:\www.acmh.org\Files\User\LUNG-357483089-222.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/LUNG-CTA.jpg
+File Name: D:\www.acmh.org\Files\User\LUNG-CTA.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/MAIN-PAGE-CANCER.jpg
+File Name: D:\www.acmh.org\Files\User\MAIN-PAGE-CANCER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/mammo.jpg
+File Name: D:\www.acmh.org\Files\User\mammo.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/mammothumb921.jpg
+File Name: D:\www.acmh.org\Files\User\mammothumb921.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/map_icon.png
+File Name: D:\www.acmh.org\Files\User\map_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/maxresdefault.jpg
+File Name: D:\www.acmh.org\Files\User\maxresdefault.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/medevac.jpg
+File Name: D:\www.acmh.org\Files\User\medevac.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/MEDIA-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\MEDIA-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/media_cta.jpg
+File Name: D:\www.acmh.org\Files\User\media_cta.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/MISC-HALLWAY-SHOT.jpg
+File Name: D:\www.acmh.org\Files\User\MISC-HALLWAY-SHOT.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Nav-Bronc-9-SM.jpg
+File Name: D:\www.acmh.org\Files\User\Nav-Bronc-9-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/NEW-Wash-Hands-2020.jpg
+File Name: D:\www.acmh.org\Files\User\NEW-Wash-Hands-2020.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/newham_kirsten-DSC_5722.2.jpg
+File Name: D:\www.acmh.org\Files\User\newham_kirsten-DSC_5722.2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/NUTRITION-COUNSELING-1.jpg
+File Name: D:\www.acmh.org\Files\User\NUTRITION-COUNSELING-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/NUTRITION-COUNSELING-2-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\NUTRITION-COUNSELING-2-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/ortho-icon.png
+File Name: D:\www.acmh.org\Files\User\ortho-icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/ORTHOPEDICS-2.jpg
+File Name: D:\www.acmh.org\Files\User\ORTHOPEDICS-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/PET-THERAPY-SM.jpg
+File Name: D:\www.acmh.org\Files\User\PET-THERAPY-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/PLANNING-YOUR-STAY-PHOTO.jpg
+File Name: D:\www.acmh.org\Files\User\PLANNING-YOUR-STAY-PHOTO.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/portal_icon.png
+File Name: D:\www.acmh.org\Files\User\portal_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/PRIMARY-CARE-2-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\PRIMARY-CARE-2-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Primarycare.png
+File Name: D:\www.acmh.org\Files\User\Primarycare.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/Rehabilitation-55373084-SM.jpg
+File Name: D:\www.acmh.org\Files\User\Rehabilitation-55373084-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/rehab_icon.png
+File Name: D:\www.acmh.org\Files\User\rehab_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/roboticmasthead.jpg
+File Name: D:\www.acmh.org\Files\User\roboticmasthead.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/seniorswalking.jpg
+File Name: D:\www.acmh.org\Files\User\seniorswalking.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/SHIELD-PNG.png
+File Name: D:\www.acmh.org\Files\User\SHIELD-PNG.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/SLEEP-LAB.jpg
+File Name: D:\www.acmh.org\Files\User\SLEEP-LAB.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/social-distancing-6ft-1080x1080.jpg
+File Name: D:\www.acmh.org\Files\User\social-distancing-6ft-1080x1080.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/SURGICAL-SERVICES-1-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\SURGICAL-SERVICES-1-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/SURGICAL-SERVICES-1-SM.jpg
+File Name: D:\www.acmh.org\Files\User\SURGICAL-SERVICES-1-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/SURGICAL-SERVICES-2.jpg
+File Name: D:\www.acmh.org\Files\User\SURGICAL-SERVICES-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Typing.jpg
+File Name: D:\www.acmh.org\Files\User\Typing.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/uro_icon.png
+File Name: D:\www.acmh.org\Files\User\uro_icon.png
+Content Type: image/png
+
+Uri: https://www.acmh.org/Files/User/video-tmp.jpg
+File Name: D:\www.acmh.org\Files\User\video-tmp.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-ACMH-FACADE-ANGLE-BANNER.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-ACMH-FACADE-ANGLE-BANNER.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-ACMH-FACADE.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-ACMH-FACADE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-ED-2.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-ED-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-EMERGENCY-DEPARTMENT-1.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-EMERGENCY-DEPARTMENT-1.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-FIND-PHYSICIAN.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-FIND-PHYSICIAN.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WEB-PULMONARY.jpg
+File Name: D:\www.acmh.org\Files\User\WEB-PULMONARY.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/Website-2.jpg
+File Name: D:\www.acmh.org\Files\User\Website-2.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WIDE-bigstock-The-Doctor-Prepares-A-System-F-350323582.jpg
+File Name: D:\www.acmh.org\Files\User\WIDE-bigstock-The-Doctor-Prepares-A-System-F-350323582.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WOUND-CARE-HBO-2-SM.jpg
+File Name: D:\www.acmh.org\Files\User\WOUND-CARE-HBO-2-SM.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/Files/User/WOUND-CARE.jpg
+File Name: D:\www.acmh.org\Files\User\WOUND-CARE.jpg
+Content Type: image/jpeg
+
+Uri: https://www.acmh.org/foundation
+File Name: D:\www.acmh.org\foundation.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/imaging
+File Name: D:\www.acmh.org\imaging.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/lab
+File Name: D:\www.acmh.org\lab.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/locations
+File Name: D:\www.acmh.org\locations.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/lung-esophageal
+File Name: D:\www.acmh.org\lung-esophageal.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/medical-records
+File Name: D:\www.acmh.org\medical-records.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/monoclonal
+File Name: D:\www.acmh.org\monoclonal.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/monoclonal-physician
+File Name: D:\www.acmh.org\monoclonal-physician.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/neurology
+File Name: D:\www.acmh.org\neurology.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/neurosurgery
+File Name: D:\www.acmh.org\neurosurgery.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/news-and-media
+File Name: D:\www.acmh.org\news-and-media.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/nutrition-counseling
+File Name: D:\www.acmh.org\nutrition-counseling.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/obgyn
+File Name: D:\www.acmh.org\obgyn.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/orthopedics
+File Name: D:\www.acmh.org\orthopedics.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/pain-management
+File Name: D:\www.acmh.org\pain-management.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/patient-portal
+File Name: D:\www.acmh.org\patient-portal.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/patients-and-visitors
+File Name: D:\www.acmh.org\patients-and-visitors.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/pediatrics
+File Name: D:\www.acmh.org\pediatrics.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Andrea-Skomo-DO
+File Name: D:\www.acmh.org\Physician-Andrea-Skomo-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Andrew-Brown-MD
+File Name: D:\www.acmh.org\Physician-Andrew-Brown-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Bert-Hepner-DO
+File Name: D:\www.acmh.org\Physician-Bert-Hepner-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Breanna-Scheller-PHD-AUD
+File Name: D:\www.acmh.org\Physician-Breanna-Scheller-PHD-AUD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Chad-Shaffer-MD
+File Name: D:\www.acmh.org\Physician-Chad-Shaffer-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Craig-Viti-MD
+File Name: D:\www.acmh.org\Physician-Craig-Viti-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Curt-Conry-MD
+File Name: D:\www.acmh.org\Physician-Curt-Conry-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Donald-Ehrenberger-DO
+File Name: D:\www.acmh.org\Physician-Donald-Ehrenberger-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Donald-Ravasio-DO
+File Name: D:\www.acmh.org\Physician-Donald-Ravasio-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Geri-Bacu-MD
+File Name: D:\www.acmh.org\Physician-Geri-Bacu-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Jeffrey-David-MD
+File Name: D:\www.acmh.org\Physician-Jeffrey-David-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Jeffrey-Reyer-DO
+File Name: D:\www.acmh.org\Physician-Jeffrey-Reyer-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Joseph-Cippel-MD
+File Name: D:\www.acmh.org\Physician-Joseph-Cippel-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Joshua-Brice-DO
+File Name: D:\www.acmh.org\Physician-Joshua-Brice-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Kelly-Zbanic-DO
+File Name: D:\www.acmh.org\Physician-Kelly-Zbanic-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Kraig-Graham
+File Name: D:\www.acmh.org\Physician-Kraig-Graham.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Matthew-Kozminski-DO
+File Name: D:\www.acmh.org\Physician-Matthew-Kozminski-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Maureen-Conroy-DO
+File Name: D:\www.acmh.org\Physician-Maureen-Conroy-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Michael-Ondich-DO
+File Name: D:\www.acmh.org\Physician-Michael-Ondich-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Michelle-Keibler-CRNP
+File Name: D:\www.acmh.org\Physician-Michelle-Keibler-CRNP.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Mitchell-Patti-MD
+File Name: D:\www.acmh.org\Physician-Mitchell-Patti-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Mushtaq-Syed-MD
+File Name: D:\www.acmh.org\Physician-Mushtaq-Syed-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Richard-Bernat-MD
+File Name: D:\www.acmh.org\Physician-Richard-Bernat-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Richard-Fortunato-DO
+File Name: D:\www.acmh.org\Physician-Richard-Fortunato-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Sarun-Suwan-MD
+File Name: D:\www.acmh.org\Physician-Sarun-Suwan-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Thomas-Litz-DO
+File Name: D:\www.acmh.org\Physician-Thomas-Litz-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Vicky-Leo-DO
+File Name: D:\www.acmh.org\Physician-Vicky-Leo-DO.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Physician-Yanouchka-Narcisse-MD
+File Name: D:\www.acmh.org\Physician-Yanouchka-Narcisse-MD.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/physicians
+File Name: D:\www.acmh.org\physicians.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/primary-care
+File Name: D:\www.acmh.org\primary-care.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/pulmonary
+File Name: D:\www.acmh.org\pulmonary.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/rehab
+File Name: D:\www.acmh.org\rehab.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-ACMH-Named-Screening-Center-of-Excellence
+File Name: D:\www.acmh.org\Resource-ACMH-Named-Screening-Center-of-Excellence.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Annual-Reports
+File Name: D:\www.acmh.org\Resource-Annual-Reports.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-BLOOD-DRIVE
+File Name: D:\www.acmh.org\Resource-BLOOD-DRIVE.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-BLOOD-DRIVE-OCTOBER
+File Name: D:\www.acmh.org\Resource-BLOOD-DRIVE-OCTOBER.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Celebrating-1000-Robotic-Surgeries
+File Name: D:\www.acmh.org\Resource-Celebrating-1000-Robotic-Surgeries.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Class-Schedule
+File Name: D:\www.acmh.org\Resource-Class-Schedule.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Coronavirus-Disease-2019
+File Name: D:\www.acmh.org\Resource-Coronavirus-Disease-2019.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Esteemed-ACMH-Surgeon-Joins-ECAN-Board-of-Directors
+File Name: D:\www.acmh.org\Resource-Esteemed-ACMH-Surgeon-Joins-ECAN-Board-of-Directors.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Free-Skin-Cancer-Screening
+File Name: D:\www.acmh.org\Resource-Free-Skin-Cancer-Screening.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-KNEE-EVENT
+File Name: D:\www.acmh.org\Resource-KNEE-EVENT.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-MRI-Scanner
+File Name: D:\www.acmh.org\Resource-MRI-Scanner.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-New-Surgeon
+File Name: D:\www.acmh.org\Resource-New-Surgeon.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Newborn-Simulator
+File Name: D:\www.acmh.org\Resource-Newborn-Simulator.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-PA-DONOR-DAY-2022
+File Name: D:\www.acmh.org\Resource-PA-DONOR-DAY-2022.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-RACP-Grant
+File Name: D:\www.acmh.org\Resource-RACP-Grant.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Tenex
+File Name: D:\www.acmh.org\Resource-Tenex.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-Update-Primary-Care-Center
+File Name: D:\www.acmh.org\Resource-Update-Primary-Care-Center.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/Resource-veran-press-release
+File Name: D:\www.acmh.org\Resource-veran-press-release.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/resources
+File Name: D:\www.acmh.org\resources.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/rights-and-concerns
+File Name: D:\www.acmh.org\rights-and-concerns.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/robotic-surgery
+File Name: D:\www.acmh.org\robotic-surgery.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=1
+File Name: D:\www.acmh.org\send-card-14.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=10
+File Name: D:\www.acmh.org\send-card-5.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=11
+File Name: D:\www.acmh.org\send-card-10.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=12
+File Name: D:\www.acmh.org\send-card-11.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=13
+File Name: D:\www.acmh.org\send-card-12.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=14
+File Name: D:\www.acmh.org\send-card-13.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=15
+File Name: D:\www.acmh.org\send-card-1.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=16
+File Name: D:\www.acmh.org\send-card.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=2
+File Name: D:\www.acmh.org\send-card-15.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=3
+File Name: D:\www.acmh.org\send-card-2.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=4
+File Name: D:\www.acmh.org\send-card-3.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=5
+File Name: D:\www.acmh.org\send-card-4.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=6
+File Name: D:\www.acmh.org\send-card-7.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=7
+File Name: D:\www.acmh.org\send-card-9.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=8
+File Name: D:\www.acmh.org\send-card-8.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/send-card?id=9
+File Name: D:\www.acmh.org\send-card-6.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/shared-decision-making
+File Name: D:\www.acmh.org\shared-decision-making.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/skilled-nursing
+File Name: D:\www.acmh.org\skilled-nursing.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/sleep-disorders
+File Name: D:\www.acmh.org\sleep-disorders.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/stroke
+File Name: D:\www.acmh.org\stroke.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/surgery
+File Name: D:\www.acmh.org\surgery.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/urology
+File Name: D:\www.acmh.org\urology.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/vendors
+File Name: D:\www.acmh.org\vendors.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/veterans
+File Name: D:\www.acmh.org\veterans.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/volunteer
+File Name: D:\www.acmh.org\volunteer.html
+Content Type: text/html
+
+Uri: https://www.acmh.org/wound-care
+File Name: D:\www.acmh.org\wound-care.html
+Content Type: text/html
+
+Uri: https://www.google.com/recaptcha/api.js
+File Name: D:\www.acmh.org\recaptcha\api.js
+Content Type: text/javascript
+
+Uri: https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif
+File Name: D:\www.acmh.org\en_US\i\btn\btn_donateCC_LG.gif
+Content Type: image/gif
+
+Uri: https://www.paypalobjects.com/en_US/i/scr/pixel.gif
+File Name: D:\www.acmh.org\en_US\i\scr\pixel.gif
+Content Type: image/gif
+

@@ -1,0 +1,46 @@
+.mkd-preload-background { background-image: url(../img/preload-pattern.png) !important;}
+
+.mkd-boxed .mkd-wrapper { background-attachment: fixed;}
+
+.mkd-smooth-transition-loader { background-color: #ffffff;}
+
+.cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea { height: 234px;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz { background-color: rgba(255, 255, 255, 1);border-color: rgba(225, 225, 225, 1);border-width: 1px;border-radius: 0px;}
+
+.cf7_custom_style_3 input.wpcf7-form-control.wpcf7-text:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-number:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-date:focus, .cf7_custom_style_3 textarea.wpcf7-form-control.wpcf7-textarea:focus, .cf7_custom_style_3 select.wpcf7-form-control.wpcf7-select:focus, .cf7_custom_style_3 input.wpcf7-form-control.wpcf7-quiz:focus { background-color: rgba(255, 255, 255, 1);border-color: rgba(165, 164, 164, 1);}
+
+.mkd-content .mkd-content-inner > .mkd-full-width > .mkd-full-width-inner { padding-top: 66px;}
+
+.mkd-content .mkd-content-inner > .mkd-container > .mkd-container-inner { padding-top: 66px;}
+
+footer .mkd-footer-top-holder { background-image: url(../../../../uploads/2017/03/Footer-Background.jpg);}
+
+footer .mkd-footer-bottom-holder { background-image: url(../../../../uploads/2017/03/Footer-Bottom-1.jpg);}
+
+.mkd-header-standard-extended .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-centered .mkd-page-header .mkd-logo-area .mkd-grid .mkd-vertical-align-containers { border: 0;}
+
+.mkd-header-vertical .mkd-header-vertical .mkd-vertical-menu-area-inner { text-align: center;}
+
+.mkd-side-menu-slide-from-right .mkd-wrapper .mkd-cover { background-color: #000000;}
+
+.mkd-side-menu-slide-from-right.mkd-right-side-menu-opened .mkd-wrapper .mkd-cover { opacity: 0.4;}
+
+a.mkd-side-menu-button-opener { color: #ffffff;}
+
+a.mkd-side-menu-button-opener:hover { color: #ffffff;}
+
+.mkd-light-header .mkd-page-header > div:not(.mkd-sticky-header) .mkd-side-menu-button-opener,
+			.mkd-light-header.mkd-header-style-on-scroll .mkd-page-header .mkd-side-menu-button-opener,
+			.mkd-light-header .mkd-top-bar .mkd-side-menu-button-opener { color: #ffffff !important;}
+
+.mkd-light-header .mkd-page-header > div:not(.mkd-sticky-header) .mkd-side-menu-button-opener:hover,
+			.mkd-light-header.mkd-header-style-on-scroll .mkd-page-header .mkd-side-menu-button-opener:hover,
+			.mkd-light-header .mkd-top-bar .mkd-side-menu-button-opener:hover { color: #ffffff !important;}
+
+.mkd-side-menu, .mkd-side-area-uncovered-from-content .mkd-side-menu, .mkd-side-menu-slide-from-right .mkd-side-menu { background-color: #000000;}
+
+.mkd-side-menu a.mkd-close-side-menu span, .mkd-side-menu a.mkd-close-side-menu i { color: #fff;}
+

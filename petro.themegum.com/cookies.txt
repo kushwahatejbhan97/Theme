@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+petro.themegum.com	TRUE	/	FALSE	1999999999	woocommerce_items_in_cart	1
+petro.themegum.com	TRUE	/	FALSE	1999999999	wp_woocommerce_session_c3c9fd51554502f428df3a2092dc7844	35d1d206ef2f734ae827d88c64dee1a4%7C%7C1671107261%7C%7C1671103661%7C%7C132378e89548be573e8ab9cb3d7f11d8
+petro.themegum.com	TRUE	/	FALSE	1999999999	woocommerce_cart_hash	1b6e8d4f9257a28794e37b0d80026274
+

@@ -1,0 +1,7 @@
+@font-face {
+  font-family: 'Days One';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/daysone/v14/mem9YaCnxnKRiYZOCLYV.ttf) format('truetype');
+}

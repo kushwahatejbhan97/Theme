@@ -1,0 +1,3474 @@
+
+*{
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+.bottompadd{
+    margin-bottom: 6vh;
+  }
+  .homebg{
+    background-color: #f6f9fa;
+  }
+
+
+  .main{
+    background: #f6f6f7;
+  }
+  .load {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  ::-webkit-scrollbar {
+    width: 3px;
+    border-radius: 2px;
+    padding-right: 5px;
+  }
+  ::-webkit-scrollbar-thumb {
+    background: #a6a8b4;
+    padding-right: 5px;
+  }
+  li{
+    list-style: none;
+  }
+  
+  /* --------------------Header Component start------------------------- */
+  
+  /* --------------------Main Header start------------------------- */
+  .mobilehead{
+    display: none;
+  }
+  .mainheader{
+    width: 100%;
+    height: 80px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 9999;
+    background: #fff;
+  }
+  .mainheader .mainhedlogo{
+    width: 15%;
+    height: 100%;
+  }
+  .mainheader .mainhedshcont{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 60%;
+    height: auto;
+    padding: 0.5%;
+    border: 1px solid rgb(215, 223, 229);
+    border-radius: 8px;
+    box-shadow: rgb(0 0 0 / 8%) 0px 4px 7px;
+  }
+  .mainhedshcont .mnheclick {
+    display: flex;
+    width: 30%;
+    height: auto;
+    justify-content: space-evenly;
+    align-items: center;
+  }
+  .mainhedshcont .mhsein {
+    display: flex;
+    width: 70%;
+    height: 100%;
+  }
+  .mhsein form{
+    width: 100%;
+  }
+  .mainhedshcont .mhsein input{
+    width: 100%;
+    height: 100%;
+    border: transparent;
+    outline: none;
+    background: transparent;
+  }
+  
+  .mainheader .mhul{
+    width: 25%;
+    height: 100%;
+  }
+  
+  .mainheader .mhul ul{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+  }
+  
+  .mainheader .mhul ul li{
+    cursor: pointer;
+  }
+  .mainheader .mhul ul li h6{
+    color: #000;
+    margin-left: 5px;
+  }
+  
+  .mobhead{
+    display: none;
+  }
+  .mobsticky{
+    display: none;
+  }
+  /* --------------------------------Clock box start------------------------------- */
+  
+  .headaddress {
+    display: none;
+  }
+  .mainheader .mnheclick .headaddress {
+    display: block;
+    position: absolute;
+    background: #fff;
+    z-index: 99;
+    width: 25%;
+    height: auto;
+    margin-top: 25%;
+    margin-left:6.5%;
+    box-shadow: rgb(0 0 0 / 8%) 0px 4px 7px;
+    border-radius: 5px;
+    padding: 4px 10px;
+  }
+  
+  .headaddress h6{
+    color: #000 !important;
+    padding: 5px 0;
+  }
+  .headaddress h5{
+    color: #6f7284!important;
+    font-size: 13px;
+  }
+  
+  .headaddress button{
+    width: 100%;
+    padding: 2% 4%;
+    border: transparent;
+    color: #378f30;
+    font-weight: 600;
+    border-radius: 6px;
+  
+  }
+  
+  .headaddress .heddividersd{
+    border-bottom: 1px solid rgb(215, 223, 229);
+    margin-bottom: 10px;
+  }
+  .headaddress .hedinput{
+    width: 100%;
+    height: 35px;
+    background: #e6e9fc;
+    border-radius: 4px;
+    align-items: center;
+    font-size: large;
+    display: flex;
+  }
+  
+  .headaddress .hedinput input{
+    width: 90%;
+    border: transparent;
+    outline: none;
+    background: transparent;
+  }
+  
+  .headaddress .locanto{
+    display: flex;
+    color: MediumSeaGreen;
+    align-items: center;
+  
+  }
+  .headaddress .locanto p{
+    margin-top: 13px;
+    margin-left: 15px;
+    cursor: pointer;
+  }
+   .headaddress h6:nth-child(1) {
+    color: rgba(11, 18, 25, 0.5);
+    font-size: 16px;
+  }
+  .headaddress h6:nth-child(2) {
+    color: MediumSeaGreen;
+    font-size: 16px;
+  }
+  .headaddress h6:nth-child(3) {
+    color: rgba(11, 18, 25, 0.5);
+    font-size: 22px;
+  }
+  /* --------------------Click box end------------------------- */
+  
+  /* --------------------Main Header end------------------------- */
+  
+  /* --------------------Secondrary Header start------------------------- */
+  
+  .seched{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  .seched .secondhedmain{
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  }
+  
+  /* --------------------Secondrary Header end------------------------- */
+  /*---------------footer open----------------------*/
+  .footer {
+    background: #fff;
+    height: auto;
+    padding: 20px;
+    margin-top: 20px;
+  }
+  .footer .footerone {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 15px;
+  }
+  .footer .footerone .footeronedown ul li {
+    color: #021f12;
+    font-size: 16px;
+    font-weight: 601;
+  }
+  .footer .footertwo {
+    padding: 10px;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .footer .footertwo .footertwo1 h4{
+    font-weight: 600;
+  }
+  .footer .footertwo .footertwo1 ul{
+    padding-top: 4px;
+  }
+  .footer .footertwo .footertwo1 ul li {
+    display: block;
+    padding-bottom: 10px;
+    color: #0b1219;
+    font-size: 15px;
+    
+  }
+  
+  .footertwo1 ul .listff {
+    border-bottom: 1px solid #151b39;
+    margin: 0 30px 0 0px;
+    padding: 20px 0;
+  }
+  .footertwo1 ul li input {
+    border: transparent;
+    outline: none;
+  }
+  .footertwo1 ul li button {
+    border: transparent;
+    outline: none;
+    background: transparent;
+    color: #24aeb1;
+    float: right;
+    font-size: 18px;
+  }
+  .footertwo1 ul li ul {
+    display: flex;
+    margin-left: -30px;
+    margin-top: 15px;
+  }
+  .footertwo1 ul li ul li:nth-child(2) {
+    padding-left: 10px;
+  }
+  .footertwo1 ul li ul li img {
+    width: 130px;
+    height: 35px;
+    cursor: pointer;
+  }
+  .footer .footerthree {
+    padding: 0 20px;
+  }
+  .footer .footerthree ul {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+  }
+  .footer .footerthree ul li {
+    text-align: center;
+    color: #0b1219;
+    font-size: 15px;
+  }
+  
+  /*---------------footer close----------------------*/
+  
+  /* --------------------Header Component  end------------------------- */
+  
+  /* -----------------------------home slider start------------------------- */
+  .homeSlider{
+    margin: 0 20px;
+    width:98%;
+    }
+    .homeSlider .homeSliderImg{
+      width: 100%;
+      height: 320px;
+    }
+    .homeSlider .homeSliderImg img{
+      width: 100%;
+      height:100%;
+      cursor: pointer;
+    }
+  
+    .swiperimg{
+      border-radius: 10px;
+      margin: 10px;
+      width: 95%;
+    }
+    .mySwiper{
+      margin: 20px;
+    }
+  
+  /* -----------------------------home slider end------------------------- */
+  
+  /* -----------------------------upload page start------------------------- */
+  
+  .uploadcont{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 12.5%;
+  }
+  .uploadcont .uplomain{
+    width: 80%;
+    height: auto;
+  }
+  .uplomain .uplodissd{
+    width: 100%;
+    height: auto;
+    display: flex;
+  }
+  .uplomain .uplodissd .uplodfleft{
+    width: 70%;
+    height: auto;
+    background: #fff;
+    border-radius: 6px;
+    padding: 1%;
+  }
+  
+  .uplomain .uplodissd .uplodfleft .uplfttop{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+   
+  }
+  .uplodfleft .uplfttop h5{
+    font-size: 14px;
+  }
+  .uplodfleft .uplfttop h6{
+    font-size: 12px;
+    color: #ef4281;
+  }
+  
+  .uplodfleft .uplftbottom{
+    width: 100%;
+    height: 60%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+  }
+  .previewImage{
+    margin-top: 5%;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+  .previewImage img{
+    width: 110px;
+    height: 110px;
+    border: 1px solid #000;
+    background: #f5f5f5;
+  }
+  .previewImage .imageset{
+    margin: 5px 5px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .previewImage .imageset h6{
+    margin-top: -17px;
+    z-index: 99;
+    font-size: 22px;
+    color: red;
+    cursor: pointer;
+  }
+  #upload-photo {
+    opacity: 0;
+    position: absolute;
+    z-index: -1;
+  }
+  .label {
+    cursor: pointer;
+    width: 50px;
+    height: 50px;
+    border-radius: 50%;
+    background: #accbce;
+    text-align: center;
+  
+  }
+  .label img{
+    margin-top: 5px;
+    width: 70%;
+    height: 70%;
+    color: red;
+  }
+  
+  .uplomain .uplodissd .uplodisright{
+    width: 30%;
+    height: auto;
+  }
+  .uplodisright .uploadfoot{
+    width: 100%;
+    height: 40vh;
+    background: #fff;
+    border-radius: 6px;
+    padding: 5px;
+  }
+  .uplodisright h6{
+    margin: 5px;
+    font-size: 13px;
+  }
+  .uplodisright .uploadform{
+    width: 100%;
+    height: auto;
+  }
+  .uplodisright p{
+    margin: 5px;
+    font-size: 13px;
+  }
+  .uploadform .uplodradio{
+    width: 100%;
+   
+  }
+  .uploadform input{
+    color: #0298a7;
+  }
+  .uplodradio .uplkjh{
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  .uplodradio h5{
+    margin-left:45px;
+    color: #02b7c2;
+  }
+  .uplodradio p{
+    font-size: 12px;
+  }
+  
+  .uplodisright .uploadbuttn{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .uploadbuttn button{
+    border: transparent;
+    outline: none;
+    background: #0298a7;
+    color: #fff;
+    padding: 2%;
+    width: 90%;
+    border-radius: 4px;
+  }
+  
+  /* -----------------------------upload page end------------------------- */
+  
+  /* -----------------------------single product page end------------------------- */
+  .singleproconta{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    margin-top: 3%;
+  }
+  .singleproconta .proimfochamb{
+    width: 90%;
+    height: auto;
+    display: flex;
+    padding: 1%;
+    background: #fff;
+    border-radius: 9px;
+  }
+  .proimfochamb .proimfoleft{
+    width: 50%;
+    height: 70vh;
+  }
+  .proimfoleft .sinproimg{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .sinproimg img{
+    width: 50%;
+    height: 100%;
+  }
+  .proimfochamb .proimforight{
+    width: 50%;
+  }
+  .proimforight .peodtinfomain{
+    width: 100%;
+    height: auto;
+  }
+  .peodtinfomain h4{
+    font-size: 22px;
+    font-weight: 400;
+  }
+  .peodtinfomain h5{
+    font-size: 17px;
+  }
+  .peodtinfomain h5 span{
+    font-size: 20px;
+    color: mediumseagreen;
+  }
+  .peodtinfomain h6{
+    font-size: 13px;
+    font-weight: 400;
+  }
+  .peodtinfomain h6 span:nth-child(1){
+    text-decoration: line-through;
+  }
+  .peodtinfomain h6 span:nth-child(2){
+    color: mediumseagreen;
+    font-weight: 504;
+  }
+  
+  .peodtinfomain p{
+    font-size: 13px;
+    font-weight: 400;
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .peodtinfomain p:nth-last-child(-n+3){
+    font-style: italic;
+  }
+  .peodtinfomain .singprodutn{
+    width: 100%;
+    height: auto;
+    margin-top: 4%;
+  }
+  
+  .peodtinfomain .singprodutn button{
+    border: transparent;
+    background: mediumseagreen;
+    color: #fff;
+    padding: 1.5% 3%;
+    border-radius: 6px;
+    font-weight: 600;
+  }
+  
+  .peodtinfomain .singpquantbtn{
+    width: 20%;
+    height: auto;
+    margin-top: 4%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #000;
+    font-weight: 600;
+    font-size: 17px;
+  }
+  .singpquantbtn button {
+    width: 35px;
+    height: 30px;
+    border: transparent;
+    color: mediumseagreen;
+  }
+  
+  .peodtinfomain .piccheck{
+    margin-top: 4%;
+  }
+  .piccheck h6{
+    font-size: 16px !important;
+  }
+  .piccheck .pinchecking{
+    width: 35%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    border-bottom: 2px solid mediumseagreen;
+  }
+  .pinchecking label{
+    color: mediumseagreen;
+    font-weight: 600;
+  }
+  .pinchecking input{
+    border: transparent;
+    outline: none;
+    color: #000;
+    font-weight: 600;
+    padding-left: 5px;
+  }
+  
+  /* -----------------------------single product page end------------------------- */
+  
+  /* --------------------category start------------------------- */
+  .categorycontainer{
+    width: 100%;
+    height: auto;
+    padding: 1.5%;
+  }
+  .categorycontainer .categoryheader{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  .categoryheader h5 {
+    font-weight: 400;
+  }
+  .categoryheader h5 span{
+    color: MediumSeaGreen;
+    font-weight: 501;
+    font-size: 25px;
+  }
+  .categorycontainer .categoryheader .view{
+    text-decoration: none;
+  }
+  .categoryheader h6{
+    color: #f85caa;
+  }
+  .categorycontainer .categoryheader .view h6:hover{
+    color: indigo;
+  }
+  
+  .categorycontainer .catcardcont{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .catcardcont .cardmain{
+    width: 15.1%;
+    height: auto;
+    padding: 0.5%;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 0.75%;
+    border: 1px solid rgb(230, 225, 225);
+    background: #fff;
+    cursor: pointer;
+  }
+  
+  .cardmain:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  
+  .cardmain .catcardimg{
+    width: 81%;
+   height: 150px; 
+   background: #fff;
+  }
+  .cardmain .catcardimg img{
+    width: 100%;
+    height: auto;
+  }
+  .cardmain .catcardtext{
+    width: 100%;
+    margin-top:2% ;
+    text-align: center;
+    background: #fff;
+  }
+  .catcardtext h6{
+    color: #000;
+    font-size: 14px;
+    padding-top: 10px;
+    word-break: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 15px;
+    max-height: 30px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    justify-content: center;
+    background: #fff;
+  }
+  /* --------------------category end------------------------- */
+  
+  /* --------------------Trending Products start------------------------- */
+   .treprocard{
+    width: 15.1%;
+    height: auto;
+    padding: 0.5%;
+    border-radius: 8px;
+    margin: 0.77%;
+    border: 1px solid rgb(230, 225, 225);
+    background: #fff;
+  }
+  .treprocard:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    cursor: pointer;
+  }
+  .treprocard .trendproimg{
+    width: 81%;
+    height: auto; 
+    margin-left: 9.5%;
+  }
+  
+  .treprocard .trendproimg img{
+    width: 100%;
+    height: auto;
+  }
+  .treprocard .trenproname{
+    height: 46px;
+    overflow:hidden ;
+  }
+  .treprocard .trenproname h6{
+    color: #000;
+    font-size: 14px;
+    margin-top: 10px;
+    word-break: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 19px;
+    max-height: 38px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    background: #fff;
+  }
+  
+  .treprocard .trenproprice{
+    margin: 2%;
+  }
+  .treprocard .trenproprice h6{
+    color: #000;
+    background: #fff;
+    font-size: 14px;
+  }
+  .trenproprice span{
+    color: MediumSeaGreen;
+    margin-left: 4%;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .treprocard .trenpromrp h6{
+    color: #000;
+    background: #fff;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  .trenpromrp span{
+    margin-left: 5%;
+    text-decoration: line-through;
+    font-weight: 400;
+  }
+  .treprocard .treprobuttn{
+    width: 100%;
+    text-align: center;
+    background: #fff;
+  }
+  .treprobuttn button{
+    width: 100%;
+    border: transparent;
+    outline: none;
+    padding: 2.5% 15%;
+    text-align: center;
+    color: #fff;
+    background: MediumSeaGreen;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  
+  /* --------------------Trending Products end------------------------- */
+  
+  /* --------------------add to cart buttons start---------------------- */
+  .catsquantity {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .catsquantity button {
+    width: 40px;
+    height: 30px;
+    text-align: center;
+    margin: 0 5px;
+    outline: none;
+    border: transparent;
+    background: #f6f6f7;
+    color: rgba(21, 27, 57, 0.6);
+    letter-spacing: 1px;
+    font-weight: 501;
+    border-radius: 5px;
+  }
+  .catsquantity span{
+    width: 30%;
+    text-align: center;
+    font-weight: 600;
+  }
+  .catsquantity .carticoss {
+    color: MediumSeaGreen;
+  }
+  /* --------------------add to cart buttons end---------------------- */
+  
+  /* --------------------Category page start------------------------- */
+  
+  .catpagecont{
+    width: 100%;
+    height: auto;
+    padding: 1%;
+  }
+  .catpagecont .catpgsecmain{
+    width: 100%;
+    height: auto;
+    display: flex;
+  }
+  .catpgsecmain .catpgmleft{
+    width: 20%;
+    height: 200vh;
+    background: #fff;
+    border-radius: 8px;
+    margin-right: 0.5%;
+    padding: 1%;
+  }
+  .catpgmleft .catfilltop{
+    width: 100%;
+    padding: 5px;
+  }
+  
+  .catfilltop .catdiscontain{
+    width: 100%;
+    margin-top: 2%;
+  }
+  .catdiscontain .tagscrol{
+    width: 100%;
+    height: 40vh;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+  }
+  .catdiscontain .tag{
+    display: flex;
+  }
+  .tag .catmapfg{
+    margin-left: 15px;
+  }
+  .catdiscontain .catdismaing{
+    width: 100%;
+    height: 40vh;
+    overflow: hidden;
+    scroll-behavior: smooth;
+    overflow-y: scroll;
+  }
+  .catdiscontain .catdismaing ul{
+    margin: 0 !important;
+    padding: 0 !important;
+  }
+  .catdismaing .catlist{
+    display: flex;
+  }
+  .catlist .catlisticon{
+    width: 20px;
+    height: 20px;
+  }
+  .catlist .catlisticon img{
+    width: 100%;
+    height: 100%;
+  }
+  .catdismaing .catlist h6{
+    font-size: 16px;
+    margin-left: 15px;
+    margin-top: 5px;
+    color: #000;
+  }
+  
+  .catpgsecmain .catpgmright{
+    width: 80%;
+    height: auto;
+    margin-left: 0.5%;
+  }
+  
+  
+  .catpgmright .catrbutfi{
+    width: 100%;
+    height: 50px;
+    height: auto;
+    display: flex;
+    align-items: center;
+  }
+  .catrbutfi .catbrcnt{
+    width: 50%;
+    height: 100%;
+  }
+  .catrbutfi .catbrcnt h5{
+    font-weight: 400;
+  }
+  .catrbutfi .catbrcnt h5 span{
+    color: MediumSeaGreen;
+    font-weight: 501;
+    font-size: 25px;
+  }
+  .catrbutfi .catbrcbutton{
+    width: 50%;
+    display: flex;
+    height: 100%;
+  }
+  
+  .catbrcbutton button{
+    padding: 2px 6px ;
+    border: transparent;
+    background: #fff;
+    outline: none;
+    border-radius: 4px;
+    color: med;
+  }
+  
+  .catpgsecmain .catpgmright .catprodumainsrt{
+    width: 100%;
+    height: auto;
+    margin-top: 10px;
+    padding: 0.5%;
+    background: #fff;
+    color: me;
+  }
+  .catprodumainsrt h5{
+    padding: 10px;
+    font-size: 15px;
+    background: transparent;
+  }
+  .catprodumainsrt h4{
+    background: transparent;
+    padding-left: 10px;
+    font-size: 15px;
+    font-weight: 503;
+    color: MediumSeaGreen;
+    text-transform: uppercase;
+  }
+  .catprodumainsrt .catrproshow{
+    width: 100%;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    background: #fff;
+  }
+  
+  .catprocard{
+    width: 18.39%;
+    height: auto;
+    padding: 0.5%;
+    border-radius: 8px;
+    margin: 0.77%;
+    border: 1px solid rgb(230, 225, 225);
+    background: #fff;
+  }
+  .catprocard:hover {
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  }
+  .catprocard .catproimg{
+    width: 83%;
+    height: auto; 
+    margin-left: 7.5%;
+  }
+  .catprocard .catproimg img{
+    width: 100%;
+    height: auto;
+  }
+  
+  .catprocard .catnproname{
+    height: 46px;
+  }
+  
+  .catprocard .catnproname h6{
+    color: #000;
+    font-size: 14px;
+    margin-top: 10px;
+    word-break: break-word;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    display: -webkit-box;
+    line-height: 19px;
+    max-height: 38px;
+    -webkit-line-clamp: 2;
+    -webkit-box-orient: vertical;
+    background: #fff;
+  }
+  
+  .catprocard .catproprice{
+    margin: 2%;
+  }
+  .catprocard .catproprice h6{
+    color: #000;
+    background: #fff;
+    font-size: 14px;
+  }
+  .catprocard span{
+    color: MediumSeaGreen;
+    margin-left: 4%;
+    font-weight: 400;
+    font-size: 16px;
+  }
+  .catprocard .catpromrp h6{
+    color: #000;
+    background: #fff;
+    font-weight: 400;
+    font-size: 13px;
+  }
+  .catpromrp span{
+    margin-left: 5%;
+    text-decoration: line-through;
+    font-weight: 400;
+    color: #000;
+  }
+  .catprocard .catprobuttn{
+    width: 100%;
+    text-align: center;
+    background: #fff;
+  }
+  .catprobuttn button{
+    width: 100%;
+    border: transparent;
+    outline: none;
+    padding: 2.5% 15%;
+    text-align: center;
+    color: #fff;
+    background: MediumSeaGreen;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+  
+  /* --------------------Category page end------------------------- */
+  
+  
+  /* --------------------cart page start------------------------- */
+  
+  /* --------------------Empty cart page start------------------------- */
+  .cartcontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 1%;
+  }
+  .cartcontainer .emptysecond{
+    width: 70%;
+    height: auto;
+  }
+  .emptysecond .emptymainsd{
+    width: 100%;
+    height: 90vh;
+    display: flex;
+    justify-content: center;
+  }
+  .emptymainsd .emptyshown{
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    align-items: center;
+  }
+  .emptyshown .emptyimga{
+    width: 100%;
+    height: 35%;
+  }
+  .emptyshown .emptyimga img{
+    width: 100%;
+    height: 100%;
+  }
+  .emptyshown .emptyname{
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+  }
+  .emptyshown .emptyperh{
+    width: 40%;
+    text-align: center;
+    margin-top: 3%;
+  }
+  .emptyshown .emptyperh p{
+    font-size: 13px;
+  }
+  .emptyshown .emptybutton{
+    width: 100%;
+    text-align: center;
+    margin-top: 3%;
+  }
+  .emptybutton button{
+    width: 45%;
+    padding: 10px 5px;
+    border: transparent;
+    background: #02b7c2;
+    color: #fff;
+    border-radius: 6px;
+    font-weight: 502;
+  
+  }
+  
+  /* --------------------Empty cart page end------------------------- */
+  
+  /* --------------------Fill cart page start------------------------- */
+  .fillcarts{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    background: #f6f6f7;
+  }
+  .fillcarts .fillcontain{
+    width: 85%;
+    height: auto;
+    padding: 1%;
+  }
+  .fillcontain .cart{
+    width: 100%;
+    height: auto;
+    display: flex;
+  }
+  .cart .cartleft{
+    width: 70%;
+    height: auto;
+    padding: 1%;
+    background: #fff;
+    border-radius: 6px;
+    margin-right: 1%;
+  }
+  .cart .cartleft h6{
+    font-size: 15px;
+    background: transparent;
+    color: #000;
+    margin: 0 3%;
+  }
+  .cartleft .cartitemcont{
+  width: 100%;
+  height: auto;
+  display: flex;
+  margin-top: 2%;
+  border-bottom: 1px solid #000;
+  padding:3% 1%;
+  }
+  .cartitemcont .caritmimag{
+    width: 10%;
+    height: auto;
+  }
+  .caritmimag .cartimagesd{
+    width: 80%;
+    height: 40px;
+    background: #000;
+  }
+  .caritmimag .cartimagesd img{
+    width: 100%;
+    height: 100%;
+  }
+  .cartitemcont .caritmdetail{
+    width: 90%;
+    height: auto;
+  }
+  .caritmdetail h5{
+    font-size: 15px;
+    color: #000;
+    font-weight: 400;
+  }
+  .caritmdetail h6{
+    font-size: 13px !important;
+    margin: 0 !important;
+    color: green !important;
+    font-weight: 400 !important;
+  }
+  .caritmdetail p{
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    margin-top: 0.4%;
+    font-style: italic;
+  }
+  
+  .caritmdetail .cartqutpri{
+    margin-top: 3%;
+    width: 100%;
+    display: flex;
+  }
+  .caritmdetail .cartqutpri .cartitemprice{
+  width: 50%;
+  }
+  .cartitemprice h5{
+    font-size: 18px !important;
+    font-weight: 501 !important;
+    color: MediumSeaGreen;
+  }
+  .cartitemprice h5 span{
+    font-size: 14px;
+    color: #000;
+    font-weight: 400;
+    text-decoration: line-through;
+  }
+  .caritmdetail .cartqutpri .cartitmquentity{
+    width: 50%;
+    text-align: right;
+    }
+    .cartqutpri .cartitmquentity button{
+    width: 15%;
+    text-align: center;
+    align-items: center;
+    border: transparent;
+    padding: 1%;
+    border-radius: 4px;
+    background: MediumSeaGreen;
+    color: #fff;
+    }
+  
+  .caritmdetail .removediv{
+    width: 100%;
+    display: flex;
+    margin-top: 3%;
+  }
+  .caritmdetail .removediv .dlvtime{
+    width: 50%;
+    text-align: center;
+    align-items: center;
+  }
+  .removediv .dlvtime p{
+    font-size: 12px;
+    font-style: normal;
+    margin-top: 3%;
+  }
+  .caritmdetail .removediv .btnnremov{
+    width: 50%;
+    text-align: right;
+    border-left: 1px solid black;
+  }
+  .removediv .btnnremov button{
+    border: transparent;
+    padding: 1% 3%;
+    border-radius: 5px;
+   
+  }
+  .dividercart{
+    border-bottom: 1px solid #000;
+    opacity: 0.4;
+    margin-top: 2%;
+  }
+  .cartleft .crtadfd{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 4%;
+  }
+  .cartleft .crtadfd h5{
+    color: MediumSeaGreen;
+    font-size: 15px;
+  }
+  .cartleft .crtadfd h5:nth-child(2){
+    font-size: 20px;
+  }
+  .cart .cartright{
+    width: 30%;
+    height: auto;
+    margin-left: 1%;
+  } 
+  .cartright .clickcoupon{
+    width: 100%;
+    height: 22vh;
+    background: #fff;
+    border-radius: 6px;
+    cursor: pointer;
+  }
+  .cartright .clickcoupon h6{
+    font-size: 14px;
+    font-weight: 501;
+    color: gray;
+    padding: 2%;
+  }
+  .clickcoupon .counrange{
+    width: 100%;
+    display: flex;
+    justify-content:space-between;
+    align-items: center;
+    margin-top: 5%;
+  }
+  .clickcoupon .counrange h5{
+    font-size: 15px;
+  }
+  .clickcoupon .optcart{
+    width: 80%;
+    margin-left: 10%;
+    margin-top: 2%;
+  }
+  .optcart p{
+    font-size: 12px;
+  }
+  .round {
+    position: relative;
+  }
+  .round label {
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 50%;
+    cursor: pointer;
+    height: 23px;
+    position: absolute;
+    width: 23px;
+  }
+  
+  .round label:after {
+    border: 2px solid #fff;
+    border-top: none;
+    border-right: none;
+    content: "";
+    height: 6px;
+    left: 5px;
+    opacity: 0;
+    position: absolute;
+    top: 5px;
+    transform: rotate(-45deg);
+    width: 12px;
+  }
+  
+  .round input[type="checkbox"] {
+    visibility: hidden;
+  }
+  
+  .round input[type="checkbox"]:checked + label {
+    background-color: MediumSeaGreen;
+    border-color: MediumSeaGreen;
+  }
+  
+  .round input[type="checkbox"]:checked + label:after {
+    opacity: 1;
+  }
+  
+  .couponcontainer{
+    width: 100%;
+    height: auto;
+    background:#fff;
+    margin-top:-3.2%;
+    padding: 2%;
+  }
+  .couponcontainer h6{
+    color: MediumSeaGreen !important;
+    padding:2%;
+  }
+  .couponcontainer .coupinput{
+    margin-top: -2%;
+    width: 100%;
+  }
+  
+  .coupinput input{
+    width: 75%;
+    border: transparent;
+    border-bottom: 1px solid #000;
+    padding: 0 5%;
+  }
+  .coupinput label{
+    text-align: center;
+    width: 25%;
+    font-size: 13px;
+    color: #f85caa;
+  }
+  
+  .couponcontainer .couponhome{
+    width: 90%;
+    height: auto;
+    background: #f6f6f7;
+    margin-left: 5%;
+    margin-top: 4%;
+    border-radius: 5px;
+    border: 1px dashed #a6a8b4;
+  }
+  
+  .cartright .cartpayment{
+    width: 100%;
+    height: auto;
+    padding: 2%;
+    background: #fff;
+    border-radius: 5px;
+  }
+  
+  .cartpayment h6{
+    font-size: 13px;
+    color: #a6a8b4;
+    font-weight: 600;
+  }
+  .cartpayment .payshowncart{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 3%;
+  }
+  .payshowncart .paydetone{
+    width: 50%;
+   
+  }
+  .payshowncart .paydetone h6{
+    color: #000 !important;
+    font-size: 15px;
+    font-weight: 400 !important;
+  }
+  .payshowncart .paydetone h6:nth-child(3){
+    font-weight: 500 !important;
+  }
+  .payshowncart .paydettwo{
+    width: 50%;
+    text-align: right;
+  
+  }
+  .payshowncart .paydettwo h6{
+    color: #000 !important;
+    font-size: 15px;
+    font-weight: 400 !important;
+  }
+  .payshowncart .paydettwo h6:nth-child(3){
+    font-weight: 500 !important;
+  }
+  .cartpayment .totalshaving{
+    margin-top: 4%;
+    width: 100%;
+    background: #f3f8ec;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .totalshaving h6{
+    text-align: center;
+    margin-top: 3%;
+    color: #378f30;
+  }
+  .cartpayment .cartcashbtn{
+    margin-top: 4%;
+    width: 100%;
+    display: flex;
+    height: 40px;
+  }
+  .cartcashbtn .tcartbhju{
+    width: 50%;
+    height: 100%;
+    margin-left: 5%;
+  }
+  .tcartbhju p {
+    margin: 0!important;
+    font-size: 11px !important;
+  }
+  .cartpayment .cartcashbtn .tcartbtn{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .cartcashbtn .tcartbtn button{
+    border: transparent;
+    outline: none;
+    background: MediumSeaGreen;
+    padding: 5% 20% !important;
+    border-radius: 4px;
+    width: auto!important;
+    color: #fff !important;
+    font-weight: 600;
+    text-align: center;
+  }
+  
+  /* --------------------Fill cart page end------------------------- */
+  
+  /* --------------------cart page end------------------------- */
+  /* --------------------Login page start------------------------- */
+  .logincontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: #f8f9fa;
+  }
+  
+  .logincontainer .logmain{
+    width: 70%;
+    height: 85vh;
+    background: #fff;
+    border-radius: 8px;
+    margin-top: 10vh;
+    padding: 0.5%;
+    display: flex;
+  }
+  
+  .logmain .logleft{
+    width: 50%;
+    height: 100%;
+  }
+  .logleft img{
+    width: 100%;
+    height: 100%;
+  }
+  
+  .logmain .logright{
+    width: 50%;
+    height: 100%;
+    padding: 1%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logright .loginputdiv{
+    width: 80%;
+  }
+  .logright .loginputdiv h3{
+    font-size: 32px;
+    padding-bottom: 3px;
+  }
+  .loginputdiv p{
+    font-size: 14px;
+  }
+  .loginputdiv .inpuscontainerlog{
+    width: 80%;
+    display: flex;
+    flex-direction: column;
+  }
+  .inpuscontainerlog label{
+    font-size: 17px;
+    margin: 5px 0 0 0;
+    font-weight: 501;
+    color: mediumseagreen;
+  }
+  .inpuscontainerlog input{
+    border: transparent;
+    border-bottom: 1px solid black;
+    outline: none;
+  }
+  .inpuscontainerlog .numberenter{
+    border-bottom: 1px solid black;
+  }
+  .inpuscontainerlog .numberenter input{
+    border-bottom: none;
+  }
+  .inpuscontainerlog .numberenter label{
+    color: #000 !important;
+  }
+  .loginputdiv .logbutton{
+    width: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 5%;
+  }
+  .logbutton button{
+    width: 100%;
+    padding: 2% 5%;
+    border: transparent;
+    outline: none;
+    border-radius: 6px;
+    background: mediumseagreen;
+    color: #fff;
+    font-weight: 501;
+  }
+  
+  .loginputdiv .butactv{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 3%;
+  }
+  .butactv h6{
+    color: black;
+  }
+  
+  .logincontainer .logters{
+    width: 18.5%;
+    text-align: center;
+    margin-top: 2%;
+  }
+  .logters p{
+    font-size: 14px;
+  }
+  .logters p span{
+    color: #f85caa;
+    font-weight: 400;
+  }
+  
+  .logmain .optpright{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content:center;
+  }
+  .optpright .optmain{
+    width: 80%;
+    height: auto;
+    padding: 3%;
+  }
+  .optmain h4{
+    color: #000;
+    font-size: 20px;
+    font-weight: 600;
+    padding-bottom: 3px;
+  }
+  .optmain p{
+    font-size: 15px;
+  }
+  
+  .optmain .numdisact{
+    margin-top: 10%;
+    width: 100%;
+    height: auto;
+  }
+  .numdisact h6{
+    font-size: 13px;
+    color: mediumseagreen;
+  }
+  .numdisact .numhubf{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    border-bottom: 1px solid #6f7284;
+  }
+  
+  .numhubf h6:nth-child(1){
+    font-size: 19px;
+    color: #000 !important;
+    font-weight: 400;
+  }
+  .numhubf h6 span{
+    font-weight: 600;
+  }
+  
+  .optmain .optbox{
+    width: 100%;
+    height: auto;
+    margin-top: 10%;
+  }
+  .optmain .optbox h6{
+    font-size: 11px !important;
+  }
+  .optbox .optcontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .optcontainer input{
+  width: 13%;
+  height: 50px;
+  margin-right: 3%;
+  text-align: center;
+  outline: none;
+  }
+  
+  .optbox .otptime{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 2%;
+  }
+  
+  .optbox .otptime h6:nth-child(1){
+    color: red;
+  }
+  
+  .optbox .otptime h6:nth-child(2){
+    color: mediumseagreen;
+  }
+  
+  .optmain .optverybtn{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 10%;
+  }
+  
+  .optverybtn button{
+    width: 80%;
+    padding: 2% 5%;
+    border: transparent;
+    outline: none;
+    background: mediumseagreen;
+    color: #fff;
+    border-radius: 6px;
+  }
+  
+  /* --------------------Login page end------------------------- */
+  
+  /* --------------------Checkout Start------------------------- */
+  /* --------------------Order page Start------------------------- */
+  .ordreviewconta{
+    width: 100%;
+    height: auto;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    padding: 3% 1%;
+  }
+  .ordreviewconta .ordrevmain{
+    width: 80%;
+    height: auto;
+    display: flex;
+  }
+  .ordrevmain .orderleft{
+    width: 65%;
+    height: auto;
+    margin-right: 1%;
+  }
+  
+  .orderleft h6{
+    font-size: 15px;
+  }
+  .orderleft .ordecontain{
+    width: 100%;
+    height: auto;
+    padding: 1%;
+    border-radius: 6px;
+    background: #fff;
+  } 
+  .ordecontain p{
+    margin: 0;
+    padding: 0;
+  }
+  .ordecontain .orderproduc{
+    width: 100%;
+    height: auto;
+    display: flex;
+    padding: 2%;
+  }
+  .orderproduc .orderimg{
+    width: 15%;
+    justify-content: center;
+    display: flex;
+  }
+  .orderimg img{
+    width: 38%;
+    height: 37px;
+  }
+  .orderproduc .ordeprodet{
+    width: 60%;
+  }
+  .ordeprodet h6{
+    color: #000;
+  }
+  .ordeprodet h5{
+    color: #000;
+    font-size: 13px;
+  }
+  .ordeprodet p{
+    color: #000;
+    font-size: 14px;
+  }
+  .ordeprodet p span{
+    font-style: italic;
+  }
+  .orderproduc .orderpricdet{
+    width: 25%;
+    text-align: right;
+  }
+  .orderpricdet h6{
+    font-size: 17px;
+    color: #f85caa;
+  }
+  .orderpricdet p{
+    font-size: 14px;
+    color: #a6a8b4;
+    margin-top: -7px;
+    text-decoration: line-through;
+  }
+  
+  .orderpricdet h5{
+    font-size: 14px;
+    color: #000;
+  }
+  .orderleft .deladselord{
+    width: 100%;
+    height: 12vh;
+    background: #fff;
+    margin-top: 4vh;
+    border-radius: 6px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 3%;
+  }
+  .clickbytn{
+    font-weight: 600;
+  }
+  
+  .deladdshowrebfd{
+    width: 100;
+    background: #fff;
+    padding:0.5% 3%;
+  }
+  .deladdshowrebfd h5{
+    font-size: 17px;
+  }
+  .deladdshowrebfd h6{
+    font-size: 14px;
+    padding: 0;
+    margin-top: 10px;
+    font-weight: 400;
+  }
+  
+  .ordrevmain .orderright{
+    width: 35%;
+    height: auto;
+    margin-left: 1%;
+  }
+  .orderright .takactnor{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    padding: 3%;
+    border-radius: 6px;
+    position: sticky;
+    top: 0;
+  }
+  .takactnor h6{
+    font-size: 13px;
+    color: #000;
+  }
+  .takactnor .revordpaycont{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+  }
+  .takactnor .revordpaycont h6{
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .revordpaycont .ewvlft{
+    width: 50%;
+  }
+  .revordpaycont .ewvlft h6:nth-child(3){
+    font-weight: 501;
+  }
+  
+  .revordpaycont .ewvright{
+    width: 50%;
+    text-align: right;
+  }
+  .revordpaycont .ewvright h6:nth-child(3){
+    font-weight: 501;
+  }
+  
+  .takactnor .revbackcol{
+    margin-top: 4%;
+    width: 100%;
+    background: #f3f8ec;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .revbackcol h6{
+    text-align: center;
+    margin-top: 3%;
+    color: #378f30;
+    text-transform: uppercase;
+  }
+  .takactnor .rewbutton{
+    width: 100%;
+    display: flex;
+    margin-top: 13px;
+  }
+  .rewbutton .buttrewleft{
+    width: 40%;
+  }
+  .buttrewleft p{
+    margin: 0;
+    padding: 0;
+    font-size: 12px;
+    color: #a6a8b4;
+    font-weight: 501;
+  }
+  
+  .rewbutton .buttrewright{
+    width: 60%;
+    justify-content: center;
+    align-items: center;
+    display: flex;
+  }
+  
+  .buttrewright button{
+    width: auto;
+    padding: 5% 20% !important;
+    border: transparent;
+    outline: none;
+    background: #02b7c2;
+    color: #fff;
+    font-weight: 501;
+    border-radius: 7px;
+  }
+  .orderright .clasfrent{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+  }
+  .clasfrent .revpreh{
+    width: 80%;
+  }
+  .revpreh p{
+    font-size: 10px;
+    font-style: italic;
+  }
+  .revpreh p span{
+    color: #f85caa;
+    cursor: pointer;
+  }
+  /* --------------------Order page end------------------------- */
+  
+  /* --------------------Payment page Start------------------------- */
+  .paymentcontainer{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .paymentcontainer .paymentctmains{
+    width: 80%;
+    height: auto;
+    margin-top: 10px;
+    padding: 2%;
+    display: flex;
+  }
+  
+  .paymentctmains .paymentleft{
+    width: 65%;
+    height: auto;
+  }
+  .paymentleft .cashdel{
+    width: 100%;
+    background: #fff;
+    padding: 1%;
+    border-radius: 5px;
+    height: 18vh;
+    display: flex;
+    margin: 20px 0;
+  }
+  .cashdel .payicon{
+    width: 15%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+  }
+  .cashdel .payicon img{
+    width: 60px;
+    height: 60px;
+  }
+  .cashdel .payname{
+    width: 75%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .payname h6{
+    text-align: left !important;
+  }
+  .payname p{
+    font-size: 11px;
+  }
+  .cashdel .payinpu{
+    width: 10%;
+    height: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+  }
+  .paymentctmains .paymentright{
+    width: 35%;
+    height: auto;
+    padding: 1%;
+  }
+  
+  .paymentright .patmtpay{
+    width: 100%;
+    height: auto;
+    background: #fff;
+    padding: 3%;
+    border-radius: 6px;
+    position: sticky;
+    top: 0;
+  }
+  
+  .patmtpay h6{
+    font-size: 13px;
+    color: #000;
+  }
+  .patmtpay .revordpaycont{
+    width: 100%;
+    display: flex;
+    margin-top: 10px;
+  }
+  .patmtpay .revordpaycont h6{
+    font-size: 16px;
+    font-weight: 400;
+  }
+  .patmtpay .revbackcol{
+    margin-top: 4%;
+    width: 100%;
+    background: #f3f8ec;
+    height: 35px;
+    border-radius: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .patmtpay .rewbutton{
+    width: 100%;
+    display: flex;
+    margin-top: 13px;
+  }
+  /* --------------------Payment page end------------------------- */
+  
+  /* -----------------------------Order Sucess start------------------------- */
+  
+  .ordersusmain{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding: 1%px;
+  }
+  .ordersusmain .successdisplay{
+    width: 70%;
+    height: auto;
+    margin-top: 2%;
+    display: flex;
+  }
+  .successdisplay .successleft{
+    width: 65%;
+    height: auto;
+  }
+  .successdisplay .successleft .succboxone{
+    width: 100%;
+    height: 110px;
+    background: #fff;
+    border-radius: 4px;
+    display: flex;
+    align-items: center;
+    padding: 1%;
+  }
+  .successleft .succboxone .boxonelefr{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  
+  }
+  .succboxone .boxonelefr h4{
+    font-size: 20px;
+  }
+  .succboxone .boxonelefr h6{
+    font-size: 10px;
+  }
+  .successleft .succboxone .boxoneright{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .succboxone .boxoneright .bofds{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background: #dedfe5;
+    text-align: center;
+    margin-left: 70%;
+  }
+  .successdisplay .sucessright{
+    width: 35%;
+    height: auto;
+  }
+  .sucessright .ordeslkjdis{
+    width: 100%;
+    height: 200px;
+    background: #fff;
+    padding: 10px;
+  }
+  
+  .ordeslkjdis h5{
+    font-size: medium;
+  }
+  .ordeslkjdis h6{
+    font-size: 12px !important;
+    color: orange;
+  }
+  
+  .ordeslkjdis p{
+    font-size: 13px;
+    color: #555;
+  }
+  .ordeslkjdis .succtrac{
+  width: 100%;
+  height: 40px;
+  display: flex;
+  }
+  .succtrac .estdate{
+    width: 50%;
+    height: 100%;
+  }
+  .succtrac .estdate h5{
+    font-size: 13px;
+    color: #ef4281;
+  }
+  .succtrac .estdate h6{
+    font-size: 13px;
+    color: #151b39;
+  }
+  .succtrac .tracbuts{
+    width: 50%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .succtrac .tracbuts button{
+    width: 90%;
+    height: 90%;
+    border: transparent;
+    background: #02b7c2;
+    border-radius: 6px;
+    color: #fff;
+    font-weight: 500;
+  }
+  
+  /* -----------------------------Order Sucess end------------------------- */
+  
+  /* --------------------Checkout end------------------------- */
+  
+  
+  /* ---------------------------------customer container start-------------------------------------- */
+  
+  /* --------------------User data start------------------------- */
+  .userdtcontainer{
+    width: 100%;
+    height: 100%;
+  }
+  .userdtcontainer .userdtmain{
+    width: 100;
+    height: 80%;
+    margin-top:5%;
+    display: flex;
+  }
+  .userdtmain .udataleft{
+    width: 30%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+  } 
+  .udataleft .usericodiv{
+    width: 50px;
+    height: 50px;
+    background: #ADD8E6;
+    border-radius: 50%;
+  }
+  .userdtmain .udataright{
+    width: 70%;
+    height: 100%;
+  }
+  .udataright p{
+    font-style: italic;
+  }
+  .udataright h6{
+    font-size: 14px;
+  }
+  /* --------------------User data end------------------------- */
+  
+  /* --------------------Method card start------------------------- */
+  .mrthodCardcontain{
+    width: 100%;
+    height: 100%;
+  }
+  .mrthodCardcontain .methodcardmain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .methodcardmain .methodcrdimg{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+  }
+  .methodcrdimg img{
+    width: 50px;
+    height: 50px;
+  }
+  .methodcrdimg h6{
+    font-size: 13px;
+    color: black;
+    cursor: pointer;
+    margin-top: 10px;
+    font-weight: 400;
+  }
+  /* --------------------Method card end------------------------- */
+  /* --------------------Nav card start------------------------- */
+  
+  .profilelink{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+    padding: 2% 4% ;
+  }
+  .profilelink .profnavname{
+    display: flex;
+    align-items: center;
+    width: 80%;
+    height: 100%;
+    
+  }
+  .profilelink .profnavname .proficon{
+    width: 30px;
+    height: 30px;
+    background: #f6f6f7;
+    border-radius: 50%;
+    text-align: center;
+    color: #6c757d;
+    margin-right: 10px;
+  }
+  .profilelink .profnavname h6{
+    color: #151b39;
+    text-align: center;
+    float: left;
+    cursor: pointer;
+  }
+  .profilelink .profnavicon{
+    color: #6c757d;
+    text-align: center;
+    width: 20%;
+  }
+  
+  /* --------------------Nav card end------------------------- */
+  
+  /* --------------------Customer page layout start------------------------- */
+  .acctotalcontain{
+    width: 100%;
+    height: auto;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 4%;
+  }
+  .acctotalcontain .acctotalmain{
+    width: 80%;
+    height: auto;
+  }
+  .acctotalcontain .acctotalmain h4{
+    color: #000;
+    font-size: 24px;
+  }
+  .acctotalmain .accountmain{
+    width: 100%;
+    height: auto;
+  }
+  .accountmain .accounttobc{
+    width: 100%;
+    height: 22vh;
+    display: flex;
+    margin-bottom: 2%;
+  }
+  .accounttobc .tobcleft{
+    width: 30%;
+    height: 100%;
+    background: #fff;
+    margin-right: 1%;
+    border-radius: 6px;
+  }
+  .accounttobc .tobcright{
+    width: 70%;
+    height: 100%;
+    background: #fff;
+    margin-left: 1%;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .accountmain .accountbotobc{
+    width: 100%;
+    height: auto;
+    display: flex;
+    margin-top: 2%;
+  }
+  
+  .accountbotobc .botobleft{
+    width: 30%;
+    height: 52vh;
+    background: #fff;
+    margin-right: 1%;
+    border-radius: 6px;
+  }
+  .accountbotobc .userdata{
+    width: 70%;
+    height: 45vh;
+    background: #fff;
+    border-radius: 6px;
+    margin-left: 1%;
+  }
+  
+  .accountbotobc .orderhistory{
+    width: 70%;
+    height: auto;
+    border-radius: 6px;
+    margin-left: 1%;
+  }
+  
+  .accountbotobc .mdswallet{
+    width: 70%;
+    height: auto;
+    margin-left: 1%;
+  }
+  .accountbotobc .prescription{
+    width: 70%;
+    height: 12vh;
+    margin-left: 1%;
+    background: #fff;
+    border-radius: 6px;
+  }
+  
+  /* --------------------Customer page layout  end------------------------- */
+  
+  /* --------------------order history page start------------------------- */
+  .ordgistocontain{
+    width: 100%;
+    height: auto;
+  }
+  .ordgistocontain .ordhistomain{
+    width: 100%;
+    height: 35vh;
+    background: #fff;
+    padding: 2%;
+    border-radius: 6px;
+    margin: 2% 0;
+  }
+  .ordhistomain h5{
+    color: #000;
+  }
+  .ordhistomain h6{
+    color: #000;
+    font-size: 15px;
+  }
+  
+  .ordhistomain .orderdetcont{
+    margin-top: 4%;
+    width: 100%;
+    display: flex;
+    height: 5vh;
+    align-items: center;
+  }
+  .orderdetcont .ordrhistimg{
+    width: 40px;
+    height: auto;
+  }
+  .ordrhistimg img{
+    width: 100%;
+  }
+  
+  .orderdetcont .ordrhistname{
+    margin-left: 2%;
+  }
+  .ordrhistname h6{
+    color: #6c757d;
+    font-weight: 400;
+  }
+  
+  .ordhistomain .orderhistobutt{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 3%;
+    width: 100%;
+  }
+  
+  .orderhistobutt button{
+    width: 45%;
+    padding: 1.5% 2%;
+    margin: 0 1%;
+    outline: none;
+    border: transparent;
+    border-radius: 6px;
+    color: rgba(11,18,25,.75) !important;
+    background: #f3f7fb;
+    font-weight: 600;
+  }
+  
+  
+  .orderhistobutt button:nth-child(2){
+    background: #dff2f2;
+    color: #0b7e81 !important;
+  }
+  
+  /* --------------------order history page end------------------------- */
+  
+  /* -----------------------------OrderDetails start------------------------- */
+  .ordhistmain{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  
+  .ordhistmain .ordersheet{
+    width: 80%;
+    height: auto;
+  }
+  
+  .ordhistmain .ordersheet .detailcontainerd{
+    width:100%;
+    height: auto;
+    display: flex;
+    margin-top: 10px;
+  }
+  
+  .ordhistmain .ordersheet .detailcontainerd .ordevholeft{
+    width: 70%;
+    height: auto;
+    border-radius: 8px;
+    margin: 10px;
+  }
+  .detailcontainerd .ordevholeft .lefyhjhghyb{
+    width: 100%;
+    height: 250px;
+    display: flex;
+  }
+  
+  .detailcontainerd .ordevholeft .ordphase{
+    width: 100%;
+    height: 180px;
+    background: #fff;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  
+  .ordevholeft .ordphase h6{
+    margin: 6px;
+    font-size: 14px;
+    color: rgba(21,27,57,.6);
+    line-height: 16px;
+    letter-spacing: 1px;
+  }
+  
+  .ordevholeft .ordphase .orcontyph{
+    width: 100%;
+    height: 60%;
+    display: flex;
+  }
+  
+  .ordphase .orcontyph .otdimgf{
+    width: 10%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ordphase .orcontyph .otdimgf img{
+    width: 80%;
+    height: 80%;
+  }
+  .ordphase .orcontyph .ordfname {
+    width: 65%;
+    height: 100%;
+  
+  }
+  .orcontyph .ordfname .namejgh{
+    width: 100%;
+    height: 100%;
+    margin-top: 10px;
+  }
+  .ordfname .namejgh h6{
+  font-size: 16px;
+  color: #151b39;
+  }
+  .ordphase .orcontyph .ordfprivc{
+    width: 25%;
+    height: 100%;
+    text-align: right !important;
+  }
+  
+  .orcontyph .ordfprivc h5{
+    color: #ef4281;
+    font-size: 18px;
+  }
+  .orcontyph .ordfprivc h6{
+    color: #151b39;
+    font-size: 12px;
+    text-decoration: line-through;
+  }
+  
+  .ordphase .showstatus{
+    width: 100%;
+    height: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .ordphase .showstatus button{
+    border: transparent;
+    color: #02b7c2;
+    font-size: 18px;
+    background: transparent;
+    font-weight: 600;
+  }
+  .ordhistmain .ordersheet .detailcontainerd .rightordcont{
+    width: 30%;
+    height: 400px;
+    border-radius: 8px;
+    margin-left: 3%;
+  }
+  
+  .ordhistmain .ordersheet .detailcontainerd .ordevholeft .leftobe{
+    width: 50%;
+    height: 100%;
+    background:#fff;
+    padding-left: 15px;
+  }
+  
+  .ordevholeft .leftobe h6{
+    margin: 6px;
+    font-size: 14px;
+    color: rgba(21,27,57,.6);
+    line-height: 16px;
+    letter-spacing: 1px;
+  }
+  .ordevholeft .leftobe .ordedtlshg{
+    width: 95%;
+    height: 210px;
+  }
+  .ordevholeft .leftobe .ordedtlshg .ordfglist{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+  }    
+  .ordedtlshg .ordfglist .ordfmnbvc{
+    width: 37%;
+  }
+  .ordedtlshg .ordfglist .ordfmnbvc h6{
+    color: #151b39;
+    font-size: 13px;
+  }
+  .ordedtlshg .ordfglist .ordddmmnbv h6{
+    color: #151b39;
+    font-size: 13px;
+  }
+  .ordedtlshg .ordfglist .ordddmmnbv{
+    text-align: right !important;
+    width: 63%;
+  }
+  .ordevholeft .leftobe .ordedtlshg .ordfglist:nth-child(even){
+    background: #f6f6f7;
+  }
+  .ordevholeft .leftobe .addrscontord{
+    width: 100%;
+    height: 190px;
+    margin-top: 20px;
+  
+  }
+  .leftobe .addrscontord h5{
+    color: #151b39;
+    font-size: 16px;
+    margin-left: 5px;
+  }
+  .leftobe .addrscontord h6{
+    font-size: 12px;
+    color: #151b39;
+    line-height: 12px;
+    margin-top: 16px;
+    word-break: break-word;
+  }
+  .rightordcont .ordestatusbar{
+    width: 100%;
+    height: 65px;
+    background: #151b39;
+    border-radius: 8px;
+    align-items: center;
+    display: flex;
+    justify-content: center;
+  } 
+  .rightordcont .ordestatusbar .statusicon{
+    width: 30px;
+    height: 30px;
+    background: #f6f6f7;
+    border-radius: 50%;
+    align-items: center;
+  }
+  .ordestatusbar .statusicon .FaInfo{
+    margin-left: 6px;
+  }
+  .rightordcont .ordestatusbar h6{
+    font-size: 12px;
+    color: #f5a623;
+    text-align: center;
+    margin-top: 8px;
+    margin-left: 10px;
+  }   
+  .rightordcont .paymenidogdf{
+    width: 100%;
+    height: 240px;
+    border-radius: 8px;
+    background: #fff;
+    margin-top: 20px;
+    padding: 10px;
+  }
+  .rightordcont .paymenidogdf h5{
+    margin: 5px;
+    font-size: 14px;
+    color: rgba(21,27,57,.6);
+    line-height: 16px;
+    letter-spacing: 1px;
+  }
+  .paymenidogdf .payordshow{
+    width: 100%;
+    height: 200px;
+  }
+  
+  .paymenidogdf .payordshow .ordfglist{
+    width: 100%;
+    height: 25%;
+    display: flex;
+    align-items: center;
+  }
+  
+  .payordshow .ordfglist .ordfmnbvc{
+    width: 50%;
+    padding: 5px;
+    align-items: center;
+  }
+  .payordshow .ordfglist .ordfmnbvc h6{
+    color: #151b39;
+    font-size: 13px;
+  }
+  .payordshow .ordfglist .ordddmmnbv h6{
+    color: #151b39;
+    font-size: 13px;
+  }
+  
+  .payordshow .ordfglist .ordddmmnbv{
+    text-align: right !important;
+    width: 50%;
+    padding: 5px;
+    align-items: center;
+  }
+  
+  .payordshow .ordfglist:nth-child(even){
+    background: #f6f6f7;
+  }
+  .rightordcont .needhelp{
+    width: 100%;
+    height: 45px;
+    margin-top: 30px;
+    display: flex;
+  }
+  
+  .rightordcont .needhelp button{
+    width: 49%;
+    height: 100%;
+    border: transparent;
+    font-weight: 501;
+    border-radius: 5px;
+  }
+  .rightordcont .needhelp button:nth-child(1){
+    background: #dff2f2;
+      color: #0b7e81;
+      text-transform: none;
+  }
+  .rightordcont .needhelp button:nth-child(2){
+    background: #151b39!important;
+    color: #fff!important;
+    text-transform: none;
+  }
+  
+  
+  /* -----------------------------OrderDetails end------------------------- */
+  
+  /* ------------------------account data start------------------------- */
+  
+  .accntdata{
+    width: 100%;
+    height: 100%;
+  }
+  .accntdata .accdattop{
+    width: 100%;
+    height: 80%;
+    display: flex;
+  }
+  .accdattop .accdataleft{
+    width: 50%;
+    height: 100%;
+    padding: 3% 5%;
+  }
+  .accdataleft h5{
+    font-size: 14px;
+  }
+  .accdataleft .infoacc{
+    width: 100%;
+    margin-top: 10%;
+    border-bottom: 1px solid #a6a8b4;
+  }
+  .infoacc h5{
+    margin: 0 !important;
+    color: #02b7c2;
+  }
+  .infoacc h6{
+    font-weight: 400;
+    margin-top: 2.5%;
+  }
+  .accntdata .accdatbottom{
+    display: flex;
+    justify-content: end;
+    margin-right: 5%;
+    margin-bottom: 5%;
+  }
+  .accdatbottom button{
+    background: #f6f6f7;
+    width: 120px;
+    text-align: center;
+    padding: 10px 0;
+    font-family: Lato;
+    font-size: 14px;
+    color: #ef4281;
+    line-height: 20px;
+    border-radius: 4px;
+    border: transparent;
+  }
+  /* ------------------------account data end------------------------- */
+  
+  /* ------------------------mdswallet start------------------------- */
+  .walletconta{
+    width: 100%;
+    height: auto;
+  }
+  .walletconta .showbalance{
+    margin-left: 3%;
+  }
+  .walletconta .showbalance h6{
+    color: #000;
+    font-size: 13px;
+  }
+  .walletconta .walletmain{
+    margin-top: 4%;
+    width: 100%;
+    height: auto;
+    display: flex;
+  }
+  .walletmain .malletcard{
+    width: 45%;
+    height: 15vh;
+    background: #378f30;
+    margin: 0 2%;
+    border-radius: 6px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .malletcard .wallsym{
+    width: 20%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .wallsym .wallicon{
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    background: #ADD8E6;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 23px;
+  }
+  .malletcard .wallnam{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+  }
+  .wallnam h6{
+    color: #fff;
+    font-size: 15px;
+  }
+  .malletcard .wallvalu{
+    width: 40%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+  .wallvalu h5{
+    font-size: 16px;
+    color: #fff;
+  }
+  .wallvalu h6{
+    font-size: 12px;
+  }
+  
+  /* ------------------------mdswallet end------------------------- */
+  /* ------------------------prescription start------------------------- */
+  .prescmain{
+    width: 100%;
+    height: 100%;
+  }
+  .prescmain .presmain{
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .presmain h6{
+    color: #000;
+  }
+  /* ------------------------prescription end------------------------- */
+  
+  /* ---------------------------------customer container end-------------------------------------- */
+  
+  @media screen and (max-width: 425px) {
+  
+  }
+  
+  
+  
+  
+  @media screen and (max-width: 600px) {
+    .homeSlider .homeSliderImg{
+      height: 120px;
+    }
+    .uploadmanu{
+      flex-direction: column;
+    } 
+    .homloon{
+      margin-bottom: 8vh;
+    }
+    .footer{
+      display: none;
+    }
+    .serchcontainert{
+      margin-bottom: 8vh;
+    }
+    .categoryheader h4{
+      font-size: 17px;
+    }
+    .categoryheader h6{
+      font-size: 11px;
+    }
+    .catcardcont .cardmain{
+      width: 31.8%;
+      border-radius: 5px;
+      margin: 0.75%;
+    }
+    .catcardtext h6{
+      font-size: 13px;
+      line-height: 16px;
+    }
+    .cardmain .catcardimg{
+     
+      height: auto; 
+     }
+     .cardmain .catcardtext{
+      width: 100%;
+    }
+    .catcardtext .h6{
+      font-size: 9px !important;
+    }
+  
+   .treprocard{
+      width: 31.8%;
+      height: auto;
+      padding: 0.5%;
+      border-radius: 8px;
+      margin: 0.75%;
+    }
+    .treprocard .trendproimg{
+      width: 90%;
+      height: auto; 
+      margin-left: 5%;
+    }
+    .treprocard .trenproname h6{
+      font-size: 12px;
+      word-break: break-word;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      line-height: 19px;
+      max-height: 19px;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+    }
+    .treprocard .trenproprice h6{
+      font-size: 12px;
+    }
+    .trenproprice span{
+      font-size: 13px;
+    }
+    .treprocard .trenpromrp h6{
+      font-size: 12px;
+    }
+    .treprobuttn button{
+      padding: 1% 5%;
+      border-radius: 4px;
+    }
+  
+    .catpgsecmain .catpgmleft{
+      display: none;
+    }
+    .catpgsecmain .catpgmright{
+      width: 100%;
+    }
+    .catpgmright .catrbutfi{
+      display: none;
+    }
+  
+    .catprocard{
+      width: 31.8%;
+      height: auto;
+      padding: 0.5%;
+      border-radius: 8px;
+      margin: 0.75%;
+    }
+  
+    .catprocard .catnproname{
+      height: 19px;
+    }
+  
+    .catprocard .catnproname h6{
+      font-size: 12px;
+      word-break: break-word;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      display: -webkit-box;
+      line-height: 19px;
+      max-height: 19px;
+      -webkit-line-clamp: 1;
+      -webkit-box-orient: vertical;
+    }
+  
+    .catprobuttn button{
+      padding: 1% 5%;
+      border-radius: 4px;
+    }
+  
+    .cartcontainer .emptysecond{
+      width: 100%;
+    }
+    .cartcontainer .emptysecond h4{
+      margin: 5% ;
+    }
+    .catprocard .catproprice h6{
+      font-size: 12px;
+    }
+    .catproprice span{
+      font-size: 13px;
+    }
+  
+    .catprocard .catpromrp h6{
+      font-size: 12px;
+    }
+    .catpromrp span{
+      font-size: 14px;
+    }
+  
+    .emptymainsd .emptyshown{
+      width: 100%;
+    }
+  
+    .emptyshown .emptyperh{
+      width: 70%;
+    }
+    .emptybutton button{
+      width: 80%;
+      padding: 10px 5px;  
+    }
+  
+    .fillcarts .fillcontain{
+      width: 100%;
+      padding: 1%;
+      margin-bottom: 10vh;
+    }
+    .fillcontain .cart{
+      flex-direction: column;
+    }
+    .cart .cartleft{
+      width: 100%;
+      margin: 0;
+    }
+    .cart .cartright{
+      width: 100%;
+      margin-left: 0;
+      margin-top: 6%;
+    } 
+  
+    .caritmdetail .removediv{
+      flex-direction: column;
+    }
+  
+    .caritmdetail .removediv .dlvtime{
+      width: 100%;
+    }
+  
+    .caritmdetail .removediv .btnnremov{
+      width: 100%;
+      text-align: center !important;
+      border-left: none;
+    }
+    .cartright .clickcoupon{
+      height: 15vh;
+    }
+  
+    .seched{
+      display: none;
+    }
+    .mainheader{
+      display: none;
+    }
+  
+    .mobilehead{
+      display: block;
+      width: 100%;
+      height: 100%;
+      background: #FFF;
+      margin-bottom: 2%;
+  
+    }
+    .mobilehead .mobikecontain{
+      width: 100%;
+      height: 7vh;
+      background: rgb(222, 191, 191) !important;
+      position: sticky !important;
+      top: 0;
+      left: 0;
+      z-index: 9999;
+      padding: 1%;
+      display: flex;
+      justify-content: space-between;
+    }
+    .mobikecontain .moblogo{
+      height: 100%;
+      display: flex;
+      align-items: center;
+    }
+    .mobikecontain .mobichrd{
+      width: 30%;
+      height: 100%;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+  
+    }
+    .mobikecontain .mobichrd ul{
+      display: flex;
+      margin-top: 10px;
+    }
+    .mobichrd ul li{
+      margin-right: 20px;
+      text-align: right !important;
+    }
+    .mobilehead .mbheadinput{
+      margin-top: 10px;
+      padding: 1px 10px;
+    }
+    .mbheadinput h6{
+      font-size: 13px;
+    }
+    .mbheadinput h6 span {
+      font-size: 14px;
+      margin: 0 3px;
+    }
+    .mobilehead .mbserchbx{
+      width: 100%;
+      height: auto;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .mbserchbx .sefghb{
+      width: 90%;
+      height: 6vh;
+      display: flex;
+      border: 1px solid #000;
+      border-radius: 6px;
+      text-align: center;
+      align-items: center;
+    }
+    .sefghb .seriputboxf{
+      width: 90%;
+    }
+    form{
+      width: 100%;
+      height: 100%;
+    }
+    .sefghb .seriputboxf input{
+      width: 90%;
+      border: transparent;
+      outline: none;
+      background: transparent;
+    }
+    .sefghb .seripiconb{
+      width: 10%;
+    }
+    .mobilehead .mobilehedfot{
+      width: 100%;
+      height: 8vh;
+      background: rgb(222, 191, 191) !important;
+      position: fixed;
+      bottom: 0 ;
+      left: 0;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .mobilehedfot ul{
+      width: 100%;
+      display: flex;
+      justify-content: space-around;
+      padding: 0;
+      margin: 0;
+    }
+  
+    .logincontainer .logmain{
+      width: 100%;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .logmain .logleft{
+      width: 100%;
+    }
+  
+    .logmain .logleft{
+      width: 50%;
+      height: 100%;
+    }
+  
+    .logmain .logright{
+      width: 95%;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+    }
+  
+    .logright .loginputdiv{
+      width: 90%;
+    }
+    .loginputdiv .inpuscontainerlog{
+      width: 100%;
+    }
+    .logincontainer .logters{
+      display: none;
+    }
+    .loginputdiv .logbutton{
+      width: 100%;
+    }
+  
+    .ordreviewconta .ordrevmain{
+      width: 100%;
+      flex-direction: column;
+    }
+    .ordrevmain .orderleft{
+      width: 100%;
+    }
+    .ordrevmain .orderright{
+      width: 100%;
+      margin-top: 10%;
+    }
+  
+    .orderright .clasfrent{
+      margin-top: 30px;
+    }
+  
+    .revpreh p{
+      font-size: 11px;
+    }
+  
+    .paymentcontainer .paymentctmains{
+      width: 100%;
+      flex-direction: column;
+    }
+  
+    .cashdel .payicon img{
+      width: 40px;
+      height: 40px;
+    }
+  
+    .paymentctmains .paymentleft{
+      width: 100%;
+    }
+    .paymentctmains .paymentright{
+      width: 100%;
+    }
+    .ordersusmain .successdisplay{
+      width: 100%;
+      flex-direction: column;
+    }
+  
+    .successdisplay .successleft{
+      width: 100%;
+    }
+    .succboxone .boxonelefr h4{
+      font-size: 15px;
+    }
+    .successdisplay .sucessright{
+      width: 100%;
+    }
+    .succtrac .tracbuts button{
+      width: 70%;
+      height: 70%;
+      font-size: 12px;
+    }
+  
+    .catsquantity button {
+      width: 30px;
+      height: 20px;
+      border-radius: 3px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+    }
+    .catsquantity span{
+      font-size: 13px;
+    }
+  
+    .accountmain .accounttobc{
+      height: 25vh;
+    }
+    .mrthodCardcontain .methodcardmain{
+      padding: 2%;
+    }
+  
+    .methodcardmain .methodcrdimg{
+      width: 30%;
+    }
+  
+    .acctotalcontain .acctotalmain{
+      width: 100%;
+    }
+  
+    .accounttobc .tobcleft{
+      width: 100%;
+      margin-right: 0;
+    }
+    .accounttobc .tobcright{
+      width: 100%;
+      margin-left: 0;
+      margin-top: 2vh;
+    }
+    .accountmain .accounttobc{
+      flex-direction: column;
+    }
+    .accountmain .accountbotobc{
+      flex-direction: column;
+      margin-top: 10vh;
+    }
+    .accountbotobc .botobleft{
+      width: 100%;
+      height: auto;
+      margin-right: 0;
+    }
+  
+    .accountbotobc .accountight{
+      display: none;
+    }
+  
+    .uploadcont .uplomain{
+      width: 100%;
+    }
+  
+    .uplomain .uplodissd{
+      flex-direction: column;
+    }
+  
+    .uplomain .uplodissd .uplodfleft{
+      width: 100%;
+      padding: 5px;
+    }
+  
+    .uplomain .uplodissd .uplodisright{
+      width: 100%;
+      margin-top: 4vh;
+    }
+  
+    .previewImage img{
+      width: 90px;
+      height: 90px;
+    }
+    .accountbotobc .orderhistory{
+      width: 100%;
+    }
+    .ordgistocontain .ordhistomain{
+      height: auto;
+    }
+  
+    .ordhistmain{
+      padding: auto;
+    }
+  
+  
+    .ordhistmain .ordersheet{
+      width: 100%;
+    }
+    .ordhistmain .ordersheet .detailcontainerd{
+      flex-direction: column;
+    }
+  
+    .ordhistmain .ordersheet .detailcontainerd .ordevholeft{
+      width: 100%;
+      margin: 0;
+    }
+    .detailcontainerd .ordevholeft .lefyhjhghyb{
+      height: auto;
+      flex-direction: column;
+    }
+    .ordhistmain .ordersheet .detailcontainerd .ordevholeft .leftobe{
+      width: 100%;
+      padding-left: 0;
+    }
+    .ordhistmain .ordersheet .detailcontainerd .rightordcont{
+      width: 100%;
+      margin-left: 0;
+    }
+  /* -----------------------customer start------------------------ */
+  .accountbotobc .mdswallet{
+    width: 100%;
+    margin-left: 0%;
+  }
+  .walletconta .walletmain{
+    flex-direction: column;
+  }
+  .walletmain .malletcard{
+    width: 100%;
+    margin: 0;
+  }
+  .accountbotobc .userdata{
+    width: 100%;
+    margin-left: 0;
+  }
+  /* -----------------------customer end------------------------ */
+  
+  .mobhead{
+    display: block;
+    width: 100%;
+    height: 17vh;
+    position: sticky;
+    top: 0;
+    left: 0;
+    z-index: 9999 !important;
+    background: #fff;
+    box-shadow: rgb(0 0 0 / 8%) 0px 4px 7px;
+    padding: 1vh;
+  }
+  .mobhead .mobtop {
+    width: 100%;
+    height: 8vh;
+    display: flex;
+  }
+  .mobhead .mobtop .movtopleft{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .mobhead .mobtop .movtopleft img{
+    width: 70%;
+  }
+  .mobhead .mobtop .mobtopright{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .mobtop .mobtopright ul{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 2vh;
+    width: 70%;
+  }
+  .mobtop .mobtopright ul li{
+    font-size: 23px;
+    color: #0b1219;
+  }
+  .mobhead .mobserch{
+    width: 100%;
+    padding: 0 3vh;
+    height: 6vh;
+    margin-top: 1vh;
+  }
+  .mobhead .mobserch input{
+    width: 90%;
+    height: 100%;
+    outline: none;
+    border: 1px solid black;
+    border-radius: 5px 0 0 5px;
+  }
+  .mobhead .mobserch button{
+    width: 10%;
+    height: 100%;
+    border-radius: 0 5px  5px 0;
+    border: 1px solid black;
+    text-align: center;
+  }
+  .mobsticky{
+    display: block;
+    width: 100%;
+    height: 8vh;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    z-index: 9999 !important;
+    background: #fff;
+    box-shadow: rgb(0 0 0 / 8%) 0px 4px 7px;
+  }
+  
+  .mobsticky .mostimain{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100%;
+  }
+  .mostimain ul{
+    margin-top: 2vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 100%;
+    margin-left: -5vh;
+  }
+  .mostimain ul li{
+    font-size: 25px;
+    color: #0b1219;
+  }
+  }
